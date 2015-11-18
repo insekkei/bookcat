@@ -1,0 +1,78 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 13,
+		"average": "7.6",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"Pawel Kozlowski",
+		"Peter Bacon Darwin"
+	],
+	"pubdate": "2013-8-23",
+	"tags": [
+		{
+			"count": 19,
+			"name": "AngularJS",
+			"title": "AngularJS"
+		},
+		{
+			"count": 16,
+			"name": "JavaScript",
+			"title": "JavaScript"
+		},
+		{
+			"count": 7,
+			"name": "Web前端",
+			"title": "Web前端"
+		},
+		{
+			"count": 5,
+			"name": "angularjs",
+			"title": "angularjs"
+		},
+		{
+			"count": 2,
+			"name": "WebApp",
+			"title": "WebApp"
+		},
+		{
+			"count": 2,
+			"name": "UI",
+			"title": "UI"
+		},
+		{
+			"count": 1,
+			"name": "js",
+			"title": "js"
+		},
+		{
+			"count": 1,
+			"name": "angular,",
+			"title": "angular,"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img2.doubanio.com\/mpic\/s27090337.jpg",
+	"binding": "Paperback",
+	"translator": [],
+	"catalog": "",
+	"pages": "372",
+	"images": {
+		"small": "https:\/\/img2.doubanio.com\/spic\/s27090337.jpg",
+		"large": "https:\/\/img2.doubanio.com\/lpic\/s27090337.jpg",
+		"medium": "https:\/\/img2.doubanio.com\/mpic\/s27090337.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/24669812\/",
+	"id": "24669812",
+	"publisher": "Packt Publishing",
+	"isbn10": "1782161821",
+	"isbn13": "9781782161820",
+	"title": "Mastering Web Application Development with AngularJS",
+	"url": "http:\/\/api.douban.com\/v2\/book\/24669812",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "",
+	"price": "USD 44.99"
+}

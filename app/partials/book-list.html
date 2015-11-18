@@ -1,0 +1,32 @@
+<div class="container-fluid">
+  	<div class="row">
+	    <div class="col-md-2">
+		    <!--Sidebar content-->
+		    <input ng-model="query" placeholder="search here...">
+		    <p>排序方式:</p>
+			<select ng-model="orderProp">
+			  <option value="title">书名</option>
+			  <option value="rating">评分</option>
+			</select>
+
+	    </div>
+	    <div class="col-md-10">
+	      <!--Body content-->
+			<p>总共找到了<span class="number">{{books.length}}</span>本书：</p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:query | orderBy:orderProp"
+					class="thumbnail book-listing">
+					<a href="#/books/{{book.id}}">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a href="#/books/{{book.id}}">
+						<span>{{book.title}}</span>
+					</a>
+
+					<p>{{book.summary}}</p>
+				</li>
+			  </li>
+			</ul>
+		</div>
+		</div>
+</div>
