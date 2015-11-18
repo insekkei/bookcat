@@ -18,6 +18,6 @@ bookcatApp.config(['$routeProvider',
 				controller: 'BookDetailCtrl'
 			}).
 			otherwise({
-				redirectTo: '/phones'
+				redirectTo: '/books'
 			});
 	}]);
