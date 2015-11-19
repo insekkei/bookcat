@@ -1,0 +1,85 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 116,
+		"average": "8.6",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"Lynn Beighley",
+		"Michael Morrison"
+	],
+	"pubdate": "2010-6",
+	"tags": [
+		{
+			"count": 190,
+			"name": "PHP",
+			"title": "PHP"
+		},
+		{
+			"count": 106,
+			"name": "Mysql",
+			"title": "Mysql"
+		},
+		{
+			"count": 80,
+			"name": "HeadFirst",
+			"title": "HeadFirst"
+		},
+		{
+			"count": 44,
+			"name": "web开发",
+			"title": "web开发"
+		},
+		{
+			"count": 32,
+			"name": "计算机",
+			"title": "计算机"
+		},
+		{
+			"count": 29,
+			"name": "编程",
+			"title": "编程"
+		},
+		{
+			"count": 24,
+			"name": "O'REILLY",
+			"title": "O'REILLY"
+		},
+		{
+			"count": 14,
+			"name": "互联网",
+			"title": "互联网"
+		}
+	],
+	"origin_title": "Head First PHP & MySQL",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s6301934.jpg",
+	"binding": "",
+	"translator": [
+		"苏金国",
+		"徐阳"
+	],
+	"catalog": "引子\n1 充满生机：静态页面赋予生命\n2 如何连接在一起：连接 mysql\n3 创建你自己的数据：创建与填充数据库\n4 你的web应用：现实的实际应用\n5 如果数据库还不够：使用存储在文件中的数据\n6 假想他们都在搜寻你：保证应用安全\n7 还记得我吗？构建个性化web应用\n7 分享就是关爱：消除重复代码\n8 收获数据：控制你的数据，世界在你手中\n9 通过函数改善生活：串与定制函数\n10 替换规则：正则表达式\n11 绘制动态图像：数据可视化……以及更多!\n12 与世界连接：合成与web服务\ni （我们没有谈到的）十大主题：其他\nii 搭建舞台：建立开发环境\niii 还可以更多：扩展php",
+	"pages": "774",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s6301934.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s6301934.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s6301934.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/6011680\/",
+	"id": "6011680",
+	"publisher": "中国电力",
+	"isbn10": "7512305133",
+	"isbn13": "9787512305137",
+	"title": "Head First PHP & MySQL（中文版）",
+	"url": "http:\/\/api.douban.com\/v2\/book\/6011680",
+	"alt_title": "Head First PHP & MySQL",
+	"author_intro": "Michael Morrison与电脑世界结下不解之缘的开端，就是他的第一台个人电脑TI-99\/4A，配件包括至高无上的人体工程学键盘、黑白TV“显示器”，还有那甜美的卡式带存储系统。往后的岁月里，他又曾拥有过其他电脑“玩具”，不过仍然时时怀念着当年在TI上把玩Parsec、在后院玩Nerf足球的日子。\n\n    现在的Michael已经长大成人，兴趣也变得比较成熟一点，例如建立交互网络应用程序……还有滑板。割伤、擦伤，大伤小伤不断，他面对技术挑战的方式其实与挑战极限运动时一样有勇无谋。在开发过几款电视游戏、发明过几种玩具、写了快50本书、建立许多在线课程后，Michael终于觉得可以面对《深入浅出Javascript》的挑战……他以后再也不相信自己的感觉了。\n\n    事实上，面对“深入浅出”系列的写作时，不可能有准备好的那一天。选择墨菲斯手中的红色药丸，进入Head First黑客帝国(Matrix)的世界，已经是最佳准备途径了。当Michael从另一个世界中醒来后，身上也还残留着智力较量下的淤青，他看待学习(与教学)的眼光完全不一样了。这是多么令人兴奋的一件事啊！现在这个时候，他大概正与老婆一起在鲤鱼池边，反思着交互性万维网的神妙之处。\n    Lynn Beighley is a fiction writer stuck in a technical book writer's body. Upon discovering that technical book writing actually paid real money, she learned to accept and enjoy it. After going back to school to get a Masters in Computer Science, she worked for the acronyms NRL and LANL. Then she discovered Flash, and wrote her first bestseller. A victim of bad timing, she moved to Silicon Valley just before the great crash. She spent several years working for Yahoo! and writing other books and training courses. Finally giving in to her creative writing bent, she moved to the New York area to get an MFA in Creative Writing. Her Head First-style thesis was delivered to a packed room of professors and fellow students. It was extremely well received, and she finished her degree, finished Head First SQL, and just finished Head First PHP & MySQL. Whew!\n\n    Lynn loves traveling, writing, and making up elaborate background stories about complete strangers. She's a little scared of UFOs.",
+	"summary": "通过《深入浅出PHP&MySQL(影印版)》，你将学习：准备好把你的静态HTML网页提升到下一个层次并使用PHP和MySQL建立数据库驱动的网站了吗？《深入浅出PHP& MysQL》是一本快捷实用的指南，让你的动态网站快速运行。自己动手建立实际应用程序，从视频游戏高分留言板到在线交友网站。当你完成后，你将可以进行验证表单、使用会话ID和cookies工作、执行数据库查询和联接、处理文件I／0操作等等。\n《深入浅出PHP&MySQL(影印版)》的特别之处在于：我们认为你的时间如此宝贵以至于不应该花费在为新概念伤脑筋上面。《深入浅出PHP ＆ MySQL》用最新的认知科学和学习理论打造多感官的学习体验，运用适合大脑工作方式的直观的格式编排，而不是令人昏昏欲睡的密密麻麻的文字。",
+	"series": {
+		"id": "10044",
+		"title": "O'Reilly深入浅出系列"
+	},
+	"price": "98.00元"
+}
