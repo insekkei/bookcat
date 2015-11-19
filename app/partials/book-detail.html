@@ -9,9 +9,9 @@
 				评分：{{book.rating.average}}<br>
 				出版日期：{{book.pubdate}}<br>
 				出版社：{{book.publisher}}<br>
-				标签：<i><span ng-repeat="tag in book.tags" class="tags">
+				标签：<span><span ng-repeat="tag in book.tags" class="tags">
 						{{tag.name}}
-					</span></i><br>
+					</span></span><br>
 				总页数：{{book.pages}}<br>
 				价格：{{book.price}}<br>
 				isbn13：{{book.isbn13}}<br>
@@ -24,4 +24,5 @@
 			</p>
 		</div>
 	</div>
+	<a class="close" href="javascript: history.back();">&times;</a>
 </div>
