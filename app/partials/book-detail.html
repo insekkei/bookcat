@@ -9,18 +9,24 @@
 				评分：{{book.rating.average}}<br>
 				出版日期：{{book.pubdate}}<br>
 				出版社：{{book.publisher}}<br>
-				标签：<span><span ng-repeat="tag in book.tags" class="tags">
-						{{tag.name}}
-					</span></span><br>
 				总页数：{{book.pages}}<br>
 				价格：{{book.price}}<br>
 				isbn13：{{book.isbn13}}<br>
 			</p>
-			<p class="authorinfo">
-				{{book.author_intro}}
-			</p>
-			<p class="summary">
-				{{book.summary}}
+			<div class="authorinfo" ng-if="book.author_intro.length > 0">
+				<p ng-repeat="p in book.author_intro.replace('\n\n', '\n').split('\n')">
+					{{p}}
+				</p>
+			</div>
+			<div class="summary clearfix" ng-if="book.summary.length > 0">
+				<p ng-repeat="p in book.summary.replace('\n\n', '\n').split('\n')">
+					{{p}}
+				</p>
+			</div>
+			<p class="taglist">标签：
+				<span ng-repeat="tag in book.tags" class="tags">
+					{{tag.name}}
+				</span>
 			</p>
 		</div>
 	</div>
