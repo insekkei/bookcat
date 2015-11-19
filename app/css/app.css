@@ -1,6 +1,6 @@
 body, html {
     min-height: 100%;
-    font-family: "Lantinghei SC", "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif
+    font-family: "Lantinghei SC", "STHeiti", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑",  "WenQuanYi Micro Hei", SimSun, sans-serif
 }
 .container-fluid {
     padding:15px;
@@ -24,7 +24,11 @@ body, html {
     border-right:0;
     border-top: 0;
     border-bottom: 2px solid #000;
-    transition: all .2s linear;
+    transition: all .1s linear;
+    -webkit-transition: all .1s linear;
+    -moz-transition: all .1s linear;
+    -o-transition: all .1s linear;
+    -ms-transition: all .1s linear;
 }
 .book-listing:nth-child(10n), .book-listing:last-child {
     border-right: 0;
@@ -68,11 +72,18 @@ body, html {
     -moz-filter: grayscale(1);
     -o-filter: grayscale(1);
     -ms-filter: grayscale(1);
-    transition: all .2s linear;
-
+    transition: all .1s linear;
+    -webkit-transition: all .1s linear;
+    -moz-transition: all .1s linear;
+    -o-transition: all .1s linear;
+    -ms-transition: all .1s linear;
 }
 .book-listing .img img:hover {
-    -webkit-filter:sepia(.5);
+    filter: sepia(.5);
+    -webkit-filter: sepia(.5);
+    -moz-filter: sepia(.5);
+    -o-filter: sepia(.5);
+    -ms-filter: sepia(.5);
 }
 .query {
     width: 30%;
