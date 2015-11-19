@@ -1,5 +1,27 @@
-TBD: detail view for <span>{{bookId}}</span>
-<img ng-src="{{book.images.medium}}">
-<h1>{{book.title}}</h1>
-<p>{{book.author}}</p>
-<p>{{book.rating}}</p>
+<div class="container-fluid detail">
+  	<div class="row clearfix">
+		<img ng-src="{{book.images.large}}">
+		<div class="bookinfo">
+			<p><strong>{{book.title}}</strong></p>
+
+			<p class="minifo">
+				作者：{{book.author.join('，')}}<br>
+				评分：{{book.rating.average}}<br>
+				出版日期：{{book.pubdate}}<br>
+				出版社：{{book.publisher}}<br>
+				标签：<i><span ng-repeat="tag in book.tags" class="tags">
+						{{tag.name}}
+					</span></i><br>
+				总页数：{{book.pages}}<br>
+				价格：{{book.price}}<br>
+				isbn13：{{book.isbn13}}<br>
+			</p>
+			<p class="authorinfo">
+				{{book.author_intro}}
+			</p>
+			<p class="summary">
+				{{book.summary}}
+			</p>
+		</div>
+	</div>
+</div>
