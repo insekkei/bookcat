@@ -192,7 +192,7 @@ h1 span:after {
 .not-found+.minifo {
     height: 150px;
     border-bottom: 2px solid #000;
-    background: url(../images/404.png) no-repeat center bottom;
+    background: url(../images/404.jpg) no-repeat center bottom;
     background-size: auto 100%;
 }
 .summary, .authorinfo, .taglist {
