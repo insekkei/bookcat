@@ -144,8 +144,10 @@ a:hover {
     margin-right:10px;
 }
 .not-found+.minifo {
-    height: 100px;
-    border-bottom: 2px solid #000
+    height: 150px;
+    border-bottom: 2px solid #000;
+    background: url(../images/404.png) no-repeat center bottom;
+    background-size: auto 100%;
 }
 .summary, .authorinfo, .taglist {
     border-top: 2px solid #000;
