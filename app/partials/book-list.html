@@ -1,23 +1,24 @@
 <div class="container-fluid list">
   	<div class="row">
+  		<h1>我家的<span>书柜</span></h1>
 	      <!--Body content-->
 		<ul class="books">
 			<li ng-repeat="book in books | filter:query | orderBy:orderProp"
-				class="thumbnail book-listing">
+				class="thumbnail book-listing" title="{{book.title}}">
 				<a class="img" href="#/books/{{book.id}}">
 					<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
 				</a>
 				<a class="title" href="#/books/{{book.id}}">
 					《{{book.title}}》
 				</a>
-
 				<p class="author"><span>By </span>{{book.author.join('，')}}</p>
 				<p class="rating">评分：<span>{{book.rating}}</span></p>
 			</li>
 		  </li>
 		</ul>
+		<p class="copyright">Designed by <a href="mailto">IN設計.</a></p>
 	</div>
-	<div class="row">
+	<div class="row tools">
 		    <!--Sidebar content-->
 		    <input ng-model="query" class="form-control query" placeholder="search here...">
 		    <!--<p>排序方式:</p>
