@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 60,
+		"average": "7.9",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"（英）卡莱尔"
+	],
+	"pubdate": "1998-3",
+	"tags": [
+		{
+			"count": 45,
+			"name": "卡莱尔",
+			"title": "卡莱尔"
+		},
+		{
+			"count": 27,
+			"name": "历史",
+			"title": "历史"
+		},
+		{
+			"count": 16,
+			"name": "英国",
+			"title": "英国"
+		},
+		{
+			"count": 13,
+			"name": "社会学",
+			"title": "社会学"
+		},
+		{
+			"count": 10,
+			"name": "新世纪万有文库",
+			"title": "新世纪万有文库"
+		},
+		{
+			"count": 7,
+			"name": "文化",
+			"title": "文化"
+		},
+		{
+			"count": 6,
+			"name": "文化系",
+			"title": "文化系"
+		},
+		{
+			"count": 6,
+			"name": "人类社会",
+			"title": "人类社会"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s1064045.jpg",
+	"binding": "平装",
+	"translator": [
+		"何欣"
+	],
+	"catalog": "\n      ",
+	"pages": "274",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s1064045.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s1064045.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s1064045.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/1018409\/",
+	"id": "1018409",
+	"publisher": "辽宁教育出版社",
+	"isbn10": "7538250913",
+	"isbn13": "9787538250916",
+	"title": "英雄与英雄崇拜",
+	"url": "http:\/\/api.douban.com\/v2\/book\/1018409",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "本书是一部演讲集，它表现了作者三方面的特质。第一，酷爱真理，无论他的判断是对是错，甚至对他最无同情心的人也会清楚地看到，这种判断是一位最忠诚的人以最热情的态度说出的。从头到尾，他不懈地对各式各样的虚伪和固习展开战斗，对公式展开战斗。第二，他对别人的痛苦和不幸有着无限的同情心。\"他唯一的奢侈就是行善。\"他毫不吝惜地布施，通常是不道出姓名。第三，他对宗教虔诚的感情。卡莱尔信仰的不是基督教；任何形式的教会组织或信条都不足以赢得他的信仰，顶多只能赢得容忍而已。但他对那个看不见的精神宇宙的真实却有极深的牢不可破的信仰，他认为那个宇宙是无限的，永恒的，神秘的，但能到处亲切地与人的世界发生接触。",
+	"series": {
+		"id": "5008",
+		"title": "新世纪万有文库·外国文化书系"
+	},
+	"price": "11.30元"
+}

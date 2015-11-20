@@ -16,6 +16,8 @@ bookcatControllers.controller('BookDetailCtrl', ['$scope', '$routeParams', 'Book
 	function ($scope, $routeParams, Book) {
 		$scope.book = Book.get({bookId: $routeParams.bookId}, function (book) {
 		});
+
+		
 		/*$http.get('books/book' + $routeParams.bookId + '.json').success(function(data) {
 			$scope.book = data;
 			console.log($scope.book);

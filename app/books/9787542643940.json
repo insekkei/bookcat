@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 27,
+		"average": "8.7",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"(法)卢梭(RousseauJ. )"
+	],
+	"pubdate": "2013-11",
+	"tags": [
+		{
+			"count": 9,
+			"name": "卢梭",
+			"title": "卢梭"
+		},
+		{
+			"count": 4,
+			"name": "政治哲学",
+			"title": "政治哲学"
+		},
+		{
+			"count": 2,
+			"name": "哲学",
+			"title": "哲学"
+		},
+		{
+			"count": 2,
+			"name": "社会",
+			"title": "社会"
+		},
+		{
+			"count": 1,
+			"name": "上海三联书店",
+			"title": "上海三联书店"
+		},
+		{
+			"count": 1,
+			"name": "历史",
+			"title": "历史"
+		},
+		{
+			"count": 1,
+			"name": "思考，学习",
+			"title": "思考，学习"
+		},
+		{
+			"count": 1,
+			"name": "政治",
+			"title": "政治"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s27266372.jpg",
+	"binding": "",
+	"translator": [
+		"高修娟"
+	],
+	"catalog": "论文写作的背景\n献给日内瓦共和国的致辞\n序言\n本论\n第一部分\n第二部分\n附录\n卢梭年表",
+	"pages": "172",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s27266372.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s27266372.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s27266372.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/25748671\/",
+	"id": "25748671",
+	"publisher": "上海三联书店",
+	"isbn10": "7542643940",
+	"isbn13": "9787542643940",
+	"title": "论人类不平等的起源",
+	"url": "http:\/\/api.douban.com\/v2\/book\/25748671",
+	"alt_title": "",
+	"author_intro": "让-雅克 卢梭（Jean-Jacques Rousseau，1712年6月28日-1778年7月2日），法国哲学家、教育学家、文学家，为《百科全书》撰稿人之一，启蒙运动最卓越的代表人物之一。主要著作有《社会契约论》《新爱洛伊丝》《爱弥尔》《忏悔录》等。他思想的影响涉及哲学、政治学、文学等领域。",
+	"summary": "《论人类不平等的起源》是法国大革命的灵魂。在本书中，卢梭指出人类每向前发展一步，不平等的程度就加深一步。本书阐发了卢梭的政治哲学思想，为《社会契约论》奠定了基础，同时也是他整个政治学说的导言。　　这是一本充盈着智慧的书。它的每行，都渗透着作者苦苦的求索。卢梭的思辨如蛟龙，从各个角度逻辑清晰地阐释为什么人类的进步史就是人类的堕落史。读着它，就像走一条蜿蜒的路，即使他不告诉你结果，下一个拐角出现时，也往往应验你的想象，于是思路渐渐明晰，海阔天空的世界呈现在眼前，与顾影自怜相异，与日常细碎不同……",
+	"series": {
+		"id": "23483",
+		"title": "一生的读书计划"
+	},
+	"price": "20.00元"
+}
