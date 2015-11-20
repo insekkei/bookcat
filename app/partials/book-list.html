@@ -8,11 +8,11 @@
 					<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
 				</a>
 				<a class="title" href="#/books/{{book.id}}">
-					{{book.title}}
+					《{{book.title}}》
 				</a>
 
-				<p class="author">作者：{{book.author.join('，')}}</p>
-				<p class="rating">评分：{{book.rating}}</p>
+				<p class="author"><span>By </span>{{book.author.join('，')}}</p>
+				<p class="rating">评分：<span>{{book.rating}}</span></p>
 			</li>
 		  </li>
 		</ul>
