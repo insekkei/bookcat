@@ -2,33 +2,37 @@
   	<div class="row clearfix">
 		<img ng-src="{{book.images.large}}">
 		<div class="bookinfo">
-			<p><strong>{{book.title}}</strong></p>
+			<p ng-if="book.notFound === false"><strong>{{book.title}}</strong></p>
+			<p class="not-found" ng-if="book.notFound === true"><strong>404</strong>找不到资源...o.0</p>
 
-			<p class="minifo">
-				作者：{{book.author.join('，')}}<br>
-				评分：{{book.rating.average}}<br>
-				出版日期：{{book.pubdate}}<br>
-				出版社：{{book.publisher}}<br>
-				总页数：{{book.pages}}<br>
-				价格：{{book.price}}<br>
-				isbn13：{{book.isbn13}}<br>
-			</p>
-			<div class="authorinfo" ng-if="book.author_intro.length > 0">
-				<p ng-repeat="p in book.author_intro.replace('\n\n', '\n').split('\n')">
+			<div class="minifo">
+				<p ng-if="book.author.length > 0">作者：{{book.author.join('，')}}</p>
+				<p ng-if="book.rating.length > 0">评分：{{book.rating.average}}</p>
+				<p ng-if="book.pubdate.length > 0">出版日期：{{book.pubdate}}</p>
+				<p ng-if="book.publisher.length > 0">出版社：{{book.publisher}}</p>
+				<p ng-if="book.pages.length > 0">总页数：{{book.pages}}</p>
+				<p ng-if="book.price.length > 0">价格：{{book.price}}</p>
+				<p ng-if="book.isbn13.length > 0">isbn13：{{book.isbn13}}</p>
+			</div>
+			<div class="authorinfo" ng-if="author_intro.length > 0">
+				<strong>作者简介</strong>
+				<p ng-repeat="p in author_intro">
 					{{p}}
 				</p>
 			</div>
-			<div class="summary clearfix" ng-if="book.summary.length > 0">
-				<p ng-repeat="p in book.summary.replace('\n\n', '\n').split('\n')">
+			<div class="summary clearfix" ng-if="summary.length > 0">
+				<strong>摘要</strong>
+				<p ng-repeat="p in summary">
 					{{p}}
 				</p>
 			</div>
-			<p class="taglist">标签：
+			<p class="taglist" ng-if="book.notFound === false">
+				标签：
 				<span ng-if="book.tags.length > 0" ng-repeat="tag in book.tags" class="tags">
 					{{tag.name}}
 				</span>
-				<span ng-if="book.tags.length == 0" ng-repeat="tag in book.tags" class="tags">
-					无
+				<span ng-if="book.tags.length === 0" class="tags">
+					暂无
 				</span>
 			</p>
 		</div>
