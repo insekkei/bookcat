@@ -84,9 +84,9 @@ h1 span:after {
 }
 
 .book-listing:hover {
-    transform: scale(1.1);
+    transform: scale(1.3);
     z-index: 10;
-    background: rgba(255,255,255,1)
+    background: #FFFFDD;
 }
 .book-listing .title, .book-listing .author, .book-listing .rating {
     display: block;
