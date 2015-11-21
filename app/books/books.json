@@ -7,7 +7,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s26014820.jpg",
 		"rating": "8.9",
-		"publisher": "高等教育"
+		"publisher": "高等教育",
+		"pages": "921",
+		"price": "72.00元"
 	},
 	{
 		"id": "9787100028226",
@@ -17,7 +19,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s1035972.jpg",
 		"rating": "0.0",
-		"publisher": "商务印书馆"
+		"publisher": "商务印书馆",
+		"pages": "2042",
+		"price": "98.00元"
 	},
 	{
 		"id": "9787101054491",
@@ -27,7 +31,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s2177769.jpg",
 		"rating": "9.0",
-		"publisher": "中华书局"
+		"publisher": "中华书局",
+		"pages": "286",
+		"price": "18.00元"
 	},
 	{
 		"id": "9787101066906",
@@ -38,7 +44,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s3838106.jpg",
 		"rating": "9.2",
-		"publisher": "中华书局"
+		"publisher": "中华书局",
+		"pages": "125",
+		"price": "11.00元"
 	},
 	{
 		"id": "9787101074888",
@@ -48,7 +56,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s27465834.jpg",
 		"rating": "9.3",
-		"publisher": "中华书局"
+		"publisher": "中华书局",
+		"pages": "216",
+		"price": "19.00元"
 	},
 	{
 		"id": "9787101077186",
@@ -59,7 +69,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s9002135.jpg",
 		"rating": "9.3",
-		"publisher": "中华书局"
+		"publisher": "中华书局",
+		"pages": "576",
+		"price": "39.00元"
 	},
 	{
 		"id": "9787108045621",
@@ -69,7 +81,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s27239450.jpg",
 		"rating": "7.5",
-		"publisher": "生活·读书·新知三联书店"
+		"publisher": "生活·读书·新知三联书店",
+		"pages": "306",
+		"price": "49.00元"
 	},
 	{
 		"id": "9787111234715",
@@ -79,7 +93,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s5885453.jpg",
 		"rating": "7.0",
-		"publisher": "机械工业出版社"
+		"publisher": "机械工业出版社",
+		"pages": "260",
+		"price": "36.00元"
 	},
 	{
 		"id": "9787111250470",
@@ -89,7 +105,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s3275386.jpg",
 		"rating": "8.8",
-		"publisher": "机械工业出版社"
+		"publisher": "机械工业出版社",
+		"pages": "945",
+		"price": "99.00元"
 	},
 	{
 		"id": "9787111262817",
@@ -100,7 +118,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s3773304.jpg",
 		"rating": "8.4",
-		"publisher": "机械工业出版社"
+		"publisher": "机械工业出版社",
+		"pages": "714",
+		"price": "95.00元"
 	},
 	{
 		"id": "9787111305958",
@@ -110,7 +130,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s4388771.jpg",
 		"rating": "7.8",
-		"publisher": "机械工业出版社"
+		"publisher": "机械工业出版社",
+		"pages": "281",
+		"price": "49.00元"
 	},
 	{
 		"id": "9787111312451",
@@ -121,7 +143,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s4440116.jpg",
 		"rating": "7.2",
-		"publisher": "机械工业出版社"
+		"publisher": "机械工业出版社",
+		"pages": "362",
+		"price": "59.00元"
 	},
 	{
 		"id": "9787111338291",
@@ -131,7 +155,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s6387169.jpg",
 		"rating": "8.6",
-		"publisher": "机械工业出版社华章公司"
+		"publisher": "机械工业出版社华章公司",
+		"pages": "352",
+		"price": "69.00元"
 	},
 	{
 		"id": "9787111376613",
@@ -141,7 +167,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s8958854.jpg",
 		"rating": "9.1",
-		"publisher": "机械工业出版社华章公司"
+		"publisher": "机械工业出版社华章公司",
+		"pages": "1004",
+		"price": "139.00元"
 	},
 	{
 		"id": "9787111407010",
@@ -154,7 +182,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s25648004.jpg",
 		"rating": "9.1",
-		"publisher": "机械工业出版社"
+		"publisher": "机械工业出版社",
+		"pages": "780",
+		"price": "128.00元"
 	},
 	{
 		"id": "9787111469209",
@@ -164,7 +194,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s27319226.jpg",
 		"rating": "7.0",
-		"publisher": "机械工业出版社"
+		"publisher": "机械工业出版社",
+		"pages": "486",
+		"price": "CNY 79.00"
 	},
 	{
 		"id": "9787115147318",
@@ -175,7 +207,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s4436543.jpg",
 		"rating": "9.4",
-		"publisher": "人民邮电出版社"
+		"publisher": "人民邮电出版社",
+		"pages": "758",
+		"price": "99.00元"
 	},
 	{
 		"id": "9787115171801",
@@ -185,7 +219,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s5886086.jpg",
 		"rating": "9.2",
-		"publisher": "人民邮电出版社"
+		"publisher": "人民邮电出版社",
+		"pages": "291",
+		"price": "45.00元"
 	},
 	{
 		"id": "9787115172013",
@@ -195,7 +231,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s2996168.jpg",
 		"rating": "9.0",
-		"publisher": "人民邮电出版社"
+		"publisher": "人民邮电出版社",
+		"pages": "448",
+		"price": "65.00"
 	},
 	{
 		"id": "9787115190703",
@@ -203,7 +241,9 @@
 		"author": null,
 		"image": "https://img2.doubanio.com/mpic/s5968169.jpg",
 		"rating": "0.0",
-		"publisher": ""
+		"publisher": "",
+		"pages": "712",
+		"price": "49.00元"
 	},
 	{
 		"id": "9787115207678",
@@ -213,7 +253,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s4190255.jpg",
 		"rating": "8.1",
-		"publisher": "人民邮电出版社"
+		"publisher": "人民邮电出版社",
+		"pages": "226",
+		"price": "45.00元"
 	},
 	{
 		"id": "9787115249494",
@@ -223,7 +265,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s4669554.jpg",
 		"rating": "8.8",
-		"publisher": "人民邮电出版社"
+		"publisher": "人民邮电出版社",
+		"pages": "264",
+		"price": "49.00元"
 	},
 	{
 		"id": "9787115313089",
@@ -233,7 +277,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s26251595.jpg",
 		"rating": "7.8",
-		"publisher": "人民邮电出版社"
+		"publisher": "人民邮电出版社",
+		"pages": "236",
+		"price": "49.00元"
 	},
 	{
 		"id": "9787115330550",
@@ -244,7 +290,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s27061731.jpg",
 		"rating": "8.8",
-		"publisher": "人民邮电出版社"
+		"publisher": "人民邮电出版社",
+		"pages": "336",
+		"price": "59.00"
 	},
 	{
 		"id": "9787115343581",
@@ -254,7 +302,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s27256110.jpg",
 		"rating": "8.1",
-		"publisher": "人民邮电出版社"
+		"publisher": "人民邮电出版社",
+		"pages": "445",
+		"price": "89.00"
 	},
 	{
 		"id": "9787115351531",
@@ -264,7 +314,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s27283822.jpg",
 		"rating": "8.1",
-		"publisher": "人民邮电出版社"
+		"publisher": "人民邮电出版社",
+		"pages": "308",
+		"price": "49.00元"
 	},
 	{
 		"id": "9787115385130",
@@ -274,7 +326,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s28047380.jpg",
 		"rating": "7.9",
-		"publisher": "人民邮电出版社"
+		"publisher": "人民邮电出版社",
+		"pages": "272",
+		"price": "39.00元"
 	},
 	{
 		"id": "9787119048932",
@@ -284,7 +338,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s24444673.jpg",
 		"rating": "9.4",
-		"publisher": "外文出版社"
+		"publisher": "外文出版社",
+		"pages": "960",
+		"price": "36.00元"
 	},
 	{
 		"id": "9787121084423",
@@ -294,7 +350,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s3788445.jpg",
 		"rating": "8.8",
-		"publisher": "电子工业出版社"
+		"publisher": "电子工业出版社",
+		"pages": "469",
+		"price": "69.00元"
 	},
 	{
 		"id": "9787121155314",
@@ -304,7 +362,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s27979206.jpg",
 		"rating": "7.7",
-		"publisher": "电子工业出版社"
+		"publisher": "电子工业出版社",
+		"pages": "413",
+		"price": "188.00元"
 	},
 	{
 		"id": "9787121167331",
@@ -314,7 +374,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s9042055.jpg",
 		"rating": "8.1",
-		"publisher": "电子工业出版社"
+		"publisher": "电子工业出版社",
+		"pages": "420",
+		"price": "55.00元"
 	},
 	{
 		"id": "9787200065015",
@@ -324,7 +386,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s1933168.jpg",
 		"rating": "9.0",
-		"publisher": "北京出版社"
+		"publisher": "北京出版社",
+		"pages": "383",
+		"price": "19.9"
 	},
 	{
 		"id": "9787222068681",
@@ -334,7 +398,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s6968852.jpg",
 		"rating": "7.5",
-		"publisher": "云南人民出版社"
+		"publisher": "云南人民出版社",
+		"pages": "280",
+		"price": "32.80元"
 	},
 	{
 		"id": "9787300150802",
@@ -344,7 +410,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s10457991.jpg",
 		"rating": "7.1",
-		"publisher": "中国人民大学出版社"
+		"publisher": "中国人民大学出版社",
+		"pages": "272",
+		"price": "49.90元"
 	},
 	{
 		"id": "9787300176871",
@@ -354,7 +422,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s26832239.jpg",
 		"rating": "6.8",
-		"publisher": "中国人民大学出版社"
+		"publisher": "中国人民大学出版社",
+		"pages": "176",
+		"price": "32.90"
 	},
 	{
 		"id": "9787302156871",
@@ -364,7 +434,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s5677156.jpg",
 		"rating": "0.0",
-		"publisher": "清华大学出版社"
+		"publisher": "清华大学出版社",
+		"pages": "308",
+		"price": "39.00元"
 	},
 	{
 		"id": "9787305062964",
@@ -372,7 +444,9 @@
 		"author": null,
 		"image": "https://img3.doubanio.com/mpic/s6068590.jpg",
 		"rating": "7.5",
-		"publisher": ""
+		"publisher": "",
+		"pages": "366",
+		"price": "21.00元"
 	},
 	{
 		"id": "9787309094374",
@@ -382,7 +456,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s28007623.jpg",
 		"rating": "0.0",
-		"publisher": ""
+		"publisher": "",
+		"pages": "784",
+		"price": "88.00元"
 	},
 	{
 		"id": "9787309094381",
@@ -392,7 +468,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s26641556.jpg",
 		"rating": "0.0",
-		"publisher": ""
+		"publisher": "",
+		"pages": "616",
+		"price": "70.00元"
 	},
 	{
 		"id": "9787309094398",
@@ -402,7 +480,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s26657855.jpg",
 		"rating": "0.0",
-		"publisher": ""
+		"publisher": "",
+		"pages": "546",
+		"price": "68.00元"
 	},
 	{
 		"id": "9787309094404",
@@ -412,7 +492,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s26681135.jpg",
 		"rating": "0.0",
-		"publisher": ""
+		"publisher": "",
+		"pages": "607",
+		"price": "70.00元"
 	},
 	{
 		"id": "9787309094411",
@@ -422,7 +504,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s26641561.jpg",
 		"rating": "7.7",
-		"publisher": "复旦大学出版社"
+		"publisher": "复旦大学出版社",
+		"pages": "640",
+		"price": "72.00元"
 	},
 	{
 		"id": "9787309094428",
@@ -432,7 +516,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s26681133.jpg",
 		"rating": "0.0",
-		"publisher": ""
+		"publisher": "",
+		"pages": "506",
+		"price": "69.00元"
 	},
 	{
 		"id": "9787309094435",
@@ -442,7 +528,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s26641559.jpg",
 		"rating": "0.0",
-		"publisher": ""
+		"publisher": "",
+		"pages": "601",
+		"price": "70.00元"
 	},
 	{
 		"id": "9787309094442",
@@ -452,7 +540,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s26641557.jpg",
 		"rating": "0.0",
-		"publisher": ""
+		"publisher": "",
+		"pages": "616",
+		"price": "72.00元"
 	},
 	{
 		"id": "9787309094480",
@@ -462,7 +552,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s26681132.jpg",
 		"rating": "0.0",
-		"publisher": ""
+		"publisher": "",
+		"pages": "667",
+		"price": "74.00元"
 	},
 	{
 		"id": "9787500118350",
@@ -472,7 +564,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s3035487.jpg",
 		"rating": "7.0",
-		"publisher": "中国对外翻译出版公司"
+		"publisher": "中国对外翻译出版公司",
+		"pages": "183",
+		"price": "22.00元"
 	},
 	{
 		"id": "9787506039185",
@@ -482,7 +576,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s6337763.jpg",
 		"rating": "9.0",
-		"publisher": "东方出版社"
+		"publisher": "东方出版社",
+		"pages": "368",
+		"price": "39.00元"
 	},
 	{
 		"id": "9787506342551",
@@ -492,7 +588,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s3106836.jpg",
 		"rating": "8.1",
-		"publisher": "作家出版社"
+		"publisher": "作家出版社",
+		"pages": "316",
+		"price": "38.00元"
 	},
 	{
 		"id": "9787506460262",
@@ -502,7 +600,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s6107932.jpg",
 		"rating": "6.8",
-		"publisher": "中国纺织"
+		"publisher": "中国纺织",
+		"pages": "323",
+		"price": "36.80元"
 	},
 	{
 		"id": "9787507421125",
@@ -512,7 +612,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s4488522.jpg",
 		"rating": "0.0",
-		"publisher": "中国城市"
+		"publisher": "中国城市",
+		"pages": "792",
+		"price": "45.00元"
 	},
 	{
 		"id": "9787508041452",
@@ -522,7 +624,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s5817950.jpg",
 		"rating": "7.4",
-		"publisher": "华夏出版社发行部"
+		"publisher": "华夏出版社发行部",
+		"pages": "416",
+		"price": "27.00元"
 	},
 	{
 		"id": "9787508617138",
@@ -532,7 +636,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s27628214.jpg",
 		"rating": "8.3",
-		"publisher": "中信出版社"
+		"publisher": "中信出版社",
+		"pages": "292",
+		"price": "39.00元"
 	},
 	{
 		"id": "9787508627205",
@@ -540,7 +646,9 @@
 		"author": null,
 		"image": "https://img1.doubanio.com/mpic/s12436382.jpg",
 		"rating": "7.6",
-		"publisher": "中信出版社"
+		"publisher": "中信出版社",
+		"pages": "268",
+		"price": "39.80元"
 	},
 	{
 		"id": "9787511329233",
@@ -550,7 +658,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s24413246.jpg",
 		"rating": "7.7",
-		"publisher": "中国华侨出版社"
+		"publisher": "中国华侨出版社",
+		"pages": "272",
+		"price": "29.80元"
 	},
 	{
 		"id": "9787512305137",
@@ -561,7 +671,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s6301934.jpg",
 		"rating": "8.6",
-		"publisher": "中国电力"
+		"publisher": "中国电力",
+		"pages": "774",
+		"price": "98.00元"
 	},
 	{
 		"id": "9787512402959",
@@ -572,7 +684,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s6464922.jpg",
 		"rating": "0.0",
-		"publisher": "北京航空航天大学出版社"
+		"publisher": "北京航空航天大学出版社",
+		"pages": "500",
+		"price": "59.00元"
 	},
 	{
 		"id": "9787512504011",
@@ -582,7 +696,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s11314814.jpg",
 		"rating": "7.7",
-		"publisher": "国际文化出版公司"
+		"publisher": "国际文化出版公司",
+		"pages": "222",
+		"price": "28.00元"
 	},
 	{
 		"id": "9787512504028",
@@ -592,7 +708,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s11215081.jpg",
 		"rating": "8.2",
-		"publisher": "国际文化出版公司"
+		"publisher": "国际文化出版公司",
+		"pages": "243",
+		"price": "29.80元"
 	},
 	{
 		"id": "9787512504035",
@@ -602,7 +720,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s11277433.jpg",
 		"rating": "8.6",
-		"publisher": "国际文化出版公司"
+		"publisher": "国际文化出版公司",
+		"pages": "256",
+		"price": "29.80元"
 	},
 	{
 		"id": "9787512504042",
@@ -612,7 +732,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s26355184.jpg",
 		"rating": "8.3",
-		"publisher": "国际文化出版公司"
+		"publisher": "国际文化出版公司",
+		"pages": "660",
+		"price": "83.80元"
 	},
 	{
 		"id": "9787512504059",
@@ -622,7 +744,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s26557445.jpg",
 		"rating": "7.7",
-		"publisher": "国际文化出版公司"
+		"publisher": "国际文化出版公司",
+		"pages": "4",
+		"price": "108.00元"
 	},
 	{
 		"id": "9787512504066",
@@ -632,7 +756,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s11215446.jpg",
 		"rating": "8.4",
-		"publisher": "国际文化出版公司"
+		"publisher": "国际文化出版公司",
+		"pages": "224",
+		"price": "26.00元"
 	},
 	{
 		"id": "9787512504073",
@@ -642,7 +768,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s24403244.jpg",
 		"rating": "7.9",
-		"publisher": "国际文化出版公司"
+		"publisher": "国际文化出版公司",
+		"pages": "224",
+		"price": "26.00元"
 	},
 	{
 		"id": "9787512504080",
@@ -652,7 +780,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s26600191.jpg",
 		"rating": "7.8",
-		"publisher": "国际文化出版公司"
+		"publisher": "国际文化出版公司",
+		"pages": "626",
+		"price": "81.80元"
 	},
 	{
 		"id": "9787512504097",
@@ -662,7 +792,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s11215445.jpg",
 		"rating": "8.2",
-		"publisher": "国际文化出版公司"
+		"publisher": "国际文化出版公司",
+		"pages": "200",
+		"price": "26.00元"
 	},
 	{
 		"id": "9787512504103",
@@ -672,7 +804,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s11329340.jpg",
 		"rating": "8.6",
-		"publisher": "国际文化出版公司"
+		"publisher": "国际文化出版公司",
+		"pages": "224",
+		"price": "26.00元"
 	},
 	{
 		"id": "9787513300711",
@@ -682,7 +816,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s4554820.jpg",
 		"rating": "8.8",
-		"publisher": "新星出版社"
+		"publisher": "新星出版社",
+		"pages": "707",
+		"price": "88.00元"
 	},
 	{
 		"id": "9787513903509",
@@ -692,7 +828,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s27762150.jpg",
 		"rating": "8.1",
-		"publisher": "民主与建设出版社"
+		"publisher": "民主与建设出版社",
+		"pages": "708",
+		"price": "78.00"
 	},
 	{
 		"id": "9787517013129",
@@ -702,7 +840,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s27314987.jpg",
 		"rating": "6.7",
-		"publisher": "中国水利水电出版社"
+		"publisher": "中国水利水电出版社",
+		"pages": "192",
+		"price": "CNY 45.00"
 	},
 	{
 		"id": "9787530209219",
@@ -712,7 +852,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s3099350.jpg",
 		"rating": "7.9",
-		"publisher": "北京十月文艺出版社"
+		"publisher": "北京十月文艺出版社",
+		"pages": "269",
+		"price": "25.00元"
 	},
 	{
 		"id": "9787530211571",
@@ -722,7 +864,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s24422879.jpg",
 		"rating": "8.8",
-		"publisher": "北京十月文艺出版社"
+		"publisher": "北京十月文艺出版社",
+		"pages": "120",
+		"price": "22.00元"
 	},
 	{
 		"id": "9787530212318",
@@ -732,7 +876,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s28121775.jpg",
 		"rating": "8.7",
-		"publisher": "北京十月文艺出版社"
+		"publisher": "北京十月文艺出版社",
+		"pages": "656",
+		"price": "45.00元"
 	},
 	{
 		"id": "9787530212837",
@@ -742,7 +888,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s28336380.jpg",
 		"rating": "0.0",
-		"publisher": "北京十月文艺出版社"
+		"publisher": "北京十月文艺出版社",
+		"pages": "607",
+		"price": "49.80元"
 	},
 	{
 		"id": "9787531819387",
@@ -752,7 +900,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s8458324.jpg",
 		"rating": "0.0",
-		"publisher": "黑龙江美术"
+		"publisher": "黑龙江美术",
+		"pages": "92",
+		"price": "15.00元"
 	},
 	{
 		"id": "9787532553129",
@@ -763,7 +913,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s3952439.jpg",
 		"rating": "8.8",
-		"publisher": "上海古籍出版社"
+		"publisher": "上海古籍出版社",
+		"pages": "238",
+		"price": "18.00元"
 	},
 	{
 		"id": "9787532617708",
@@ -773,7 +925,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s9963720.jpg",
 		"rating": "0.0",
-		"publisher": "第1版 (2005年5月1日)"
+		"publisher": "第1版 (2005年5月1日)",
+		"pages": "594",
+		"price": "68.0"
 	},
 	{
 		"id": "9787532766178",
@@ -783,7 +937,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s27327762.jpg",
 		"rating": "9.2",
-		"publisher": "上海译文出版社"
+		"publisher": "上海译文出版社",
+		"pages": "304",
+		"price": "39.00"
 	},
 	{
 		"id": "9787533866136",
@@ -793,7 +949,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s5791764.jpg",
 		"rating": "8.2",
-		"publisher": "浙江教育出版社"
+		"publisher": "浙江教育出版社",
+		"pages": "257",
+		"price": "19.00元"
 	},
 	{
 		"id": "9787535643698",
@@ -803,7 +961,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s22702196.jpg",
 		"rating": "0.0",
-		"publisher": "湖南美术"
+		"publisher": "湖南美术",
+		"pages": "93",
+		"price": "12.00元"
 	},
 	{
 		"id": "9787536481152",
@@ -813,7 +973,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s28270972.jpg",
 		"rating": "7.5",
-		"publisher": "四川科学技术出版社"
+		"publisher": "四川科学技术出版社",
+		"pages": "",
+		"price": "36.00元"
 	},
 	{
 		"id": "9787538250916",
@@ -823,7 +985,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s1064045.jpg",
 		"rating": "7.9",
-		"publisher": "辽宁教育出版社"
+		"publisher": "辽宁教育出版社",
+		"pages": "274",
+		"price": "11.30元"
 	},
 	{
 		"id": "9787538730586",
@@ -833,7 +997,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s28314965.jpg",
 		"rating": "9.1",
-		"publisher": "时代文艺出版社"
+		"publisher": "时代文艺出版社",
+		"pages": "238",
+		"price": "29.80"
 	},
 	{
 		"id": "9787538740264",
@@ -843,7 +1009,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s10405659.jpg",
 		"rating": "7.8",
-		"publisher": "时代文艺出版社"
+		"publisher": "时代文艺出版社",
+		"pages": "185",
+		"price": "28.00元"
 	},
 	{
 		"id": "9787539926971",
@@ -853,7 +1021,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s2792513.jpg",
 		"rating": "7.2",
-		"publisher": "江苏文艺"
+		"publisher": "江苏文艺",
+		"pages": "212",
+		"price": "25.00元"
 	},
 	{
 		"id": "9787539952611",
@@ -863,7 +1033,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s11117267.jpg",
 		"rating": "8.4",
-		"publisher": "江苏文艺出版社"
+		"publisher": "江苏文艺出版社",
+		"pages": "285",
+		"price": "32.80元"
 	},
 	{
 		"id": "9787539971810",
@@ -873,7 +1045,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s28049685.jpg",
 		"rating": "7.9",
-		"publisher": "江苏凤凰文艺出版社"
+		"publisher": "江苏凤凰文艺出版社",
+		"pages": "271",
+		"price": "CNY 35.00"
 	},
 	{
 		"id": "9787540214326",
@@ -883,7 +1057,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s6510717.jpg",
 		"rating": "8.5",
-		"publisher": "北京燕山"
+		"publisher": "北京燕山",
+		"pages": "776",
+		"price": "24.00元"
 	},
 	{
 		"id": "9787540308506",
@@ -893,7 +1069,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s2162083.jpg",
 		"rating": "8.7",
-		"publisher": "湖北辞书出版社"
+		"publisher": "湖北辞书出版社",
+		"pages": "632",
+		"price": "29.80元"
 	},
 	{
 		"id": "9787540449438",
@@ -903,7 +1081,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s6509536.jpg",
 		"rating": "8.4",
-		"publisher": "湖南文艺出版社"
+		"publisher": "湖南文艺出版社",
+		"pages": "228",
+		"price": "28.00元"
 	},
 	{
 		"id": "9787540452032",
@@ -913,7 +1093,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s27437344.jpg",
 		"rating": "8.9",
-		"publisher": "湖南文艺出版社"
+		"publisher": "湖南文艺出版社",
+		"pages": "304",
+		"price": "28.00元"
 	},
 	{
 		"id": "9787540466534",
@@ -923,7 +1105,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s28322307.jpg",
 		"rating": "0.0",
-		"publisher": "湖南文艺出版社"
+		"publisher": "湖南文艺出版社",
+		"pages": "193",
+		"price": "CNY 29.80"
 	},
 	{
 		"id": "9787542506856",
@@ -931,7 +1115,9 @@
 		"author": null,
 		"image": "https://img3.doubanio.com/mpic/s3312676.jpg",
 		"rating": "0.0",
-		"publisher": "伊犁人民出版社"
+		"publisher": "伊犁人民出版社",
+		"pages": "",
+		"price": ""
 	},
 	{
 		"id": "9787542633767",
@@ -942,7 +1128,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s6780094.jpg",
 		"rating": "9.7",
-		"publisher": "上海三联书店"
+		"publisher": "上海三联书店",
+		"pages": "",
+		"price": "88.00元"
 	},
 	{
 		"id": "9787542635648",
@@ -952,7 +1140,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s6522185.jpg",
 		"rating": "7.3",
-		"publisher": "上海三联书店"
+		"publisher": "上海三联书店",
+		"pages": "204",
+		"price": "32.00元"
 	},
 	{
 		"id": "9787542643940",
@@ -962,7 +1152,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s27266372.jpg",
 		"rating": "8.7",
-		"publisher": "上海三联书店"
+		"publisher": "上海三联书店",
+		"pages": "172",
+		"price": "20.00元"
 	},
 	{
 		"id": "9787544234412",
@@ -972,7 +1164,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s1946586.jpg",
 		"rating": "7.8",
-		"publisher": "南海出版公司"
+		"publisher": "南海出版公司",
+		"pages": "305",
+		"price": "22.00元"
 	},
 	{
 		"id": "9787544244077",
@@ -982,7 +1176,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s3735710.jpg",
 		"rating": "7.7",
-		"publisher": "南海出版公司"
+		"publisher": "南海出版公司",
+		"pages": "386",
+		"price": "28.00"
 	},
 	{
 		"id": "9787544247689",
@@ -992,7 +1188,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s4566097.jpg",
 		"rating": "8.3",
-		"publisher": "南海出版公司"
+		"publisher": "南海出版公司",
+		"pages": "198",
+		"price": "25.00元"
 	},
 	{
 		"id": "9787544252119",
@@ -1002,7 +1200,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s7018215.jpg",
 		"rating": "8.2",
-		"publisher": "南海出版公司"
+		"publisher": "南海出版公司",
+		"pages": "384",
+		"price": "29.80元"
 	},
 	{
 		"id": "9787544253994",
@@ -1012,7 +1212,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s6384944.jpg",
 		"rating": "9.2",
-		"publisher": "南海出版公司"
+		"publisher": "南海出版公司",
+		"pages": "360",
+		"price": "39.50元"
 	},
 	{
 		"id": "9787544264389",
@@ -1022,7 +1224,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s26825800.jpg",
 		"rating": "8.9",
-		"publisher": "南海出版公司"
+		"publisher": "南海出版公司",
+		"pages": "416",
+		"price": "36.00元"
 	},
 	{
 		"id": "9787544271011",
@@ -1032,7 +1236,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s27305503.jpg",
 		"rating": "8.5",
-		"publisher": "南海出版公司"
+		"publisher": "南海出版公司",
+		"pages": "366",
+		"price": "39.50元"
 	},
 	{
 		"id": "9787544274371",
@@ -1042,7 +1248,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s27734425.jpg",
 		"rating": "8.6",
-		"publisher": "南海出版公司"
+		"publisher": "南海出版公司",
+		"pages": "238",
+		"price": "39.50元"
 	},
 	{
 		"id": "9787544703987",
@@ -1052,7 +1260,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s4400285.jpg",
 		"rating": "8.1",
-		"publisher": "译林出版社"
+		"publisher": "译林出版社",
+		"pages": "231",
+		"price": "25.00元"
 	},
 	{
 		"id": "9787549405282",
@@ -1062,7 +1272,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s10299672.jpg",
 		"rating": "8.4",
-		"publisher": "广西美术出版社"
+		"publisher": "广西美术出版社",
+		"pages": "208",
+		"price": "78.00元"
 	},
 	{
 		"id": "9787549405329",
@@ -1072,7 +1284,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s10299661.jpg",
 		"rating": "8.3",
-		"publisher": "广西美术出版社"
+		"publisher": "广西美术出版社",
+		"pages": "208",
+		"price": "78.00元"
 	},
 	{
 		"id": "9787549405480",
@@ -1082,7 +1296,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s24925448.jpg",
 		"rating": "8.4",
-		"publisher": "广西美术出版社"
+		"publisher": "广西美术出版社",
+		"pages": "248",
+		"price": "89.00元"
 	},
 	{
 		"id": "9787550227774",
@@ -1092,7 +1308,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s27283267.jpg",
 		"rating": "6.4",
-		"publisher": "北京联合出版公司"
+		"publisher": "北京联合出版公司",
+		"pages": "240",
+		"price": "32.8"
 	},
 	{
 		"id": "9787560022680",
@@ -1102,7 +1320,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s1310833.jpg",
 		"rating": "9.3",
-		"publisher": "外语教学与研究出版社"
+		"publisher": "外语教学与研究出版社",
+		"pages": "2147",
+		"price": "94.90元"
 	},
 	{
 		"id": "9787560081359",
@@ -1112,7 +1332,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s3851340.jpg",
 		"rating": "9.0",
-		"publisher": "外语教学与研究出版社"
+		"publisher": "外语教学与研究出版社",
+		"pages": "354",
+		"price": "24.90元"
 	},
 	{
 		"id": "9787560974583",
@@ -1122,7 +1344,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s7014167.jpg",
 		"rating": "9.5",
-		"publisher": "华中科技大学出版社"
+		"publisher": "华中科技大学出版社",
+		"pages": "288",
+		"price": "56.00元"
 	},
 	{
 		"id": "9787561338155",
@@ -1132,7 +1356,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s8898955.jpg",
 		"rating": "8.0",
-		"publisher": "陕西师范大学出版社"
+		"publisher": "陕西师范大学出版社",
+		"pages": "309",
+		"price": "29.80元"
 	},
 	{
 		"id": "9787561349830",
@@ -1142,7 +1368,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s6120002.jpg",
 		"rating": "7.6",
-		"publisher": "陕西师范大学出版社"
+		"publisher": "陕西师范大学出版社",
+		"pages": "221",
+		"price": "28.00元"
 	},
 	{
 		"id": "9787562463450",
@@ -1152,7 +1380,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s8993018.jpg",
 		"rating": "7.9",
-		"publisher": "重庆大学出版社/楚尘文化"
+		"publisher": "重庆大学出版社/楚尘文化",
+		"pages": "83",
+		"price": "48.00元"
 	},
 	{
 		"id": "9787564121341",
@@ -1162,7 +1392,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s4368130.jpg",
 		"rating": "6.6",
-		"publisher": "东南大学出版社"
+		"publisher": "东南大学出版社",
+		"pages": "222",
+		"price": "32.00元"
 	},
 	{
 		"id": "9787801035295",
@@ -1172,7 +1404,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s5842058.jpg",
 		"rating": "0.0",
-		"publisher": "商务国际"
+		"publisher": "商务国际",
+		"pages": "594",
+		"price": "39.80元"
 	},
 	{
 		"id": "9787801149176",
@@ -1182,7 +1416,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s1036148.jpg",
 		"rating": "8.0",
-		"publisher": "九州出版社"
+		"publisher": "九州出版社",
+		"pages": "431",
+		"price": "26.00元"
 	},
 	{
 		"id": "9787802065000",
@@ -1192,7 +1428,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s2924131.jpg",
 		"rating": "7.8",
-		"publisher": "光明日报出版社"
+		"publisher": "光明日报出版社",
+		"pages": "80",
+		"price": "4.00RMB"
 	},
 	{
 		"id": "9787802204317",
@@ -1202,7 +1440,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s3643319.jpg",
 		"rating": "8.6",
-		"publisher": "中国画报出版社"
+		"publisher": "中国画报出版社",
+		"pages": "",
+		"price": "49.80元"
 	},
 	{
 		"id": "9787802289697",
@@ -1213,7 +1453,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s5972249.jpg",
 		"rating": "9.1",
-		"publisher": "新世界出版社"
+		"publisher": "新世界出版社",
+		"pages": "971",
+		"price": "128.00元"
 	},
 	{
 		"id": "9787802345416",
@@ -1223,7 +1465,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s6461354.jpg",
 		"rating": "5.9",
-		"publisher": "中国发展"
+		"publisher": "中国发展",
+		"pages": "234",
+		"price": "28.00元"
 	},
 	{
 		"id": "9787805690445",
@@ -1233,7 +1477,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s1709036.jpg",
 		"rating": "8.9",
-		"publisher": "上海书店出版社"
+		"publisher": "上海书店出版社",
+		"pages": "615",
+		"price": "25.00元"
 	},
 	{
 		"id": "9787806064436",
@@ -1243,7 +1489,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s25093870.jpg",
 		"rating": "0.0",
-		"publisher": "吉林摄影出版社"
+		"publisher": "吉林摄影出版社",
+		"pages": "",
+		"price": "25.00"
 	},
 	{
 		"id": "9787806280362",
@@ -1253,7 +1501,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s3814414.jpg",
 		"rating": "0.0",
-		"publisher": "三秦"
+		"publisher": "三秦",
+		"pages": "137",
+		"price": "6.00元"
 	},
 	{
 		"id": "9787806280423",
@@ -1263,7 +1513,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s3243347.jpg",
 		"rating": "0.0",
-		"publisher": "三秦出版社"
+		"publisher": "三秦出版社",
+		"pages": "135",
+		"price": "6.00元"
 	},
 	{
 		"id": "9787806633953",
@@ -1273,7 +1525,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s5984518.jpg",
 		"rating": "8.2",
-		"publisher": "中国书店"
+		"publisher": "中国书店",
+		"pages": "178",
+		"price": "28.00元"
 	},
 	{
 		"id": "9787806651094",
@@ -1283,7 +1537,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s1148905.jpg",
 		"rating": "9.3",
-		"publisher": "岳麓书社"
+		"publisher": "岳麓书社",
+		"pages": "596",
+		"price": "14.50元"
 	},
 	{
 		"id": "9787806659595",
@@ -1293,7 +1549,9 @@
 		],
 		"image": "https://img2.doubanio.com/mpic/s5876927.jpg",
 		"rating": "7.2",
-		"publisher": "岳麓书社"
+		"publisher": "岳麓书社",
+		"pages": "542",
+		"price": "58.00元"
 	},
 	{
 		"id": "9787806680254",
@@ -1303,7 +1561,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s5696572.jpg",
 		"rating": "0.0",
-		"publisher": "学林出版社"
+		"publisher": "学林出版社",
+		"pages": "347",
+		"price": "18.00元"
 	},
 	{
 		"id": "9787807465256",
@@ -1313,7 +1573,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s3403975.jpg",
 		"rating": "8.6",
-		"publisher": "广西美术出版社"
+		"publisher": "广西美术出版社",
+		"pages": "272",
+		"price": "98.00元"
 	},
 	{
 		"id": "9787807465720",
@@ -1323,7 +1585,9 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s3491981.jpg",
 		"rating": "8.6",
-		"publisher": "广西美术出版社"
+		"publisher": "广西美术出版社",
+		"pages": "272",
+		"price": "89.00"
 	},
 	{
 		"id": "9787807635840",
@@ -1333,7 +1597,9 @@
 		],
 		"image": "https://img1.doubanio.com/mpic/s4665044.jpg",
 		"rating": "7.0",
-		"publisher": "广西科学技术出版社"
+		"publisher": "广西科学技术出版社",
+		"pages": "238",
+		"price": "28.00元"
 	},
 	{
 		"id": "9787810772907",
@@ -1343,6 +1609,8 @@
 		],
 		"image": "https://img3.doubanio.com/mpic/s1373526.jpg",
 		"rating": "8.7",
-		"publisher": "北京航空航天大学出版社"
+		"publisher": "北京航空航天大学出版社",
+		"pages": "582",
+		"price": "79.00元"
 	}
 ]

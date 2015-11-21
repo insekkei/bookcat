@@ -4,7 +4,29 @@ bookcatControllers.controller('BookListCtrl', ['$scope', 'Book',
 
 	function ($scope, Book) {
 		$scope.books = Book.query();
-		console.log($scope.books)
+
+		$scope.totalPages = 0;
+		$scope.totalPrice = 0.00;
+		$scope.books.$promise.then(function (data) {
+			for (var i = 0; i < data.length; i++) {
+				if(data[i].pages.length > 0) {
+					$scope.totalPages += Number (data[i].pages);
+				}
+				if (data[i].price.length > 0) {
+					var price = data[i].price.split('元')[0];
+					if (price.match('CNY') == 'CNY') {
+						price = price.split('CNY')[1];
+					}
+					$scope.totalPrice += parseFloat (price);
+
+				}
+			};
+			$scope.totalPrice = $scope.totalPrice.toFixed(2);
+
+		}, function (error) {
+		});
+
+		
 
 /*		$http.get('books/books.json').success(function(data) {
 			$scope.books = data
