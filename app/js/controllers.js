@@ -4,6 +4,7 @@ bookcatControllers.controller('BookListCtrl', ['$scope', 'Book',
 
 	function ($scope, Book) {
 		$scope.books = Book.query();
+		console.log($scope.books)
 
 /*		$http.get('books/books.json').success(function(data) {
 			$scope.books = data

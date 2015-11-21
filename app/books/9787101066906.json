@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 956,
+		"numRaters": 958,
 		"average": "9.2",
 		"min": 0
 	},
@@ -13,7 +13,7 @@
 	"pubdate": "2009-6-8",
 	"tags": [
 		{
-			"count": 352,
+			"count": 353,
 			"name": "王国维",
 			"title": "王国维"
 		},

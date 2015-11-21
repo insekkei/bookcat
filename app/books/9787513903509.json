@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 1244,
+		"numRaters": 1251,
 		"average": "8.1",
 		"min": 0
 	},
@@ -12,37 +12,37 @@
 	"pubdate": "2015-1-1",
 	"tags": [
 		{
-			"count": 1919,
+			"count": 1925,
 			"name": "历史",
 			"title": "历史"
 		},
 		{
-			"count": 1295,
+			"count": 1301,
 			"name": "耶路撒冷",
 			"title": "耶路撒冷"
 		},
 		{
-			"count": 1246,
+			"count": 1249,
 			"name": "宗教",
 			"title": "宗教"
 		},
 		{
-			"count": 656,
+			"count": 658,
 			"name": "中东",
 			"title": "中东"
 		},
 		{
-			"count": 581,
+			"count": 583,
 			"name": "文化",
 			"title": "文化"
 		},
 		{
-			"count": 277,
+			"count": 278,
 			"name": "耶路撒冷三千年",
 			"title": "耶路撒冷三千年"
 		},
 		{
-			"count": 178,
+			"count": 180,
 			"name": "政治",
 			"title": "政治"
 		},

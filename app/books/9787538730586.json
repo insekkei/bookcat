@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 520,
+		"numRaters": 523,
 		"average": "9.1",
 		"min": 0
 	},
@@ -17,12 +17,12 @@
 			"title": "小王子"
 		},
 		{
-			"count": 111,
+			"count": 112,
 			"name": "童话",
 			"title": "童话"
 		},
 		{
-			"count": 53,
+			"count": 54,
 			"name": "外国文学",
 			"title": "外国文学"
 		},

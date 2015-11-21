@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 946,
+		"numRaters": 948,
 		"average": "8.1",
 		"min": 0
 	},
@@ -12,7 +12,7 @@
 	"pubdate": "2012-5",
 	"tags": [
 		{
-			"count": 1094,
+			"count": 1095,
 			"name": "凯文·凯利",
 			"title": "凯文·凯利"
 		},
@@ -27,7 +27,7 @@
 			"title": "科技"
 		},
 		{
-			"count": 432,
+			"count": 433,
 			"name": "技术元素",
 			"title": "技术元素"
 		},
@@ -37,17 +37,17 @@
 			"title": "趋势"
 		},
 		{
-			"count": 300,
+			"count": 301,
 			"name": "KK",
 			"title": "KK"
 		},
 		{
-			"count": 268,
+			"count": 267,
 			"name": "技术",
 			"title": "技术"
 		},
 		{
-			"count": 210,
+			"count": 209,
 			"name": "商业",
 			"title": "商业"
 		}
