@@ -3,7 +3,8 @@ var bookcatApp = angular.module('bookcatApp', [
 	'bookcatAnimations',
 	'bookcatControllers',
 	'bookcatFilters',
-	'bookcatServices'
+	'bookcatServices',
+	'angular-md5'
 ]);
 
 bookcatApp.config(['$routeProvider',
