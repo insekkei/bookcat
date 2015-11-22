@@ -6,3 +6,10 @@ bookcatServices.factory('Book', ['$resource',
 			query: {method: 'GET', params: {bookId: 'books'}, isArray: true}
 		});
 	}]);
+
+bookcatServices.factory('BookConmments', ['$resource',
+	function($resource) {
+		return $resource('book_comments/:bookId.json', {}, {
+			
+		});
+	}]);

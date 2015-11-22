@@ -35,6 +35,18 @@
 					暂无
 				</span>
 			</p>
+
+			<div class="comments-list">
+				<div ng-if="!commentsList.notFound" class="clearfix">
+					<div ng-repeat="comment in commentsList.comments" class="comment">
+						<img ng-src={{comment.profileSrc}}>
+						<p class="comment-content">{{comment.content}}</p>
+						<p class="comment-date">—— <span> By </span> {{comment.author}} 于 <span>{{comment.date}}</span></p>
+					</div>
+				</div>
+				<p ng-if="commentsList.notFound">
+				</p>
+			</div>
 		</div>
 	</div>
 	<a class="close" href=".#/books">&times;</a>

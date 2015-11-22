@@ -245,6 +245,38 @@ h1 span:after {
     font-family: fantasy;
     font-weight: normal;
 }
+.comment {
+    background: beige;
+    padding: 1em 1.5em;
+    margin: 1em 0;
+    width: 95%;
+    float: right;
+    border-radius: 5px;
+}
+.comment img {
+    position: relative;
+    left: -6%;
+    top: 10px;
+    border-radius: 50%;
+    box-shadow: 0 0 1px 8px #fff;
+    border: 2px solid #F5F5DC;
+}
+.comment-author {
+
+}
+.comment-content {
+    position: relative;
+    padding-left:10%;
+    top: -40px;
+}
+.comment-date {
+    text-align: right;
+}
+.comment-date span {
+    font-style: italic;
+    color: #F0717C;
+    font-family: monospace;
+}
 .close {
     position: fixed;
     top: 40px;

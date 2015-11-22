@@ -35,8 +35,8 @@ bookcatControllers.controller('BookListCtrl', ['$scope', 'Book',
 		$scope.orderProp = 'title';
 	}]);
 
-bookcatControllers.controller('BookDetailCtrl', ['$scope', '$routeParams', 'Book',
-	function ($scope, $routeParams, Book) {
+bookcatControllers.controller('BookDetailCtrl', ['$scope', '$routeParams', 'Book', 'BookConmments', 'md5',
+	function ($scope, $routeParams, Book, BookConmments, md5) {
 		$scope.book = Book.get({bookId: $routeParams.bookId}, function (book) {
 			// 如果没有summary，设为空，如果有，为分段显示做准备
 			if (book.summary.length > 0) {
@@ -54,10 +54,25 @@ bookcatControllers.controller('BookDetailCtrl', ['$scope', '$routeParams', 'Book
 			}
 
 			$scope.book.notFound = false;
-		},function(err, book){ 
+
+		}, function (err, book) { 
 	    	//处理错误 
 	    	$scope.book.notFound = true;
 	   	});
+
+	   	$scope.commentsList = BookConmments.get({bookId: $routeParams.bookId + '_comment'}, function (commentsList) {
+
+	   		var comment = $scope.commentsList.comments;
+	   		for (var i = 0; i < comment.length; i++) {
+	   			console.log(comment[i].email);
+	   			comment[i].profileSrc = 'http://www.gravatar.com/avatar/' + md5.createHash(comment[i].email);
+	   		};
+
+	   		$scope.commentsList.notFound = false;
+	   		console.log($scope.commentsList);
+	   	}, function (err, commentsList) {
+	   		$scope.commentsList.notFound = true;
+	   	})
 
 		
 		/*$http.get('books/book' + $routeParams.bookId + '.json').success(function(data) {
