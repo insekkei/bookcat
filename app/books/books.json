@@ -905,6 +905,18 @@
 		"price": "15.00元"
 	},
 	{
+		"id": "9787532535538",
+		"title": "红楼梦",
+		"author": [
+			"曹雪芹 高鹗"
+		],
+		"image": "https://img1.doubanio.com/mpic/s1828102.jpg",
+		"rating": "9.3",
+		"publisher": "上海古籍出版社",
+		"pages": "893",
+		"price": "68.50元"
+	},
+	{
 		"id": "9787532553129",
 		"title": "纳兰词集",
 		"author": [
@@ -940,6 +952,18 @@
 		"publisher": "上海译文出版社",
 		"pages": "304",
 		"price": "39.00"
+	},
+	{
+		"id": "9787533866136",
+		"title": "婉约词",
+		"author": [
+			"罗立刚"
+		],
+		"image": "https://img1.doubanio.com/mpic/s5791764.jpg",
+		"rating": "8.2",
+		"publisher": "浙江教育出版社",
+		"pages": "257",
+		"price": "19.00元"
 	},
 	{
 		"id": "9787533866136",

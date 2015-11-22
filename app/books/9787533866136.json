@@ -1,0 +1,81 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 130,
+		"average": "8.2",
+		"min": 0
+	},
+	"subtitle": "婉约词",
+	"author": [
+		"罗立刚"
+	],
+	"pubdate": "2006-10",
+	"tags": [
+		{
+			"count": 26,
+			"name": "婉约词",
+			"title": "婉约词"
+		},
+		{
+			"count": 26,
+			"name": "古典文学",
+			"title": "古典文学"
+		},
+		{
+			"count": 24,
+			"name": "诗词",
+			"title": "诗词"
+		},
+		{
+			"count": 14,
+			"name": "中国文学",
+			"title": "中国文学"
+		},
+		{
+			"count": 6,
+			"name": "诗词曲赋",
+			"title": "诗词曲赋"
+		},
+		{
+			"count": 6,
+			"name": "文化",
+			"title": "文化"
+		},
+		{
+			"count": 6,
+			"name": "从琉璃似的梧桐叶流到积霜的瓦上的秋声",
+			"title": "从琉璃似的梧桐叶流到积霜的瓦上的秋声"
+		},
+		{
+			"count": 6,
+			"name": "中国",
+			"title": "中国"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s5791764.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "",
+	"pages": "257",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s5791764.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s5791764.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s5791764.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/1954901\/",
+	"id": "1954901",
+	"publisher": "浙江教育出版社",
+	"isbn10": "7533866134",
+	"isbn13": "9787533866136",
+	"title": "婉约词",
+	"url": "http:\/\/api.douban.com\/v2\/book\/1954901",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "词肇始于李唐，大盛于两宋，衰于元明，中兴于满清，延续至于近现代，不绝如缕。词学研究，自唐至宋元明清，直到近现代，总体呈不断繁盛之势。伴随着词学的繁荣，反映各种词学思想与主张的选本也不断出现，而且越来越丰富，用汗牛充栋一词形容，绝不过分。 自明人分词为婉约、豪放二体，清理词史，以此为便。延续至今，遂成共识。至于二体区别，词学专家已辨析微芒，一般读者也自有主张。不必在此赘言，况且也非数语所能尽者。本次整理，便依从传统二分的方法，成《豪放词》、《婉约词》二书，相互比对，希望可以给读者一个更加鲜明的印象。",
+	"series": {
+		"id": "3490",
+		"title": "博文雅趣书系"
+	},
+	"price": "19.00元"
+}
