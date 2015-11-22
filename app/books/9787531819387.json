@@ -1,0 +1,47 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 1,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "汉曹全碑",
+	"author": [
+		"李放呜"
+	],
+	"pubdate": "2008-1",
+	"tags": [
+		{
+			"count": 1,
+			"name": "will",
+			"title": "will"
+		},
+		{
+			"count": 1,
+			"name": "书法",
+			"title": "书法"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s8458324.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "",
+	"pages": "92",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s8458324.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s8458324.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s8458324.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/2968720\/",
+	"id": "2968720",
+	"publisher": "黑龙江美术",
+	"isbn10": "7531819384",
+	"isbn13": "9787531819387",
+	"title": "历代名家书法经典字谱",
+	"url": "http:\/\/api.douban.com\/v2\/book\/2968720",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《历代名家书法经典字谱:张猛龙碑》内容：书法是中华民族传统文化艺术宝库中一朵绚丽的奇葩，它有着三千余年的悠久历史和优良传统。鲁迅先生曾讲：“视文字为美观是华夏之独特”，而今这门独特的艺术已不仅为国人所喜爱，而且远播重洋，驰誉国外，在世界艺术之林中独领风骚，放射出奇异夺目的光彩。 《历代名家书法经典字谱》系列丛书采取全新的版式，全面的剖析，全方位多视角地展示历代书法名家传承至今的经典字帖。其中每个分册选一位书法家的代表作，分人物简介、书法特点、用笔技巧、基本笔画、偏旁部首、结构布势、集字临创、原帖再现等章节进行介绍，每个字均有运笔图解和技法精解，可谓图文并茂，详略得宜，深入浅出，循序渐进，具有较强的理论性和可操作性，既适用于初学者自修，也适合用于书法培训的教材。 《历代名家书法经典字谱:张猛龙碑》为该系列丛书之一。",
+	"price": "15.00元"
+}

@@ -1,0 +1,86 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 1917,
+		"average": "9.4",
+		"min": 0
+	},
+	"subtitle": "第2版",
+	"author": [
+		"W.Richard Stevens",
+		"Stephen A.Rago"
+	],
+	"pubdate": "2006年",
+	"tags": [
+		{
+			"count": 1939,
+			"name": "unix",
+			"title": "unix"
+		},
+		{
+			"count": 1209,
+			"name": "编程",
+			"title": "编程"
+		},
+		{
+			"count": 841,
+			"name": "Linux",
+			"title": "Linux"
+		},
+		{
+			"count": 519,
+			"name": "计算机",
+			"title": "计算机"
+		},
+		{
+			"count": 472,
+			"name": "programming",
+			"title": "programming"
+		},
+		{
+			"count": 458,
+			"name": "经典",
+			"title": "经典"
+		},
+		{
+			"count": 278,
+			"name": "程序设计",
+			"title": "程序设计"
+		},
+		{
+			"count": 251,
+			"name": "C",
+			"title": "C"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s4436543.jpg",
+	"binding": "平装",
+	"translator": [
+		"尤晋元",
+		"张亚英",
+		"戚正伟"
+	],
+	"catalog": "",
+	"pages": "758",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s4436543.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s4436543.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s4436543.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/1788421\/",
+	"id": "1788421",
+	"publisher": "人民邮电出版社",
+	"isbn10": "7115147310",
+	"isbn13": "9787115147318",
+	"title": "UNIX环境高级编程",
+	"url": "http:\/\/api.douban.com\/v2\/book\/1788421",
+	"alt_title": "Advanced Programming in the UNIX Environment",
+	"author_intro": "作者：(美)史蒂文斯 (美)拉戈 译者：尤晋元 张亚英 戚正伟\nW.Richard Stevens，备受赞誉的技术作家，生前著有多种经典的传世之作，包括《UNIX网络编程》（两卷本）、《TCP\/IP详解》（三卷本）和本书第1版。 尤晋元，上海交通大学计算机科学及工程系教授、博士生导师。在科研方面，主要从事操作系统和分布对象计算技术方面的研究；在教学方面，长期承担操作系统及分布计算等课程的教学工作。主编和翻译了多本操作系统教材和参考书，包括《UNIX操作系统教程》、《UNIX高级编程技术》、《UNIX环境高级编程》和《操作系统：设计与实现》等。",
+	"summary": "本书是被誉为UNIX编程“圣经”的Advanced Programming in the UNIX Environment一书的更新版。在本书第1版出版后的十几年中，UNIX行业已经有了巨大的变化，特别是影响UNIX编程接口的有关标准变化很大。本书在保持了前一版风格的基础上，根据最新的标准对内容进行了修订和增补，反映了最新的技术发展。书中除了介绍UNIX文件和目录、标准I\/O库、系统数据文件和信息、进程环境、进程控制、进程关系、信号、线程、线程控制、守护进程、各种I\/O、进程间通信、网络IPC、伪终端等方面的内容，还在此基础上介绍了多个应用示例，包括如何创建数据库函数库以及如何与网络打印机通信等。此外，还在附录中给出了函数原型和部分习题的答案。\r\n    本书内容权威，概念清晰，阐述精辟，对于所有层次UNIX程序员都是一本不可或缺的参考书。",
+	"series": {
+		"id": "6628",
+		"title": "传世经典书丛"
+	},
+	"price": "99.00元"
+}

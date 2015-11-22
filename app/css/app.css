@@ -163,7 +163,13 @@ h1 span:after {
     width: 25%;
     display: inline-block;
     vertical-align: initial;
+    filter: sepia(.6);
+    -webkit-filter: sepia(.6);
+    -moz-filter: sepia(.6);
+    -o-filter: sepia(.6);
+    -ms-filter: sepia(.6);
 }
+
 .bookinfo {
     display: inline-block;
     width: 70%;
@@ -245,32 +251,70 @@ h1 span:after {
     font-family: fantasy;
     font-weight: normal;
 }
+.comments-list {
+    width: 50%;
+    float: right;
+    right: 0;
+}
 .comment {
-    background: beige;
     padding: 1em 1.5em;
     margin: 1em 0;
-    width: 95%;
-    float: right;
     border-radius: 5px;
+    font-size: 11px;
+    color: #666;
+    opacity: .6;
+}
+.comment:nth-child(2n) {
+    opacity: .3;
+}
+.comment:hover {
+    opacity: 1;
+    transition: all .2s linear;
 }
 .comment img {
-    position: relative;
-    left: -6%;
-    top: 10px;
+    width: 60px;
     border-radius: 50%;
     box-shadow: 0 0 1px 8px #fff;
     border: 2px solid #F5F5DC;
+    float: right;
+    margin-left: 35px;
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+    -moz-filter: grayscale(1);
+    -o-filter: grayscale(1);
+    -ms-filter: grayscale(1);
+}
+.comment:hover img {
+    filter: grayscale(.5);
+    -webkit-filter: grayscale(.5);
+    -moz-filter: grayscale(.5);
+    -o-filter: grayscale(.5);
+    -ms-filter: grayscale(.5);
 }
 .comment-author {
 
 }
 .comment-content {
     position: relative;
-    padding-left:10%;
-    top: -40px;
+}
+.comment-content:before, .comment-content:after {
+    position: absolute;
+    font-size: 50px;
+    font-family: cursive;
+    color: #333;
+}
+.comment-content:before {
+    content: "“";
+    top: -30px;
+    left: -40px;
+}
+.comment-content:after {
+    content: "”";
+    right: 70px;
+    bottom: -60px;
 }
 .comment-date {
-    text-align: right;
+    font-size: 11px;
 }
 .comment-date span {
     font-style: italic;

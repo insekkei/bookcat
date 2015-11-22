@@ -1,0 +1,42 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 1,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"韩金瑞"
+	],
+	"pubdate": "2008-1",
+	"tags": [
+		{
+			"count": 1,
+			"name": "社科",
+			"title": "社科"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img2.doubanio.com\/mpic\/s5842058.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "",
+	"pages": "594",
+	"images": {
+		"small": "https:\/\/img2.doubanio.com\/spic\/s5842058.jpg",
+		"large": "https:\/\/img2.doubanio.com\/lpic\/s5842058.jpg",
+		"medium": "https:\/\/img2.doubanio.com\/mpic\/s5842058.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/2331452\/",
+	"id": "2331452",
+	"publisher": "商务国际",
+	"isbn10": "7801035291",
+	"isbn13": "9787801035295",
+	"title": "红楼梦人物大全",
+	"url": "http:\/\/api.douban.com\/v2\/book\/2331452",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "本书以《红楼梦》为蓝本，将书中出现的有名、姓的452个人物以逼真、传神、直观的画像加以表现，并配以概括各个人物特征的题词，同时又以简明扼要的文字对每个人物的身份、地位、性格、主要事迹等作了说明。\n品读此书，广大《红楼梦》爱好者可以更好地熟悉原著的情节，领略其深厚的文化内涵，感受其迷人的艺术魅力，从而得到更高的阅读享受和视觉\n愉悦。\n有关《红楼梦》的图和画虽已品种繁多、精彩纷呈，但本书是目前同类书籍中人物画像最为丰富的一本。",
+	"price": "39.80元"
+}

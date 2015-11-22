@@ -1,0 +1,77 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 340,
+		"average": "8.8",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"于渊"
+	],
+	"pubdate": "2009-6",
+	"tags": [
+		{
+			"count": 595,
+			"name": "操作系统",
+			"title": "操作系统"
+		},
+		{
+			"count": 224,
+			"name": "计算机",
+			"title": "计算机"
+		},
+		{
+			"count": 194,
+			"name": "OS",
+			"title": "OS"
+		},
+		{
+			"count": 125,
+			"name": "编程",
+			"title": "编程"
+		},
+		{
+			"count": 118,
+			"name": "底层",
+			"title": "底层"
+		},
+		{
+			"count": 67,
+			"name": "计算机科学",
+			"title": "计算机科学"
+		},
+		{
+			"count": 49,
+			"name": "programming",
+			"title": "programming"
+		},
+		{
+			"count": 47,
+			"name": "开发",
+			"title": "开发"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s3788445.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "",
+	"pages": "469",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s3788445.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s3788445.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s3788445.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/3735649\/",
+	"id": "3735649",
+	"publisher": "电子工业出版社",
+	"isbn10": "7121084422",
+	"isbn13": "9787121084423",
+	"title": "Orange'S:一个操作系统的实现",
+	"url": "http:\/\/api.douban.com\/v2\/book\/3735649",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《Orange S:一个操作系统的实现》从只有二十行的引导扇区代码出发，一步一步地向读者呈现一个操作系统框架的完成过程。书中不仅关注代码本身，同时关注完成这些代码的思路和过程。本书不同于其他的理论型书籍，而是提供给读者一个动手实践的路线图。读者可以根据路线图逐步完成各部分的功能，从而避免了一开始就面对整个操作系统数万行代码时的迷茫和挫败感。书中讲解了大量在开发操作系统中需注意的细节问题，这些细节不仅能使读者更深刻地认识操作系统的核心原理，而且使整个开发过程少走弯路。本书分上下两篇，共11章。其中每一章都以前一章的工作成果为基础，实现一项新的功能。而在章的内部，一项大的功能被分解成许多小的步骤，通过完成每个小的步骤，读者可以不断获得阶段性的成果，从而让整个开发过程变得轻松并且有趣。\n本书适合各类程序员、程序开发爱好者阅读，也可作为高等院校操作系统课程的实践参考书。",
+	"price": "69.00元"
+}

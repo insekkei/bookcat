@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 45,
+		"average": "8.4",
+		"min": 0
+	},
+	"subtitle": "破译网格设计",
+	"author": [
+		"（美）贝斯托恩德罗（Beth Tondreau）"
+	],
+	"pubdate": "2012-6-30",
+	"tags": [
+		{
+			"count": 32,
+			"name": "设计",
+			"title": "设计"
+		},
+		{
+			"count": 28,
+			"name": "平面设计",
+			"title": "平面设计"
+		},
+		{
+			"count": 20,
+			"name": "版式设计",
+			"title": "版式设计"
+		},
+		{
+			"count": 17,
+			"name": "网格",
+			"title": "网格"
+		},
+		{
+			"count": 8,
+			"name": "设计理论",
+			"title": "设计理论"
+		},
+		{
+			"count": 6,
+			"name": "排版！",
+			"title": "排版！"
+		},
+		{
+			"count": 4,
+			"name": "DESIGN",
+			"title": "DESIGN"
+		},
+		{
+			"count": 4,
+			"name": "设计基础",
+			"title": "设计基础"
+		}
+	],
+	"origin_title": "Layout Esssentials: 100 Design Principles for Using Grids",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s10299672.jpg",
+	"binding": "平装",
+	"translator": [
+		"潘克建  赖  桃"
+	],
+	"catalog": "",
+	"pages": "208",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s10299672.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s10299672.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s10299672.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/10787778\/",
+	"id": "10787778",
+	"publisher": "广西美术出版社",
+	"isbn10": "754940528X",
+	"isbn13": "9787549405282",
+	"title": "破译网格设计",
+	"url": "http:\/\/api.douban.com\/v2\/book\/10787778",
+	"alt_title": "Layout Esssentials: 100 Design Principles for Using Grids",
+	"author_intro": "贝斯•托恩德罗（Beth Tondreau）是BTD公司的创始人和负责人，BTD是一家小型设计工作室，主要是与出版社合作从事图书及其封面设计；同时也设计商标、企业标志及网页等。她目前在纽约服装技术学院教授设计课程。",
+	"summary": "网格是所有设计的基础，对设计师来说，学会运用网格是进行所有设计的基础。运用从一栏到多栏网格，与文字、色彩、图像及其他诸多元素综合使用，《破译网格设计》用100条规则与案例来说明如何完成完美的设计。\n本书不仅为成功进行网格设计提供了丰富而实用的规则，并且运用设计实例中不同类型的网格，以及如何打破网格设计规则来说明如何达成富于启发的设计。\n第一本“一站式”创建和使用网格进行设计的参考与资料书，适用于各类设计实例。                                                                              运用从一栏到多栏网格，与文字、色彩、图像及其他诸多元素综合使用，《破译网格设计》用100条规则与案例来说明如何完成完美的设计。",
+	"series": {
+		"id": "2733",
+		"title": "美国视觉设计学院用书"
+	},
+	"price": "78.00元"
+}

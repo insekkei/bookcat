@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 19,
+		"average": "8.3",
+		"min": 0
+	},
+	"subtitle": "破译文字编排设计",
+	"author": [
+		"（美）艾娜•索尔兹（Ina Saltz）"
+	],
+	"pubdate": "2012-6-30",
+	"tags": [
+		{
+			"count": 27,
+			"name": "设计",
+			"title": "设计"
+		},
+		{
+			"count": 14,
+			"name": "平面设计",
+			"title": "平面设计"
+		},
+		{
+			"count": 13,
+			"name": "字体",
+			"title": "字体"
+		},
+		{
+			"count": 9,
+			"name": "排版",
+			"title": "排版"
+		},
+		{
+			"count": 5,
+			"name": "排版&设计",
+			"title": "排版&设计"
+		},
+		{
+			"count": 4,
+			"name": "版式设计",
+			"title": "版式设计"
+		},
+		{
+			"count": 2,
+			"name": "文字编排",
+			"title": "文字编排"
+		},
+		{
+			"count": 1,
+			"name": "設計八卦",
+			"title": "設計八卦"
+		}
+	],
+	"origin_title": "Typography Essentials: 100 Design Principles for Working with Type",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s10299661.jpg",
+	"binding": "平装",
+	"translator": [
+		"周  彦"
+	],
+	"catalog": "",
+	"pages": "208",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s10299661.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s10299661.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s10299661.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/10787707\/",
+	"id": "10787707",
+	"publisher": "广西美术出版社",
+	"isbn10": "7549405328",
+	"isbn13": "9787549405329",
+	"title": "破译文字编排设计",
+	"url": "http:\/\/api.douban.com\/v2\/book\/10787707",
+	"alt_title": "Typography Essentials: 100 Design Principles for Working with Type",
+	"author_intro": "艾娜•索尔兹（Ina Saltz）是一位艺术总监、设计师、作家、摄影师，同时也是纽约城市大学电子设计与多媒体专业教授。她是《身体文字：刻在肉体里的私密信息》一书的作者及主要摄影师，该书记录了字体纹身（第二册将于2009年出版）。22年来，她一直是《时代杂志》（国际版）、《价值杂志》、《高尔夫杂志》及其他杂志的编辑设计总监。她为《步入设计》杂志、《怎样》和《纹身》杂志撰写了50多篇文章，内容涵盖许多字体和平面设计主题；她还为《平面设计经典》撰稿26篇，此书为三卷本，由费顿出版社于2010年出版。",
+	"summary": "本书是实践性、操作性强的读本，归纳、总结和划分许多复杂的关于字体有效运用的问题，但并非把这些问题简单化。对于每种媒介设计者来说，字体在媒介中或多或少都起着重要作用。\n对字形字体透彻的了解及有效利用字体知识，只有通过不断观察和尝试才能获得，本书即旨在为那些苦苦探求以提升其字体设计技艺者们提供便利。\n本书分为四个部分：字母、单词、段落及页面。100条原则的每一条都将理论与实例相结合。",
+	"series": {
+		"id": "2733",
+		"title": "美国视觉设计学院用书"
+	},
+	"price": "78.00元"
+}

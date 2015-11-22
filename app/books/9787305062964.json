@@ -1,0 +1,50 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 10,
+		"average": "7.5",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [],
+	"pubdate": "2009-7",
+	"tags": [
+		{
+			"count": 5,
+			"name": "诗词",
+			"title": "诗词"
+		},
+		{
+			"count": 3,
+			"name": "国学",
+			"title": "国学"
+		},
+		{
+			"count": 2,
+			"name": "文化典籍",
+			"title": "文化典籍"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s6068590.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "",
+	"pages": "366",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s6068590.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s6068590.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s6068590.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/4021704\/",
+	"id": "4021704",
+	"publisher": "",
+	"isbn10": "7305062960",
+	"isbn13": "9787305062964",
+	"title": "诗词歌赋",
+	"url": "http:\/\/api.douban.com\/v2\/book\/4021704",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《诗词歌赋》对我国古代诗歌的发展作了详细的介绍。诗歌不但在表达一个世界，更重要的是在塑造一个世界。我们这个民族的文化基因和性格特征是留存在诗歌中的。诗及其变体的其他形式构建了我们的民族精神史。在很长时间内，诗歌以其整齐、匀称的形式构建了一个关于平衡、和谐、完满、理想和乐观世界的图景，为中国诗人在并不完满的现实世界中提供了精神庇护。同时，中国诗人也以这个诗歌形式所营造出来的理想世界去批判和抗议这个或破碎或黯淡的人间世界。",
+	"price": "21.00元"
+}

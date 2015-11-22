@@ -1,0 +1,81 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 188,
+		"average": "9.3",
+		"min": 0
+	},
+	"subtitle": "老子道德经注",
+	"author": [
+		"楼宇烈 校 （魏）王弼 注"
+	],
+	"pubdate": "2011-1-1",
+	"tags": [
+		{
+			"count": 90,
+			"name": "老子",
+			"title": "老子"
+		},
+		{
+			"count": 69,
+			"name": "哲学",
+			"title": "哲学"
+		},
+		{
+			"count": 67,
+			"name": "国学",
+			"title": "国学"
+		},
+		{
+			"count": 38,
+			"name": "道家",
+			"title": "道家"
+		},
+		{
+			"count": 26,
+			"name": "中国哲学",
+			"title": "中国哲学"
+		},
+		{
+			"count": 22,
+			"name": "道德经",
+			"title": "道德经"
+		},
+		{
+			"count": 21,
+			"name": "王弼",
+			"title": "王弼"
+		},
+		{
+			"count": 16,
+			"name": "古籍",
+			"title": "古籍"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s27465834.jpg",
+	"binding": "精装",
+	"translator": [],
+	"catalog": "校释说明\n上篇\n一章\n二章\n三章\n四章\n五章\n六章\n七章\n八章\n九章\n十章\n十一章\n十二章\n十三章\n十四章\n十五章\n十六章\n十七章\n十八章\n十九章\n二十章\n二十一章\n二十二章\n二十三章\n二十四章\n二十五章\n二十六章\n二十七章\n二十八章\n二十九章\n三十章\n三十一章\n三十二章\n三十三章\n三十四章\n三十五章\n三十六章\n三十七章\n下篇\n三十八章\n三十九章\n……\n老子指略辑佚",
+	"pages": "216",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s27465834.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s27465834.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s27465834.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/5403730\/",
+	"id": "5403730",
+	"publisher": "中华书局",
+	"isbn10": "710107488X",
+	"isbn13": "9787101074888",
+	"title": "老子道德经注",
+	"url": "http:\/\/api.douban.com\/v2\/book\/5403730",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《老子道德经注》由魏朝王弼注，由楼宇烈校释。《道德经》包罗了宇宙观、人生观、认识论、方法论以及立身处世、治国安邦等方方面面的内容。本书对《道德经》进行了注释，使有些古奥难懂的内容变得通俗易懂，适合广大读者阅读、鉴赏。",
+	"series": {
+		"id": "7595",
+		"title": "中华国学文库"
+	},
+	"price": "19.00元"
+}

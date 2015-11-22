@@ -64,12 +64,10 @@ bookcatControllers.controller('BookDetailCtrl', ['$scope', '$routeParams', 'Book
 
 	   		var comment = $scope.commentsList.comments;
 	   		for (var i = 0; i < comment.length; i++) {
-	   			console.log(comment[i].email);
 	   			comment[i].profileSrc = 'http://www.gravatar.com/avatar/' + md5.createHash(comment[i].email);
 	   		};
 
 	   		$scope.commentsList.notFound = false;
-	   		console.log($scope.commentsList);
 	   	}, function (err, commentsList) {
 	   		$scope.commentsList.notFound = true;
 	   	})

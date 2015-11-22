@@ -1,0 +1,80 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 72,
+		"average": "6.6",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"Yugui"
+	],
+	"pubdate": "2010 年4月",
+	"tags": [
+		{
+			"count": 68,
+			"name": "Ruby",
+			"title": "Ruby"
+		},
+		{
+			"count": 30,
+			"name": "编程",
+			"title": "编程"
+		},
+		{
+			"count": 21,
+			"name": "O'Reilly",
+			"title": "O'Reilly"
+		},
+		{
+			"count": 16,
+			"name": "计算机",
+			"title": "计算机"
+		},
+		{
+			"count": 8,
+			"name": "入门",
+			"title": "入门"
+		},
+		{
+			"count": 7,
+			"name": "Programming",
+			"title": "Programming"
+		},
+		{
+			"count": 7,
+			"name": "ruby",
+			"title": "ruby"
+		},
+		{
+			"count": 6,
+			"name": "程序语言",
+			"title": "程序语言"
+		}
+	],
+	"origin_title": "Hajimeteno Ruby",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s4368130.jpg",
+	"binding": "",
+	"translator": [
+		"丁明",
+		"吕嘉"
+	],
+	"catalog": "序\n前言\n第1章 欢迎来到Ruby的世界\n1.1 Ruby的特征\n1.2 处理系统和运行环境\n1.3 运行模式\n1.4 解释器的运行\n1.5 语法和功能\n1.6 本章总结\n第2章 数组和哈希表\n2.1 数组\n2.2 哈希表\n2.3 Enumerable模块\n2.4 本章总结\n第3章 数值\n3.1 数字\n3.2 数值运算\n3.3 比较\n3.4 数学函数\n3.5 比特运算\n.3.6 本章总结\n第4章 字符串\n4.1 字符串的创建\n4.2 字符和字符字面量\n4.3 正则表达式\n4.4 对子字符串进行操作\n4.5 字符串的操作\n4.6 迭代\n4.7 格式化\n4.8 Symbol\n4.9 Ruby 1.8和多字节字符串\n4.10 多字节字符串和Ruby 1.9\n4.11 本章总结\n第5章 输入输出\n5.1 程序的参数\n5.2 文件\n5.3 标准输入输出\n5.4 其他的输入输出对象\n5.5 编码(Encoding)\n5.6 本章总结\n第6章 变量和表达式\n6.1 变量\n6.2 运算符\n6.3 控制表达式\n6.4 异常处理\n6.5 大范围跳出\n6.6 本章总结\n第7章 方法\n7.1 方法调用\n7.2 方法的定义\n7.3 带有代码块的方法\n7.4 本章总结\n第8章 对象和类\n8.1 类的定义\n8.2 变量与常量\n8.3 访问权限\n8.4 单态方法与单态类\n8.5 模块\n8.6 方法查找\n8.7 本章总结\n第9章 超越本书\n9.1 RubyGems\n9.2 网络\n9.3 数据库\n9.4 图像\n9.5 GUI\n9.6 Ruby的黑魔术\n9.7 Ruby的信息源\n9.8 社区\n附录A 处理系统的安装\nA.1 版本的选择\nA.2 Microsoft Windows\nA.3 Mac OS X\nA.4 GNU／Linux\nA.5 从源程序进行安装\nA.6 RubyGems\nA.7 其他\n附录B 表\nB.1 Ruby 1.8到1.9的变化\nB.2 用语集",
+	"pages": "222",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s4368130.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s4368130.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s4368130.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/4833653\/",
+	"id": "4833653",
+	"publisher": "东南大学出版社",
+	"isbn10": "7564121343",
+	"isbn13": "9787564121341",
+	"title": "Ruby语言入门",
+	"url": "http:\/\/api.douban.com\/v2\/book\/4833653",
+	"alt_title": "Hajimeteno Ruby",
+	"author_intro": "",
+	"summary": "《Ruby 语言入门(中文版)》为具有一定其他语言的编程经验的读者介绍Ruby的特征、Ruby中的编程方法和编程习惯。这些内容都是为了让读者能够边阅读Ruby的资料边进行实践性的学习所必须具备的基础知识。《Ruby 语言入门(中文版)》对Ruby的基础部分和元类、块语句这样独特的概念，以及由此产生的特有的文化进行了说明，以使读者能够了解到Ruby独特的思考方式。读完《Ruby 语言入门(中文版)》，读者就应该能够灵活地运用各种Ruby的类库，并能够掌握编写高水平的Ruby程序的基础知识。",
+	"price": "32.00元"
+}

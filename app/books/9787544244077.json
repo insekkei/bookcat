@@ -1,0 +1,85 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 18688,
+		"average": "7.7",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"[英] 维多利亚·希斯洛普"
+	],
+	"pubdate": "2009-4",
+	"tags": [
+		{
+			"count": 3538,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 3137,
+			"name": "英国文学",
+			"title": "英国文学"
+		},
+		{
+			"count": 3071,
+			"name": "岛",
+			"title": "岛"
+		},
+		{
+			"count": 2170,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 1429,
+			"name": "英国",
+			"title": "英国"
+		},
+		{
+			"count": 1236,
+			"name": "爱情",
+			"title": "爱情"
+		},
+		{
+			"count": 1209,
+			"name": "希斯洛普",
+			"title": "希斯洛普"
+		},
+		{
+			"count": 616,
+			"name": "文学",
+			"title": "文学"
+		}
+	],
+	"origin_title": "The Island",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s3735710.jpg",
+	"binding": "平装",
+	"translator": [
+		"陈新宇"
+	],
+	"catalog": "",
+	"ebook_url": "http:\/\/read.douban.com\/ebook\/3167299\/",
+	"pages": "386",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s3735710.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s3735710.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s3735710.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/3673651\/",
+	"id": "3673651",
+	"publisher": "南海出版公司",
+	"isbn10": "7544244075",
+	"isbn13": "9787544244077",
+	"title": "岛",
+	"url": "http:\/\/api.douban.com\/v2\/book\/3673651",
+	"alt_title": "The Island",
+	"author_intro": "维多利亚·希斯洛普，英国著名作家，《岛》为其长篇处女作。",
+	"summary": "多年来，阿丽克西斯发觉母亲总是过分守护着自己的过去，不仅掩埋了自己的根，还把上面的泥土踩得结结实实。\n阿丽克西斯决定打开母亲尘封的过去。\n她来到爱琴海的布拉卡，登上一座叫斯皮纳龙格的荒凉小岛。这是一处禁地，一处令布拉卡、爱琴海，甚至整个欧洲都谈虎色变的禁地，更是母亲的禁地。\n禁地打开，一个融合爱恨纠葛的凄凉故事怆然铺展，一曲令整个欧洲潸然泪下的生死悲欢徐徐打开……",
+	"ebook_price": "14.00",
+	"series": {
+		"id": "25987",
+		"title": "新经典文库：维多利亚·希斯洛普作品"
+	},
+	"price": "28.00"
+}

@@ -1,0 +1,74 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 13,
+		"average": "6.8",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"曾国藩"
+	],
+	"pubdate": "2010-1",
+	"tags": [
+		{
+			"count": 7,
+			"name": "曾国藩",
+			"title": "曾国藩"
+		},
+		{
+			"count": 4,
+			"name": "国学",
+			"title": "国学"
+		},
+		{
+			"count": 4,
+			"name": "识人",
+			"title": "识人"
+		},
+		{
+			"count": 3,
+			"name": "中国",
+			"title": "中国"
+		},
+		{
+			"count": 3,
+			"name": "冰鉴",
+			"title": "冰鉴"
+		},
+		{
+			"count": 2,
+			"name": "经典",
+			"title": "经典"
+		},
+		{
+			"count": 1,
+			"name": "沟通",
+			"title": "沟通"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s6107932.jpg",
+	"binding": "",
+	"translator": [
+		"东篱子"
+	],
+	"catalog": "神骨第一刚柔第二容貌第三情态第四须眉第五声音第六气色第七",
+	"pages": "323",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s6107932.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s6107932.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s6107932.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/4209040\/",
+	"id": "4209040",
+	"publisher": "中国纺织",
+	"isbn10": "7506460262",
+	"isbn13": "9787506460262",
+	"title": "冰鉴全鉴",
+	"url": "http:\/\/api.douban.com\/v2\/book\/4209040",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《冰鉴全鉴》主要内容简介：《冰鉴》是晚清重臣曾国藩所著的一部识人鉴人的专著。在《冰鉴》中，曾国藩从整体出发，采用由外而内、动静结合的方法，全面阐述了自己在识人用人方面的心得，极具实用价值。尽管时过境迁，但其中仍不乏精华，很多方面仍然值得现代人借鉴。",
+	"price": "36.80元"
+}

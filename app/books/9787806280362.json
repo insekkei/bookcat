@@ -1,0 +1,71 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 2,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"屈原"
+	],
+	"pubdate": "2008-8-1",
+	"tags": [
+		{
+			"count": 2,
+			"name": "屈原",
+			"title": "屈原"
+		},
+		{
+			"count": 2,
+			"name": "已购",
+			"title": "已购"
+		},
+		{
+			"count": 2,
+			"name": "楚辞",
+			"title": "楚辞"
+		},
+		{
+			"count": 1,
+			"name": "古典文学",
+			"title": "古典文学"
+		},
+		{
+			"count": 1,
+			"name": "楚辞，诗歌，古代文学，中国文学",
+			"title": "楚辞，诗歌，古代文学，中国文学"
+		},
+		{
+			"count": 1,
+			"name": "诗歌",
+			"title": "诗歌"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s3814414.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "离  骚九  歌  东皇太  云中君  湘  君  湘夫人  大司命  少司命  东  君  河  伯  山  鬼  国  殇  礼  魂天  问九  章  惜  诵  涉  江  哀  郢  抽  思  怀  沙  思美人  惜往日  桔  颂  悲回风远  游卜  居渔  父九  辩",
+	"pages": "137",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s3814414.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s3814414.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s3814414.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/2019305\/",
+	"id": "2019305",
+	"publisher": "三秦",
+	"isbn10": "7806280367",
+	"isbn13": "9787806280362",
+	"title": "楚辞",
+	"url": "http:\/\/api.douban.com\/v2\/book\/2019305",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《楚辞》作为我国第一部浪漫主义诗歌总集，由于诗歌的形式是在楚国民歌的基础上加工形成，篇中又大量引用楚地的风土物产和方言词汇，所以叫“楚辞”。《楚辞》主要是屈原的作品，其代表作是《离骚》，后人因此又称“楚辞”为“骚体”。西汉末年，刘向搜集屈原、宋玉等人的作品，辑录成集。",
+	"series": {
+		"id": "12735",
+		"title": "中华国学百部"
+	},
+	"price": "6.00元"
+}

@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 1390,
+		"average": "8.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"[德] 尼采"
+	],
+	"pubdate": "2003-7",
+	"tags": [
+		{
+			"count": 608,
+			"name": "尼采",
+			"title": "尼采"
+		},
+		{
+			"count": 557,
+			"name": "哲学",
+			"title": "哲学"
+		},
+		{
+			"count": 238,
+			"name": "尼采生存哲学",
+			"title": "尼采生存哲学"
+		},
+		{
+			"count": 119,
+			"name": "德国",
+			"title": "德国"
+		},
+		{
+			"count": 104,
+			"name": "西方哲学",
+			"title": "西方哲学"
+		},
+		{
+			"count": 70,
+			"name": "心灵哲学",
+			"title": "心灵哲学"
+		},
+		{
+			"count": 49,
+			"name": "Philosophy",
+			"title": "Philosophy"
+		},
+		{
+			"count": 46,
+			"name": "哲學",
+			"title": "哲學"
+		}
+	],
+	"origin_title": "Friedrich Nietzsche",
+	"image": "https:\/\/img2.doubanio.com\/mpic\/s1036148.jpg",
+	"binding": "平装",
+	"translator": [
+		"杨恒达"
+	],
+	"catalog": "一 瞧，这个人\n1 为什么我这样智慧\n2 为什么我这样聪明\n3 为什么我写出如此好的书\n4 为什么我知道我的命运\n二 快乐的智慧\n1 生命，应被热爱\n2 知性的良知\n3 高贵与卑贱\n4 谁保存了人类\n5 绝对责任\n……\n三 偶然的黄昏\n1 反自然的道德\n2 论“良知”\n3 美与丑\n四 道德的谱系\n1 “善与恶”“好与坏”\n2 教士的价值观\n3 羊羔与猛兽\n五 善恶的彼岸\n1 自由精神\n2 哦，人类！哦，白痴！\n3 我们的道德\n4 女人希望独立\n……\n六 人性的，太人性的\n……\n七 查拉图斯特拉如是说\n……",
+	"pages": "431",
+	"images": {
+		"small": "https:\/\/img2.doubanio.com\/spic\/s1036148.jpg",
+		"large": "https:\/\/img2.doubanio.com\/lpic\/s1036148.jpg",
+		"medium": "https:\/\/img2.doubanio.com\/mpic\/s1036148.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/1048672\/",
+	"id": "1048672",
+	"publisher": "九州出版社",
+	"isbn10": "7801149173",
+	"isbn13": "9787801149176",
+	"title": "尼采生存哲学",
+	"url": "http:\/\/api.douban.com\/v2\/book\/1048672",
+	"alt_title": "Friedrich Nietzsche",
+	"author_intro": "尼采（1844-1900）：德国著名哲学家，他离我们并不遥远，他的生命已然站在二十世纪的地平线上；而他的思想，对世人也造成了重大的影响。",
+	"summary": "《尼采生存哲学》是一次走近大师的心灵之旅，或许会改变你的一生。哲学是人生观的学问，哲学是心灵的完善，哲学是生命的诗。",
+	"series": {
+		"id": "2831",
+		"title": "哲人咖啡厅"
+	},
+	"price": "26.00元"
+}
