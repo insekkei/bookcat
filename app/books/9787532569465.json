@@ -1,0 +1,81 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 7,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"［南朝宋］刘义庆 著  ［南朝梁］刘孝标 注  徐传武 校点"
+	],
+	"pubdate": "2013-8",
+	"tags": [
+		{
+			"count": 3,
+			"name": "古典文学",
+			"title": "古典文学"
+		},
+		{
+			"count": 2,
+			"name": "上海古籍出版社",
+			"title": "上海古籍出版社"
+		},
+		{
+			"count": 2,
+			"name": "世说新语",
+			"title": "世说新语"
+		},
+		{
+			"count": 2,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 1,
+			"name": "三国",
+			"title": "三国"
+		},
+		{
+			"count": 1,
+			"name": "中国文学",
+			"title": "中国文学"
+		},
+		{
+			"count": 1,
+			"name": "古代文学",
+			"title": "古代文学"
+		},
+		{
+			"count": 1,
+			"name": "已购书目",
+			"title": "已购书目"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s27305626.jpg",
+	"binding": "精装",
+	"translator": [],
+	"catalog": "",
+	"pages": "447",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s27305626.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s27305626.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s27305626.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/24883397\/",
+	"id": "24883397",
+	"publisher": "上海古籍出版社",
+	"isbn10": "7532569462",
+	"isbn13": "9787532569465",
+	"title": "世说新语",
+	"url": "http:\/\/api.douban.com\/v2\/book\/24883397",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《世说新语》是一部主要记述魏晋人物言谈轶事的笔记小说，由南朝刘宋宗室临川王刘义庆组织一批文人编写的。全书原八卷，刘峻注本分为十卷，今传本皆作三卷，分为德行、言语、政事、文学、方正、雅量等三十六门，共一千多则，记述自汉末到刘宋时名士贵族的遗闻轶事，主要为有关人物评论、清谈玄言和机智应对的故事，是研究魏晋历史、人物、文学、语言的极好史料。这次整理，选取光绪十七年王先谦思贤讲舍所刻本为底本，校本则用宋本、唐写本、沈校本等为主，并征引了李慈铭、李详、程炎震、余嘉锡、徐震堮等学者的校语。书后附人名释名和龚斌的《人名索引》，以便读者阅读。",
+	"series": {
+		"id": "23065",
+		"title": "国学典藏"
+	},
+	"price": "35"
+}

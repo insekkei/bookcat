@@ -187,6 +187,18 @@
 		"price": "128.00元"
 	},
 	{
+		"id": "9787111416265",
+		"title": "设计原本",
+		"author": [
+			"[美] Frederick P. Brooks, Jr."
+		],
+		"image": "https://img2.doubanio.com/mpic/s26543619.jpg",
+		"rating": "8.2",
+		"publisher": "机械工业出版社",
+		"pages": "282",
+		"price": "79.00元"
+	},
+	{
 		"id": "9787111469209",
 		"title": "图解CSS3",
 		"author": [
@@ -928,6 +940,42 @@
 		"publisher": "上海古籍出版社",
 		"pages": "238",
 		"price": "18.00元"
+	},
+	{
+		"id": "9787532556045",
+		"title": "聊斋志异",
+		"author": [
+			"蒲松龄"
+		],
+		"image": "https://img2.doubanio.com/mpic/s4659767.jpg",
+		"rating": "8.0",
+		"publisher": "上海古籍出版社",
+		"pages": "574",
+		"price": "29.00元"
+	},
+	{
+		"id": "9787532562701",
+		"title": "子不语",
+		"author": [
+			"袁枚"
+		],
+		"image": "https://img3.doubanio.com/mpic/s26692765.jpg",
+		"rating": "8.4",
+		"publisher": "上海古籍出版社",
+		"pages": "464",
+		"price": "20.00元"
+	},
+	{
+		"id": "9787532569465",
+		"title": "世说新语",
+		"author": [
+			"［南朝宋］刘义庆 著  ［南朝梁］刘孝标 注  徐传武 校点"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27305626.jpg",
+		"rating": "0.0",
+		"publisher": "上海古籍出版社",
+		"pages": "447",
+		"price": "35"
 	},
 	{
 		"id": "9787532617708",

@@ -1,0 +1,81 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 15,
+		"average": "8.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"蒲松龄"
+	],
+	"pubdate": "2010-12",
+	"tags": [
+		{
+			"count": 6,
+			"name": "蒲松龄",
+			"title": "蒲松龄"
+		},
+		{
+			"count": 6,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 6,
+			"name": "古文",
+			"title": "古文"
+		},
+		{
+			"count": 1,
+			"name": "藏书",
+			"title": "藏书"
+		},
+		{
+			"count": 1,
+			"name": "清",
+			"title": "清"
+		},
+		{
+			"count": 1,
+			"name": "旧读",
+			"title": "旧读"
+		},
+		{
+			"count": 1,
+			"name": "怪談",
+			"title": "怪談"
+		},
+		{
+			"count": 1,
+			"name": "吾之书藏",
+			"title": "吾之书藏"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img2.doubanio.com\/mpic\/s4659767.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "",
+	"pages": "574",
+	"images": {
+		"small": "https:\/\/img2.doubanio.com\/spic\/s4659767.jpg",
+		"large": "https:\/\/img2.doubanio.com\/lpic\/s4659767.jpg",
+		"medium": "https:\/\/img2.doubanio.com\/mpic\/s4659767.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/5392912\/",
+	"id": "5392912",
+	"publisher": "上海古籍出版社",
+	"isbn10": "7532556042",
+	"isbn13": "9787532556045",
+	"title": "聊斋志异",
+	"url": "http:\/\/api.douban.com\/v2\/book\/5392912",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《聊斋志异》是明清短篇志怪小说的杰出代表。《聊斋志异》是蒲松龄倾毕生心血写成的力作，表面上谈狐说鬼、满纸妖魅，实则借以暴露、批判封建社会的种种黑暗，并予以辛辣的嘲讽。正如《聊斋自志》所言，这是一部“孤愤之书”，承载着作者的满腔悲愤。《聊斋志异》以独特的创作手法，刻画一个个性格鲜明的艺术形象，讲述一段段动人心魄的凄艳故事，令读者耳目为之一新，达到了中国文言短篇小说的艺术顶峰。",
+	"series": {
+		"id": "5943",
+		"title": "中国古典小说名著丛书"
+	},
+	"price": "29.00元"
+}
