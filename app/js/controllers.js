@@ -32,7 +32,7 @@ bookcatControllers.controller('BookListCtrl', ['$scope', 'Book',
 			$scope.books = data
 		});*/
 		
-		$scope.orderProp = 'title';
+		// $scope.orderProp = 'title';
 	}]);
 
 bookcatControllers.controller('BookDetailCtrl', ['$scope', '$routeParams', 'Book', 'BookConmments', 'md5',
