@@ -1,0 +1,73 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 2,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"[日] 紫式部"
+	],
+	"pubdate": "2015-6",
+	"tags": [
+		{
+			"count": 4,
+			"name": "日本",
+			"title": "日本"
+		},
+		{
+			"count": 4,
+			"name": "日本文学",
+			"title": "日本文学"
+		},
+		{
+			"count": 3,
+			"name": "*北京·人民文学出版社*",
+			"title": "*北京·人民文学出版社*"
+		},
+		{
+			"count": 3,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 2,
+			"name": "【可信\/不可信】",
+			"title": "【可信\/不可信】"
+		},
+		{
+			"count": 1,
+			"name": "外国文学",
+			"title": "外国文学"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s28207232.jpg",
+	"binding": "精装",
+	"translator": [
+		"丰子恺"
+	],
+	"catalog": "",
+	"pages": "972",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s28207232.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s28207232.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s28207232.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/26436142\/",
+	"id": "26436142",
+	"publisher": "人民文学出版社",
+	"isbn10": "7020098509",
+	"isbn13": "9787020098507",
+	"title": "丰子恺译源氏物语",
+	"url": "http:\/\/api.douban.com\/v2\/book\/26436142",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《源氏物语》产生的时代，是藤原道长执政下平安王朝贵族社会全盛时期。这个时期，平安京的上层贵族恣意享乐，表面上一派太平盛世，实际上却充满着极其复杂而尖锐的矛盾。《源氏物语》正是以这段历史为背景，通过主人公源氏的生活经历和爱情故事，描写了当时贵族社会的腐败政治和淫逸生活，以典型的艺术形象，真实地反映了这个时代的面貌和特征。《源氏物语》全书共五十四回，近百万字。故事涉及三代，经历七十余年，其中主要是上层贵族，也有下层贵族，乃至宫廷侍女、平民百姓。作者深入探索了不同人物的丰富多彩的性格特色和曲折复杂的内心世界，描写得细致入微，使其各具有鲜明个性，富有艺术感染力。《源氏物语》开辟了日本物语文学的新道路，使日本古典现实主义文学达到一个新的高峰。",
+	"series": {
+		"id": "30902",
+		"title": "中国翻译家译丛"
+	},
+	"price": "110.00"
+}
