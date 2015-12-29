@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 32,
-		"average": "8.2",
+		"numRaters": 33,
+		"average": "8.1",
 		"min": 0
 	},
 	"subtitle": "",
@@ -53,15 +53,15 @@
 		}
 	],
 	"origin_title": "",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s5984518.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s5984518.jpg",
 	"binding": "",
 	"translator": [],
 	"catalog": "目录\n引言\n第一章 小楷艺术源流\n第一节 小楷的产生\n第二节 小楷的成熟与完备\n第三节 小楷艺术的流传与发展\n第二章 小楷技法\n第一节 小楷笔法\n第二节 小楷结字特点\n第三节 小楷常用部首写法\n第四节 小楷结字三十八法\n第三章 小楷临帖与习作\n第一节 写小楷的学习准备\n第二节 小楷临帖与临习顺序\n第三节 小楷习作\n第四节 经书体与馆阁体\n第四章 小楷名作解析\n第一节 钟繇小楷《宣示表》\n第二节 王羲之小楷《黄庭经》\n第三节 王献之小楷《洛神赋》\n第四节 颜真卿小楷《麻姑仙坛记》\n第五节 米芾小楷\n第六节 张即之小楷《佛遗教经》《汪氏报本庵记》\n第七节 赵孟频小楷《汉汲黯传》\n第八节 文徵明小楷\n第九节 王宠小楷\n第十节 刘墉小楷\n附：\n习小楷界格一\n习小楷界格二",
 	"pages": "178",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s5984518.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s5984518.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s5984518.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s5984518.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s5984518.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s5984518.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/3065649\/",
 	"id": "3065649",

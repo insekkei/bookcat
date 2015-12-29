@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 1917,
+		"numRaters": 1934,
 		"average": "9.4",
 		"min": 0
 	},
@@ -13,44 +13,44 @@
 	"pubdate": "2006年",
 	"tags": [
 		{
-			"count": 1939,
+			"count": 1949,
 			"name": "unix",
 			"title": "unix"
 		},
 		{
-			"count": 1209,
+			"count": 1221,
 			"name": "编程",
 			"title": "编程"
 		},
 		{
-			"count": 841,
+			"count": 844,
 			"name": "Linux",
 			"title": "Linux"
 		},
 		{
-			"count": 519,
+			"count": 523,
 			"name": "计算机",
 			"title": "计算机"
 		},
 		{
-			"count": 472,
+			"count": 470,
 			"name": "programming",
 			"title": "programming"
 		},
 		{
-			"count": 458,
+			"count": 460,
 			"name": "经典",
 			"title": "经典"
 		},
 		{
-			"count": 278,
+			"count": 277,
 			"name": "程序设计",
 			"title": "程序设计"
 		},
 		{
-			"count": 251,
-			"name": "C",
-			"title": "C"
+			"count": 250,
+			"name": "apue",
+			"title": "apue"
 		}
 	],
 	"origin_title": "",

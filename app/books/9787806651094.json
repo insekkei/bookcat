@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 1540,
+		"numRaters": 1579,
 		"average": "9.3",
 		"min": 0
 	},
@@ -12,42 +12,42 @@
 	"pubdate": "2001-9",
 	"tags": [
 		{
-			"count": 312,
+			"count": 316,
 			"name": "古典名著",
 			"title": "古典名著"
 		},
 		{
-			"count": 221,
+			"count": 226,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 189,
+			"count": 197,
 			"name": "三国演义",
 			"title": "三国演义"
 		},
 		{
-			"count": 137,
+			"count": 145,
 			"name": "三国",
 			"title": "三国"
 		},
 		{
-			"count": 115,
+			"count": 120,
 			"name": "古典文学",
 			"title": "古典文学"
 		},
 		{
-			"count": 109,
+			"count": 113,
 			"name": "经典",
 			"title": "经典"
 		},
 		{
-			"count": 100,
+			"count": 106,
 			"name": "历史",
 			"title": "历史"
 		},
 		{
-			"count": 90,
+			"count": 96,
 			"name": "中国文学",
 			"title": "中国文学"
 		}

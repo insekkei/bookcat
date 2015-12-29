@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 184,
+		"numRaters": 185,
 		"average": "8.4",
 		"min": 0
 	},
@@ -17,7 +17,7 @@
 			"title": "袁枚"
 		},
 		{
-			"count": 65,
+			"count": 67,
 			"name": "志怪",
 			"title": "志怪"
 		},
@@ -32,12 +32,12 @@
 			"title": "怪力乱神"
 		},
 		{
-			"count": 36,
+			"count": 37,
 			"name": "古典文学",
 			"title": "古典文学"
 		},
 		{
-			"count": 23,
+			"count": 24,
 			"name": "小说",
 			"title": "小说"
 		},
@@ -48,8 +48,8 @@
 		},
 		{
 			"count": 15,
-			"name": "中国古典文学",
-			"title": "中国古典文学"
+			"name": "中国文学",
+			"title": "中国文学"
 		}
 	],
 	"origin_title": "",

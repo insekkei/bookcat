@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 969,
+		"numRaters": 972,
 		"average": "8.8",
 		"min": 0
 	},
@@ -23,7 +23,7 @@
 			"title": "诗词"
 		},
 		{
-			"count": 171,
+			"count": 172,
 			"name": "纳兰词",
 			"title": "纳兰词"
 		},
@@ -38,7 +38,7 @@
 			"title": "古典"
 		},
 		{
-			"count": 73,
+			"count": 74,
 			"name": "词",
 			"title": "词"
 		},
@@ -54,15 +54,15 @@
 		}
 	],
 	"origin_title": "",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s3952439.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s3952439.jpg",
 	"binding": "平装",
 	"translator": [],
 	"catalog": "",
 	"pages": "238",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s3952439.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s3952439.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s3952439.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s3952439.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s3952439.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s3952439.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/3993396\/",
 	"id": "3993396",

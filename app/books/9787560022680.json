@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 103,
-		"average": "9.3",
+		"numRaters": 105,
+		"average": "9.2",
 		"min": 0
 	},
 	"subtitle": "",
@@ -12,7 +12,7 @@
 	"pubdate": "2002-12",
 	"tags": [
 		{
-			"count": 86,
+			"count": 87,
 			"name": "日语",
 			"title": "日语"
 		},
@@ -22,7 +22,7 @@
 			"title": "工具书"
 		},
 		{
-			"count": 43,
+			"count": 44,
 			"name": "辞典",
 			"title": "辞典"
 		},
@@ -43,13 +43,13 @@
 		},
 		{
 			"count": 10,
-			"name": "日本",
-			"title": "日本"
+			"name": "语言学",
+			"title": "语言学"
 		},
 		{
 			"count": 10,
-			"name": "语言学",
-			"title": "语言学"
+			"name": "日本",
+			"title": "日本"
 		}
 	],
 	"origin_title": "",

@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 206,
+		"numRaters": 210,
 		"average": "8.6",
 		"min": 0
 	},
@@ -12,17 +12,17 @@
 	"pubdate": "2011-4-30",
 	"tags": [
 		{
-			"count": 326,
+			"count": 331,
 			"name": "Linux",
 			"title": "Linux"
 		},
 		{
-			"count": 212,
+			"count": 217,
 			"name": "kernel",
 			"title": "kernel"
 		},
 		{
-			"count": 156,
+			"count": 157,
 			"name": "操作系统",
 			"title": "操作系统"
 		},
@@ -37,7 +37,7 @@
 			"title": "计算机"
 		},
 		{
-			"count": 36,
+			"count": 37,
 			"name": "linux",
 			"title": "linux"
 		},
@@ -53,7 +53,7 @@
 		}
 	],
 	"origin_title": "Linux Kernel Development, 3E",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s6387169.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s6387169.jpg",
 	"binding": "平装",
 	"translator": [
 		"陈莉君",
@@ -62,9 +62,9 @@
 	"catalog": "译者序\n序言\n前言\n作者简介\n第1章　Linux内核简介\n1.1　Unix的历史\n1.2　追寻Linus足迹：Linux简介\n1.3　操作系统和内核简介\n1.4　Linux内核和传统Unix内核的比较\n1.5　Linux内核版本\n1.6　Linux内核开发者社区\n1.7　小结\n第2章　从内核出发\n第3章　进程管理\n第4章　进程调度\n第5章　系统调用\n第6章　内核数据结构\n第7章　中断和中断处理\n第8章　下半部和推后执行的工作\n第9章　内核同步介绍\n第10章　内核同步方法\n第11章　定时器和时间管理\n第12章　内存管理\n第13章　虚拟文件系统\n第14章　块I\/O层\n第15章　进程地址空间\n第16章　页高速缓存和页回写\n第17章　设备与模块\n第18章　调试\n第19章　可移植性\n第20章　补丁、开发和社区参考资料",
 	"pages": "352",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s6387169.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s6387169.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s6387169.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s6387169.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s6387169.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s6387169.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/6097773\/",
 	"id": "6097773",

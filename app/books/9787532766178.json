@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 230,
+		"numRaters": 252,
 		"average": "9.2",
 		"min": 0
 	},
@@ -12,12 +12,12 @@
 	"pubdate": "2014-6",
 	"tags": [
 		{
-			"count": 73,
+			"count": 79,
 			"name": "毛姆",
 			"title": "毛姆"
 		},
 		{
-			"count": 42,
+			"count": 44,
 			"name": "小说",
 			"title": "小说"
 		},
@@ -27,7 +27,7 @@
 			"title": "英国"
 		},
 		{
-			"count": 21,
+			"count": 24,
 			"name": "英国文学",
 			"title": "英国文学"
 		},
@@ -37,7 +37,7 @@
 			"title": "外国文学"
 		},
 		{
-			"count": 14,
+			"count": 16,
 			"name": "文学",
 			"title": "文学"
 		},
@@ -48,8 +48,8 @@
 		},
 		{
 			"count": 7,
-			"name": "2015",
-			"title": "2015"
+			"name": "艺术",
+			"title": "艺术"
 		}
 	],
 	"origin_title": "The Moon and Sixpence",

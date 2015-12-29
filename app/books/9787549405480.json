@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 52,
-		"average": "8.4",
+		"numRaters": 55,
+		"average": "8.3",
 		"min": 0
 	},
 	"subtitle": "美国视觉设计学院用书",
@@ -12,22 +12,22 @@
 	"pubdate": "2013-2-20",
 	"tags": [
 		{
-			"count": 105,
+			"count": 108,
 			"name": "设计",
 			"title": "设计"
 		},
 		{
-			"count": 73,
+			"count": 74,
 			"name": "平面设计",
 			"title": "平面设计"
 		},
 		{
-			"count": 35,
+			"count": 37,
 			"name": "视觉设计",
 			"title": "视觉设计"
 		},
 		{
-			"count": 25,
+			"count": 26,
 			"name": "工具书",
 			"title": "工具书"
 		},
@@ -42,18 +42,18 @@
 			"title": "设计与文化"
 		},
 		{
-			"count": 9,
+			"count": 10,
 			"name": "设计方法",
 			"title": "设计方法"
 		},
 		{
-			"count": 7,
+			"count": 8,
 			"name": "美国",
 			"title": "美国"
 		}
 	],
 	"origin_title": "Graphic Designer's Essential Refenrence",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s24925448.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s24925448.jpg",
 	"binding": "平装",
 	"translator": [
 		"庞秀云"
@@ -61,9 +61,9 @@
 	"catalog": "准备阶段的设计师 （引言）\n本书使用指南\n基本技巧\n必备视觉策略\n鲜明构图的基础\n确定明确的视觉层次\n对称性和不对称性\n图像的处理\n使用抽象造型\n建立充满视觉动感的色彩关系\n用色彩来加强信息传达\n利用色彩来提升层次\n用有限的色彩组合调出无限的色彩\n快速简便的编码方法\n字体的选择和组合\n在文字和图形之间形成视觉对话\n设计具有亲和力（而且漂亮）的文字\n有效利用网格\n平面设计元素\n图像和风格构成要素——设计师的视觉图书馆\n常用图形\n图标、抽象造型、图案及各种图像处理方法\n色彩理念\n按外观及理念编排的色彩组合\n文字排版风格\n字体组合、处理及装饰\n排版策略\n网格结构、裁剪策略及均衡理念\n每章开头提供个别成份类别列表\n设计策略\n激发设计忙人灵感的实例探讨\n第一印象\n封面设计、单品包装、简单网站、图片式广告\n设置场景\n简单编辑页面、零售展示、海报及广告宣传\n核心问题\n包装体系、复杂网站、图书设计\n逐字逐句纯文字编排方案]\n封面设计、简单网站、编辑页面\n索引（按主题）\n设计公司名录\n致谢",
 	"pages": "248",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s24925448.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s24925448.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s24925448.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s24925448.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s24925448.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s24925448.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/21323329\/",
 	"id": "21323329",

@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 1391,
+		"numRaters": 1401,
 		"average": "7.8",
 		"min": 0
 	},
@@ -12,37 +12,37 @@
 	"pubdate": "2006",
 	"tags": [
 		{
-			"count": 396,
+			"count": 398,
 			"name": "黑柳彻子",
 			"title": "黑柳彻子"
 		},
 		{
-			"count": 219,
+			"count": 220,
 			"name": "日本",
 			"title": "日本"
 		},
 		{
-			"count": 150,
+			"count": 151,
 			"name": "丢三落四的小豆豆",
 			"title": "丢三落四的小豆豆"
 		},
 		{
-			"count": 127,
+			"count": 126,
 			"name": "儿童文学",
 			"title": "儿童文学"
 		},
 		{
-			"count": 120,
+			"count": 122,
 			"name": "小豆豆",
 			"title": "小豆豆"
 		},
 		{
-			"count": 92,
+			"count": 93,
 			"name": "日本文学",
 			"title": "日本文学"
 		},
 		{
-			"count": 48,
+			"count": 50,
 			"name": "温暖",
 			"title": "温暖"
 		},

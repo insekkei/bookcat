@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 20,
-		"average": "7.5",
+		"numRaters": 28,
+		"average": "7.7",
 		"min": 0
 	},
 	"subtitle": "刘慈欣科幻短篇小说集Ⅱ",
@@ -12,14 +12,19 @@
 	"pubdate": "",
 	"tags": [
 		{
-			"count": 9,
+			"count": 11,
 			"name": "科幻",
 			"title": "科幻"
 		},
 		{
-			"count": 6,
+			"count": 9,
 			"name": "刘慈欣",
 			"title": "刘慈欣"
+		},
+		{
+			"count": 4,
+			"name": "科幻小说",
+			"title": "科幻小说"
 		},
 		{
 			"count": 2,
@@ -33,13 +38,8 @@
 		},
 		{
 			"count": 1,
-			"name": "三体",
-			"title": "三体"
-		},
-		{
-			"count": 1,
-			"name": "中文",
-			"title": "中文"
+			"name": "当代文学",
+			"title": "当代文学"
 		},
 		{
 			"count": 1,
@@ -48,8 +48,8 @@
 		},
 		{
 			"count": 1,
-			"name": "当代文学",
-			"title": "当代文学"
+			"name": "中文",
+			"title": "中文"
 		}
 	],
 	"origin_title": "",

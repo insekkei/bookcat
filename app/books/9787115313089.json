@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 645,
-		"average": "7.8",
+		"numRaters": 669,
+		"average": "7.7",
 		"min": 0
 	},
 	"subtitle": "",
@@ -12,37 +12,37 @@
 	"pubdate": "2013-5-1",
 	"tags": [
 		{
-			"count": 1241,
+			"count": 1262,
 			"name": "设计",
 			"title": "设计"
 		},
 		{
-			"count": 964,
+			"count": 976,
 			"name": "心理学",
 			"title": "心理学"
 		},
 		{
-			"count": 756,
+			"count": 762,
 			"name": "设计心理学",
 			"title": "设计心理学"
 		},
 		{
-			"count": 387,
+			"count": 393,
 			"name": "交互设计",
 			"title": "交互设计"
 		},
 		{
-			"count": 283,
+			"count": 287,
 			"name": "用户体验",
 			"title": "用户体验"
 		},
 		{
-			"count": 165,
+			"count": 167,
 			"name": "艺术",
 			"title": "艺术"
 		},
 		{
-			"count": 147,
+			"count": 150,
 			"name": "心理",
 			"title": "心理"
 		},

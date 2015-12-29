@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 24,
-		"average": "8.9",
+		"numRaters": 25,
+		"average": "9.0",
 		"min": 0
 	},
 	"subtitle": "",
@@ -13,23 +13,23 @@
 	"tags": [
 		{
 			"count": 7,
-			"name": "爱情",
-			"title": "爱情"
-		},
-		{
-			"count": 7,
 			"name": "战争",
 			"title": "战争"
 		},
 		{
-			"count": 6,
-			"name": "西班牙",
-			"title": "西班牙"
+			"count": 7,
+			"name": "爱情",
+			"title": "爱情"
 		},
 		{
 			"count": 6,
 			"name": "维多利亚.希斯洛普",
 			"title": "维多利亚.希斯洛普"
+		},
+		{
+			"count": 6,
+			"name": "西班牙",
+			"title": "西班牙"
 		},
 		{
 			"count": 4,

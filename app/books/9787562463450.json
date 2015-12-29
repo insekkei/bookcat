@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 71,
+		"numRaters": 73,
 		"average": "7.9",
 		"min": 0
 	},
@@ -17,22 +17,22 @@
 			"title": "色彩构成"
 		},
 		{
-			"count": 64,
+			"count": 63,
 			"name": "设计",
 			"title": "设计"
 		},
 		{
-			"count": 47,
+			"count": 50,
 			"name": "色彩",
 			"title": "色彩"
 		},
 		{
-			"count": 46,
+			"count": 47,
 			"name": "艺术",
 			"title": "艺术"
 		},
 		{
-			"count": 39,
+			"count": 40,
 			"name": "包豪斯",
 			"title": "包豪斯"
 		},
@@ -47,13 +47,13 @@
 			"title": "约瑟夫·阿尔伯斯"
 		},
 		{
-			"count": 6,
+			"count": 7,
 			"name": "色彩很重要",
 			"title": "色彩很重要"
 		}
 	],
 	"origin_title": "",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s8993018.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s8993018.jpg",
 	"binding": "",
 	"translator": [
 		"李敏敏"
@@ -61,9 +61,9 @@
 	"catalog": "",
 	"pages": "83",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s8993018.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s8993018.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s8993018.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s8993018.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s8993018.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s8993018.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/10565990\/",
 	"id": "10565990",

@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 180,
-		"average": "7.2",
+		"numRaters": 183,
+		"average": "7.1",
 		"min": 0
 	},
 	"subtitle": "Web前端设计修炼之道",
@@ -13,7 +13,7 @@
 	"pubdate": "2010-9",
 	"tags": [
 		{
-			"count": 110,
+			"count": 112,
 			"name": "Web前端设计",
 			"title": "Web前端设计"
 		},

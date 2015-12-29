@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 414,
+		"numRaters": 424,
 		"average": "9.5",
 		"min": 0
 	},
@@ -12,12 +12,12 @@
 	"pubdate": "2012-1-10",
 	"tags": [
 		{
-			"count": 673,
+			"count": 677,
 			"name": "Ruby",
 			"title": "Ruby"
 		},
 		{
-			"count": 353,
+			"count": 359,
 			"name": "元编程",
 			"title": "元编程"
 		},
@@ -27,7 +27,7 @@
 			"title": "编程"
 		},
 		{
-			"count": 117,
+			"count": 119,
 			"name": "动态语言",
 			"title": "动态语言"
 		},
@@ -37,12 +37,12 @@
 			"title": "计算机"
 		},
 		{
-			"count": 81,
+			"count": 83,
 			"name": "Programming",
 			"title": "Programming"
 		},
 		{
-			"count": 75,
+			"count": 76,
 			"name": "ruby",
 			"title": "ruby"
 		},
@@ -53,7 +53,7 @@
 		}
 	],
 	"origin_title": "Metaprogramming Ruby",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s7014167.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s7014167.jpg",
 	"binding": "平装",
 	"translator": [
 		"廖志刚",
@@ -62,9 +62,9 @@
 	"catalog": "目录\n前言 vii\n致谢 ix\n引言 xi\n“元”这个字眼 xii\n关于本书 xix\n关于你 xxii\n第1部分 Ruby元编程 1\n第1章 星期一：对象模型 3\n1.1 跟Bill在一起的星期一 3\n1.2 打开类 4\n1.3 类的真相 9\n1.4 小测验：缺失的连接线 21\n1.5 调用一个方法时发生了什么 23\n1.6 小测验：混乱的模块 32\n1.7 对象模型小结 35\n第2章 星期二：方法 37\n2.1 一个重复代码的问题 38\n2.2 动态方法 40\n2.3 method_missing()方法 48\n2.4 小测验：狩猎Bug 59\n2.5 关于method_missing()方法的更多内容 61\n第3章 星期三：代码块 69\n3.1 怎样度过驼峰日 70\n3.2 小测验：Ruby的#符号 71\n3.3 闭包 74\n3.4 instance_eval() 83\n3.5 可调用对象 86\n3.6 编写一种领域专属语言 94\n3.7 小测验：更好的领域专属语言 96\n第4章 星期四：类定义 101\n4.1 类定义揭秘 102\n4.2 小测验：Taboo类 109\n4.3 单件方法 110\n4.4 Eigenclass 116\n4.5 小测验：模块的麻烦 129\n4.6 别名 131\n4.7 小测验：打破数学规律 135\n第5章 星期五：编写代码的代码 139\n5.1 带路 139\n5.2 Kernel#eval 142\n5.3 小测验：校验过的属性（第一步） 152\n5.4 小测验：校验过的属性（第二步） 155\n5.5 小测验：校验过的属性（第三步） 157\n5.6 小测验：校验过的属性（第四步） 158\n5.7 钩子方法 159\n5.8 小测验：校验过的属性（第五步） 165\n第6章 尾声 167\n第2部分“Rails中的元编程” 169\n第7章 ActiveRecord的设计 171\n7.1 准备旅程 172\n7.2 ActiveRecord的设计 174\n7.3 经验教训 183\n第8章 深入ActiveRecord 187\n8.1 动态属性 187\n8.2 动态查找器 195\n8.3 经验教训 200\n第9章 安全元编程 205\n9.1 元编程的测试 205\n9.2 化解猴子补丁 213\n9.3 经验教训 218\n第三部分 附录 221\n附录A 常见惯用法 223\nA.1 拟态方法 223\nA.2 空指针保护 226\nA.3 关于方法参数的技巧 227\nA.4 Self Yield 231\nA.5 Symbol#to_proc()方法 232\n附录B 领域专属语言 235\nB.1 关于领域专属语言 235\nB.2 内部和外部领域专属语言 237\nB.3 领域专属语言和元编程 238\n附录C 法术手册 239\nC.1 法术集 239\n附录D 参考书目 251\n索引 253",
 	"pages": "288",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s7014167.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s7014167.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s7014167.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s7014167.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s7014167.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s7014167.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/7056800\/",
 	"id": "7056800",

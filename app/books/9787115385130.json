@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 43,
-		"average": "7.9",
+		"numRaters": 48,
+		"average": "7.8",
 		"min": 0
 	},
 	"subtitle": "",
@@ -12,42 +12,42 @@
 	"pubdate": "2015-4",
 	"tags": [
 		{
-			"count": 45,
+			"count": 47,
 			"name": "计算机科学",
 			"title": "计算机科学"
 		},
 		{
-			"count": 29,
+			"count": 33,
 			"name": "计算机",
 			"title": "计算机"
 		},
 		{
-			"count": 20,
+			"count": 27,
 			"name": "编程",
 			"title": "编程"
 		},
 		{
-			"count": 15,
+			"count": 17,
 			"name": "计算机科学-底层硬件",
 			"title": "计算机科学-底层硬件"
 		},
 		{
-			"count": 13,
+			"count": 14,
 			"name": "计算机组成原理",
 			"title": "计算机组成原理"
 		},
 		{
-			"count": 9,
+			"count": 10,
 			"name": "✔自学编程",
 			"title": "✔自学编程"
 		},
 		{
-			"count": 7,
+			"count": 8,
 			"name": "计算机系统",
 			"title": "计算机系统"
 		},
 		{
-			"count": 5,
+			"count": 6,
 			"name": "本质",
 			"title": "本质"
 		}

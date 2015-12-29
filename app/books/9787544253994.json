@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 63401,
+		"numRaters": 66690,
 		"average": "9.2",
 		"min": 0
 	},
@@ -12,42 +12,42 @@
 	"pubdate": "2011-6",
 	"tags": [
 		{
-			"count": 23147,
+			"count": 24270,
 			"name": "百年孤独",
 			"title": "百年孤独"
 		},
 		{
-			"count": 22268,
+			"count": 22909,
 			"name": "加西亚·马尔克斯",
 			"title": "加西亚·马尔克斯"
 		},
 		{
-			"count": 12158,
+			"count": 12578,
 			"name": "拉美文学",
 			"title": "拉美文学"
 		},
 		{
-			"count": 11016,
+			"count": 11608,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 9737,
+			"count": 10557,
 			"name": "经典",
 			"title": "经典"
 		},
 		{
-			"count": 8946,
+			"count": 9619,
 			"name": "外国文学",
 			"title": "外国文学"
 		},
 		{
-			"count": 4251,
+			"count": 4885,
 			"name": "文学",
 			"title": "文学"
 		},
 		{
-			"count": 3354,
+			"count": 3583,
 			"name": "拉美",
 			"title": "拉美"
 		}

@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 4338,
+		"numRaters": 4438,
 		"average": "8.8",
 		"min": 0
 	},
@@ -12,48 +12,48 @@
 	"pubdate": "2011-10",
 	"tags": [
 		{
-			"count": 2018,
+			"count": 2044,
 			"name": "赫拉巴尔",
 			"title": "赫拉巴尔"
 		},
 		{
-			"count": 1428,
+			"count": 1453,
 			"name": "捷克",
 			"title": "捷克"
 		},
 		{
-			"count": 1080,
+			"count": 1096,
 			"name": "外国文学",
 			"title": "外国文学"
 		},
 		{
-			"count": 1073,
+			"count": 1085,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 395,
+			"count": 410,
 			"name": "文学",
 			"title": "文学"
 		},
 		{
-			"count": 362,
+			"count": 370,
 			"name": "捷克文学",
 			"title": "捷克文学"
 		},
 		{
-			"count": 350,
+			"count": 360,
 			"name": "孤独",
 			"title": "孤独"
 		},
 		{
-			"count": 124,
+			"count": 126,
 			"name": "Bohumil_Hrabal",
 			"title": "Bohumil_Hrabal"
 		}
 	],
 	"origin_title": "Příliš hlučna samota",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s24422879.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s24422879.jpg",
 	"binding": "精装",
 	"translator": [
 		"杨乐云"
@@ -61,9 +61,9 @@
 	"catalog": "",
 	"pages": "120",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s24422879.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s24422879.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s24422879.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s24422879.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s24422879.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s24422879.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/6781794\/",
 	"id": "6781794",

@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 93,
+		"numRaters": 95,
 		"average": "8.7",
 		"min": 0
 	},
@@ -22,7 +22,7 @@
 			"title": "唐诗"
 		},
 		{
-			"count": 24,
+			"count": 25,
 			"name": "诗词",
 			"title": "诗词"
 		},
@@ -37,7 +37,7 @@
 			"title": "文学"
 		},
 		{
-			"count": 8,
+			"count": 9,
 			"name": "工具书",
 			"title": "工具书"
 		},

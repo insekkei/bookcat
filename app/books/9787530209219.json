@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 8211,
+		"numRaters": 8224,
 		"average": "7.9",
 		"min": 0
 	},
@@ -12,22 +12,22 @@
 	"pubdate": "2008-3",
 	"tags": [
 		{
-			"count": 2784,
+			"count": 2781,
 			"name": "张小娴",
 			"title": "张小娴"
 		},
 		{
-			"count": 1212,
+			"count": 1211,
 			"name": "散文",
 			"title": "散文"
 		},
 		{
-			"count": 781,
+			"count": 779,
 			"name": "永远永远不说再见",
 			"title": "永远永远不说再见"
 		},
 		{
-			"count": 663,
+			"count": 662,
 			"name": "爱情",
 			"title": "爱情"
 		},

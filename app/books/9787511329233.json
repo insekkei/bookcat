@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 11,
-		"average": "7.7",
+		"numRaters": 12,
+		"average": "7.8",
 		"min": 0
 	},
 	"subtitle": "梁遇春作品集",
@@ -12,12 +12,12 @@
 	"pubdate": "2012-11",
 	"tags": [
 		{
-			"count": 7,
+			"count": 8,
 			"name": "散文",
 			"title": "散文"
 		},
 		{
-			"count": 3,
+			"count": 4,
 			"name": "随笔",
 			"title": "随笔"
 		},

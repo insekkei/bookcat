@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 139,
+		"numRaters": 141,
 		"average": "8.7",
 		"min": 0
 	},
@@ -12,22 +12,22 @@
 	"pubdate": "2003-5",
 	"tags": [
 		{
-			"count": 91,
+			"count": 93,
 			"name": "嵌入式",
 			"title": "嵌入式"
 		},
 		{
-			"count": 84,
+			"count": 85,
 			"name": "μC\\OS-Ⅱ",
 			"title": "μC\\OS-Ⅱ"
 		},
 		{
-			"count": 48,
+			"count": 49,
 			"name": "操作系统",
 			"title": "操作系统"
 		},
 		{
-			"count": 36,
+			"count": 37,
 			"name": "嵌入式系统",
 			"title": "嵌入式系统"
 		},
@@ -47,7 +47,7 @@
 			"title": "嵌入式OS"
 		},
 		{
-			"count": 9,
+			"count": 10,
 			"name": "OS",
 			"title": "OS"
 		}

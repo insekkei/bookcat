@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 61,
-		"average": "7.7",
+		"numRaters": 65,
+		"average": "7.8",
 		"min": 0
 	},
 	"subtitle": "正确地设计,设计得正确",
@@ -12,27 +12,27 @@
 	"pubdate": "2012-3-1",
 	"tags": [
 		{
-			"count": 101,
+			"count": 103,
 			"name": "交互设计",
 			"title": "交互设计"
 		},
 		{
-			"count": 87,
+			"count": 92,
 			"name": "用户体验",
 			"title": "用户体验"
 		},
 		{
-			"count": 55,
+			"count": 59,
 			"name": "设计",
 			"title": "设计"
 		},
 		{
-			"count": 30,
+			"count": 32,
 			"name": "产品设计",
 			"title": "产品设计"
 		},
 		{
-			"count": 20,
+			"count": 21,
 			"name": "草图",
 			"title": "草图"
 		},
@@ -43,13 +43,13 @@
 		},
 		{
 			"count": 9,
-			"name": "绘本",
-			"title": "绘本"
+			"name": "产品管理",
+			"title": "产品管理"
 		},
 		{
 			"count": 9,
-			"name": "产品管理",
-			"title": "产品管理"
+			"name": "绘本",
+			"title": "绘本"
 		}
 	],
 	"origin_title": "",

@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 33,
-		"average": "8.7",
+		"numRaters": 36,
+		"average": "8.8",
 		"min": 0
 	},
 	"subtitle": "",
@@ -12,29 +12,29 @@
 	"pubdate": "2012-8",
 	"tags": [
 		{
-			"count": 18,
+			"count": 19,
 			"name": "老舍",
 			"title": "老舍"
 		},
 		{
-			"count": 11,
+			"count": 12,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 9,
+			"count": 10,
 			"name": "中国文学",
 			"title": "中国文学"
 		},
 		{
 			"count": 4,
-			"name": "人生",
-			"title": "人生"
+			"name": "中国",
+			"title": "中国"
 		},
 		{
 			"count": 4,
-			"name": "中国",
-			"title": "中国"
+			"name": "人生",
+			"title": "人生"
 		},
 		{
 			"count": 3,
@@ -48,8 +48,8 @@
 		},
 		{
 			"count": 2,
-			"name": "过去的过去",
-			"title": "过去的过去"
+			"name": "当代文学",
+			"title": "当代文学"
 		}
 	],
 	"origin_title": "",

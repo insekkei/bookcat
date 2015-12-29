@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 6,
+		"numRaters": 7,
 		"average": "0.0",
 		"min": 0
 	},
@@ -38,7 +38,7 @@
 		}
 	],
 	"origin_title": "A Compliant free world",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s28322307.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s28322307.jpg",
 	"binding": "平装",
 	"translator": [
 		"陈敬旻",
@@ -47,9 +47,9 @@
 	"catalog": "第一部分 无意识的无能\n第一章 我怨故我在\n第二章 抱怨与健康\n第二部分 有意识的无能\n第三章 抱怨与关系\n第四章 我们为何抱怨\n第五章 觉醒时刻\n第三部分 有意识的有能\n第六章 沉默与怨言\n第七章 批评与讽刺\n第八章 如果你快乐，就按喇叭\n第四部分 无意识的有能\n第九章 臻入化境\n第十章 二十一天的优胜者\n结尾 己立立人，己达达人\n附录A 不抱怨的周三\n附录B 宣言与新闻稿样本\n致谢词",
 	"pages": "193",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s28322307.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s28322307.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s28322307.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s28322307.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s28322307.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s28322307.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/26201940\/",
 	"id": "26201940",

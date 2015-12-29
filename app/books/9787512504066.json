@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 32,
+		"numRaters": 33,
 		"average": "8.4",
 		"min": 0
 	},
@@ -33,18 +33,18 @@
 		},
 		{
 			"count": 1,
-			"name": "臺灣",
-			"title": "臺灣"
+			"name": "国内",
+			"title": "国内"
 		},
 		{
 			"count": 1,
-			"name": "禪宗",
-			"title": "禪宗"
+			"name": "台湾",
+			"title": "台湾"
 		},
 		{
 			"count": 1,
-			"name": "禅",
-			"title": "禅"
+			"name": "原来菩萨都是有情的人",
+			"title": "原来菩萨都是有情的人"
 		},
 		{
 			"count": 1,

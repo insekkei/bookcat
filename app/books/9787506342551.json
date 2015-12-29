@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 1104,
+		"numRaters": 1112,
 		"average": "8.1",
 		"min": 0
 	},
@@ -12,42 +12,42 @@
 	"pubdate": "2008-5",
 	"tags": [
 		{
-			"count": 353,
+			"count": 357,
 			"name": "余秋雨",
 			"title": "余秋雨"
 		},
 		{
-			"count": 230,
+			"count": 233,
 			"name": "散文",
 			"title": "散文"
 		},
 		{
-			"count": 158,
+			"count": 161,
 			"name": "文化",
 			"title": "文化"
 		},
 		{
-			"count": 119,
+			"count": 121,
 			"name": "历史",
 			"title": "历史"
 		},
 		{
-			"count": 89,
+			"count": 90,
 			"name": "寻觅中华",
 			"title": "寻觅中华"
 		},
 		{
-			"count": 70,
+			"count": 72,
 			"name": "中国文学",
 			"title": "中国文学"
 		},
 		{
-			"count": 54,
+			"count": 55,
 			"name": "文化意蕴·优美文字",
 			"title": "文化意蕴·优美文字"
 		},
 		{
-			"count": 47,
+			"count": 48,
 			"name": "中国",
 			"title": "中国"
 		}

@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 130,
+		"numRaters": 131,
 		"average": "8.2",
 		"min": 0
 	},
@@ -12,17 +12,17 @@
 	"pubdate": "2006-10",
 	"tags": [
 		{
-			"count": 26,
+			"count": 27,
 			"name": "婉约词",
 			"title": "婉约词"
 		},
 		{
-			"count": 26,
+			"count": 25,
 			"name": "古典文学",
 			"title": "古典文学"
 		},
 		{
-			"count": 24,
+			"count": 23,
 			"name": "诗词",
 			"title": "诗词"
 		},

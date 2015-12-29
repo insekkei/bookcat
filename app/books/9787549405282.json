@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 45,
+		"numRaters": 46,
 		"average": "8.4",
 		"min": 0
 	},
@@ -12,7 +12,7 @@
 	"pubdate": "2012-6-30",
 	"tags": [
 		{
-			"count": 32,
+			"count": 33,
 			"name": "设计",
 			"title": "设计"
 		},
@@ -22,12 +22,12 @@
 			"title": "平面设计"
 		},
 		{
-			"count": 20,
+			"count": 19,
 			"name": "版式设计",
 			"title": "版式设计"
 		},
 		{
-			"count": 17,
+			"count": 18,
 			"name": "网格",
 			"title": "网格"
 		},
@@ -37,19 +37,19 @@
 			"title": "设计理论"
 		},
 		{
-			"count": 6,
+			"count": 7,
 			"name": "排版！",
 			"title": "排版！"
 		},
 		{
 			"count": 4,
-			"name": "DESIGN",
-			"title": "DESIGN"
+			"name": "设计基础",
+			"title": "设计基础"
 		},
 		{
 			"count": 4,
-			"name": "设计基础",
-			"title": "设计基础"
+			"name": "DESIGN",
+			"title": "DESIGN"
 		}
 	],
 	"origin_title": "Layout Esssentials: 100 Design Principles for Using Grids",

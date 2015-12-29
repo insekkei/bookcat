@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 34,
+		"numRaters": 37,
 		"average": "8.2",
 		"min": 0
 	},
@@ -12,12 +12,12 @@
 	"pubdate": "2012-9",
 	"tags": [
 		{
-			"count": 17,
+			"count": 18,
 			"name": "林清玄",
 			"title": "林清玄"
 		},
 		{
-			"count": 10,
+			"count": 12,
 			"name": "散文",
 			"title": "散文"
 		},

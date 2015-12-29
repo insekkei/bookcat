@@ -18,7 +18,7 @@
 			"楚永安 等"
 		],
 		"image": "https://img1.doubanio.com/mpic/s1035972.jpg",
-		"rating": "0.0",
+		"rating": "8.0",
 		"publisher": "商务印书馆",
 		"pages": "2042",
 		"price": "98.00元"
@@ -29,7 +29,7 @@
 		"author": [
 			"[美] 黄仁宇"
 		],
-		"image": "https://img2.doubanio.com/mpic/s2177769.jpg",
+		"image": "https://img1.doubanio.com/mpic/s2177769.jpg",
 		"rating": "9.0",
 		"publisher": "中华书局",
 		"pages": "286",
@@ -72,6 +72,18 @@
 		"publisher": "中华书局",
 		"pages": "576",
 		"price": "39.00元"
+	},
+	{
+		"id": "9787101106862",
+		"title": "中华经典指掌文库",
+		"author": [
+			"刘义庆"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28118618.jpg",
+		"rating": "0.0",
+		"publisher": "中华书局",
+		"pages": "243",
+		"price": "CNY 16.00"
 	},
 	{
 		"id": "9787108045621",
@@ -142,7 +154,7 @@
 			"林坚"
 		],
 		"image": "https://img3.doubanio.com/mpic/s4440116.jpg",
-		"rating": "7.2",
+		"rating": "7.1",
 		"publisher": "机械工业出版社",
 		"pages": "362",
 		"price": "59.00元"
@@ -153,7 +165,7 @@
 		"author": [
 			"Robert Love"
 		],
-		"image": "https://img2.doubanio.com/mpic/s6387169.jpg",
+		"image": "https://img1.doubanio.com/mpic/s6387169.jpg",
 		"rating": "8.6",
 		"publisher": "机械工业出版社华章公司",
 		"pages": "352",
@@ -192,7 +204,7 @@
 		"author": [
 			"[美] Frederick P. Brooks, Jr."
 		],
-		"image": "https://img2.doubanio.com/mpic/s26543619.jpg",
+		"image": "https://img1.doubanio.com/mpic/s26543619.jpg",
 		"rating": "8.2",
 		"publisher": "机械工业出版社",
 		"pages": "282",
@@ -241,7 +253,7 @@
 		"author": [
 			"Kenneth A.Reek"
 		],
-		"image": "https://img2.doubanio.com/mpic/s2996168.jpg",
+		"image": "https://img1.doubanio.com/mpic/s2996168.jpg",
 		"rating": "9.0",
 		"publisher": "人民邮电出版社",
 		"pages": "448",
@@ -251,7 +263,7 @@
 		"id": "9787115190703",
 		"title": "Linux C函数实例速查手册",
 		"author": null,
-		"image": "https://img2.doubanio.com/mpic/s5968169.jpg",
+		"image": "https://img1.doubanio.com/mpic/s5968169.jpg",
 		"rating": "0.0",
 		"publisher": "",
 		"pages": "712",
@@ -282,13 +294,25 @@
 		"price": "49.00元"
 	},
 	{
+		"id": "9787115290366",
+		"title": "Go语言编程",
+		"author": [
+			"许式伟"
+		],
+		"image": "https://img3.doubanio.com/mpic/s11162016.jpg",
+		"rating": "7.2",
+		"publisher": "人民邮电出版社",
+		"pages": "300",
+		"price": "49.00元"
+	},
+	{
 		"id": "9787115313089",
 		"title": "设计师要懂心理学",
 		"author": [
 			"[美] Susan Weinschenk"
 		],
 		"image": "https://img3.doubanio.com/mpic/s26251595.jpg",
-		"rating": "7.8",
+		"rating": "7.7",
 		"publisher": "人民邮电出版社",
 		"pages": "236",
 		"price": "49.00元"
@@ -337,7 +361,7 @@
 			"［日］ 矢泽久雄"
 		],
 		"image": "https://img3.doubanio.com/mpic/s28047380.jpg",
-		"rating": "7.9",
+		"rating": "7.8",
 		"publisher": "人民邮电出版社",
 		"pages": "272",
 		"price": "39.00元"
@@ -373,7 +397,7 @@
 			"巴克斯顿(Bill Buxton)"
 		],
 		"image": "https://img3.doubanio.com/mpic/s27979206.jpg",
-		"rating": "7.7",
+		"rating": "7.8",
 		"publisher": "电子工业出版社",
 		"pages": "413",
 		"price": "188.00元"
@@ -396,7 +420,7 @@
 		"author": [
 			"（西汉）司马迁"
 		],
-		"image": "https://img2.doubanio.com/mpic/s1933168.jpg",
+		"image": "https://img1.doubanio.com/mpic/s1933168.jpg",
 		"rating": "9.0",
 		"publisher": "北京出版社",
 		"pages": "383",
@@ -432,8 +456,8 @@
 		"author": [
 			"[日]西村克己"
 		],
-		"image": "https://img2.doubanio.com/mpic/s26832239.jpg",
-		"rating": "6.8",
+		"image": "https://img1.doubanio.com/mpic/s26832239.jpg",
+		"rating": "6.7",
 		"publisher": "中国人民大学出版社",
 		"pages": "176",
 		"price": "32.90"
@@ -538,7 +562,7 @@
 		"author": [
 			"南怀瑾"
 		],
-		"image": "https://img2.doubanio.com/mpic/s26641559.jpg",
+		"image": "https://img1.doubanio.com/mpic/s26641559.jpg",
 		"rating": "0.0",
 		"publisher": "",
 		"pages": "601",
@@ -550,7 +574,7 @@
 		"author": [
 			"南怀瑾"
 		],
-		"image": "https://img2.doubanio.com/mpic/s26641557.jpg",
+		"image": "https://img1.doubanio.com/mpic/s26641557.jpg",
 		"rating": "0.0",
 		"publisher": "",
 		"pages": "616",
@@ -574,7 +598,7 @@
 		"author": [
 			"徐磊"
 		],
-		"image": "https://img2.doubanio.com/mpic/s3035487.jpg",
+		"image": "https://img1.doubanio.com/mpic/s3035487.jpg",
 		"rating": "7.0",
 		"publisher": "中国对外翻译出版公司",
 		"pages": "183",
@@ -603,6 +627,30 @@
 		"publisher": "作家出版社",
 		"pages": "316",
 		"price": "38.00元"
+	},
+	{
+		"id": "9787506344791",
+		"title": "俗世奇人",
+		"author": [
+			"冯骥才"
+		],
+		"image": "https://img1.doubanio.com/mpic/s5972318.jpg",
+		"rating": "8.6",
+		"publisher": "作家出版社",
+		"pages": "145",
+		"price": "18.00元"
+	},
+	{
+		"id": "9787506384209",
+		"title": "俗世奇人·贰",
+		"author": [
+			"冯骥才"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28340535.jpg",
+		"rating": "0.0",
+		"publisher": "作家出版社",
+		"pages": "182",
+		"price": "22.00元"
 	},
 	{
 		"id": "9787506460262",
@@ -657,7 +705,7 @@
 		"title": "背包十年",
 		"author": null,
 		"image": "https://img1.doubanio.com/mpic/s12436382.jpg",
-		"rating": "7.6",
+		"rating": "7.5",
 		"publisher": "中信出版社",
 		"pages": "268",
 		"price": "39.80元"
@@ -669,7 +717,7 @@
 			"梁遇春"
 		],
 		"image": "https://img3.doubanio.com/mpic/s24413246.jpg",
-		"rating": "7.7",
+		"rating": "7.8",
 		"publisher": "中国华侨出版社",
 		"pages": "272",
 		"price": "29.80元"
@@ -707,7 +755,7 @@
 			"林清玄"
 		],
 		"image": "https://img1.doubanio.com/mpic/s11314814.jpg",
-		"rating": "7.7",
+		"rating": "7.8",
 		"publisher": "国际文化出版公司",
 		"pages": "222",
 		"price": "28.00元"
@@ -803,7 +851,7 @@
 			"林清玄"
 		],
 		"image": "https://img3.doubanio.com/mpic/s11215445.jpg",
-		"rating": "8.2",
+		"rating": "8.1",
 		"publisher": "国际文化出版公司",
 		"pages": "200",
 		"price": "26.00元"
@@ -850,7 +898,7 @@
 		"author": [
 			"飞乐鸟工作室"
 		],
-		"image": "https://img2.doubanio.com/mpic/s27314987.jpg",
+		"image": "https://img1.doubanio.com/mpic/s27314987.jpg",
 		"rating": "6.7",
 		"publisher": "中国水利水电出版社",
 		"pages": "192",
@@ -874,7 +922,7 @@
 		"author": [
 			"(捷克) 赫拉巴尔"
 		],
-		"image": "https://img2.doubanio.com/mpic/s24422879.jpg",
+		"image": "https://img1.doubanio.com/mpic/s24422879.jpg",
 		"rating": "8.8",
 		"publisher": "北京十月文艺出版社",
 		"pages": "120",
@@ -887,7 +935,7 @@
 			"老舍"
 		],
 		"image": "https://img3.doubanio.com/mpic/s28121775.jpg",
-		"rating": "8.7",
+		"rating": "8.8",
 		"publisher": "北京十月文艺出版社",
 		"pages": "656",
 		"price": "45.00元"
@@ -898,11 +946,11 @@
 		"author": [
 			"霍达"
 		],
-		"image": "https://img3.doubanio.com/mpic/s28336380.jpg",
+		"image": "https://img1.doubanio.com/mpic/s28361689.jpg",
 		"rating": "0.0",
 		"publisher": "北京十月文艺出版社",
 		"pages": "607",
-		"price": "49.80元"
+		"price": "CNY 49.80"
 	},
 	{
 		"id": "9787531819387",
@@ -918,15 +966,15 @@
 	},
 	{
 		"id": "9787532535538",
-		"title": "红楼梦",
+		"title": "红楼梦（全四册）",
 		"author": [
 			"曹雪芹 高鹗"
 		],
-		"image": "https://img1.doubanio.com/mpic/s1828102.jpg",
+		"image": "https://img1.doubanio.com/mpic/s3245388.jpg",
 		"rating": "9.3",
 		"publisher": "上海古籍出版社",
 		"pages": "893",
-		"price": "68.50元"
+		"price": "68.50"
 	},
 	{
 		"id": "9787532553129",
@@ -935,7 +983,7 @@
 			"[清]纳兰性德",
 			"张草纫 导读"
 		],
-		"image": "https://img2.doubanio.com/mpic/s3952439.jpg",
+		"image": "https://img1.doubanio.com/mpic/s3952439.jpg",
 		"rating": "8.8",
 		"publisher": "上海古籍出版社",
 		"pages": "238",
@@ -947,7 +995,7 @@
 		"author": [
 			"蒲松龄"
 		],
-		"image": "https://img2.doubanio.com/mpic/s4659767.jpg",
+		"image": "https://img1.doubanio.com/mpic/s4659767.jpg",
 		"rating": "8.0",
 		"publisher": "上海古籍出版社",
 		"pages": "574",
@@ -1038,13 +1086,25 @@
 		"price": "12.00元"
 	},
 	{
+		"id": "9787536071377",
+		"title": "我不知道该说什么，关于死亡还是爱情",
+		"author": [
+			"S.A.阿列克谢耶维奇"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28313152.jpg",
+		"rating": "9.0",
+		"publisher": "花城出版社/铁葫芦图书",
+		"pages": "280",
+		"price": "34.80元"
+	},
+	{
 		"id": "9787536481152",
 		"title": "梦之海",
 		"author": [
 			"刘慈欣"
 		],
 		"image": "https://img1.doubanio.com/mpic/s28270972.jpg",
-		"rating": "7.5",
+		"rating": "7.7",
 		"publisher": "四川科学技术出版社",
 		"pages": "",
 		"price": "36.00元"
@@ -1079,7 +1139,7 @@
 		"author": [
 			"(日)竹久梦二"
 		],
-		"image": "https://img2.doubanio.com/mpic/s10405659.jpg",
+		"image": "https://img1.doubanio.com/mpic/s10405659.jpg",
 		"rating": "7.8",
 		"publisher": "时代文艺出版社",
 		"pages": "185",
@@ -1103,7 +1163,7 @@
 		"author": [
 			"纪伯伦"
 		],
-		"image": "https://img2.doubanio.com/mpic/s11117267.jpg",
+		"image": "https://img1.doubanio.com/mpic/s11117267.jpg",
 		"rating": "8.4",
 		"publisher": "江苏文艺出版社",
 		"pages": "285",
@@ -1127,7 +1187,7 @@
 		"author": [
 			"本社"
 		],
-		"image": "https://img2.doubanio.com/mpic/s6510717.jpg",
+		"image": "https://img1.doubanio.com/mpic/s6510717.jpg",
 		"rating": "8.5",
 		"publisher": "北京燕山",
 		"pages": "776",
@@ -1175,7 +1235,7 @@
 		"author": [
 			"威尔·鲍温 (Will Bowen)"
 		],
-		"image": "https://img2.doubanio.com/mpic/s28322307.jpg",
+		"image": "https://img1.doubanio.com/mpic/s28322307.jpg",
 		"rating": "0.0",
 		"publisher": "湖南文艺出版社",
 		"pages": "193",
@@ -1223,7 +1283,7 @@
 			"(法)卢梭(RousseauJ. )"
 		],
 		"image": "https://img1.doubanio.com/mpic/s27266372.jpg",
-		"rating": "8.7",
+		"rating": "8.8",
 		"publisher": "上海三联书店",
 		"pages": "172",
 		"price": "20.00元"
@@ -1258,7 +1318,7 @@
 		"author": [
 			"[日] 村上春树"
 		],
-		"image": "https://img2.doubanio.com/mpic/s4566097.jpg",
+		"image": "https://img1.doubanio.com/mpic/s4566097.jpg",
 		"rating": "8.3",
 		"publisher": "南海出版公司",
 		"pages": "198",
@@ -1295,7 +1355,7 @@
 			"维多利亚·希斯洛普"
 		],
 		"image": "https://img3.doubanio.com/mpic/s26825800.jpg",
-		"rating": "8.9",
+		"rating": "9.0",
 		"publisher": "南海出版公司",
 		"pages": "416",
 		"price": "36.00元"
@@ -1337,6 +1397,18 @@
 		"price": "25.00元"
 	},
 	{
+		"id": "9787547715185",
+		"title": "人神异兽录",
+		"author": [
+			"王旭龙 绘"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28069209.jpg",
+		"rating": "0.0",
+		"publisher": "同心出版社",
+		"pages": "272",
+		"price": "45.00元"
+	},
+	{
 		"id": "9787549405282",
 		"title": "破译网格设计",
 		"author": [
@@ -1366,8 +1438,8 @@
 		"author": [
 			"（美）蒂莫西•萨马拉"
 		],
-		"image": "https://img2.doubanio.com/mpic/s24925448.jpg",
-		"rating": "8.4",
+		"image": "https://img1.doubanio.com/mpic/s24925448.jpg",
+		"rating": "8.3",
 		"publisher": "广西美术出版社",
 		"pages": "248",
 		"price": "89.00元"
@@ -1378,8 +1450,8 @@
 		"author": [
 			"[日] 伊藤守"
 		],
-		"image": "https://img2.doubanio.com/mpic/s27283267.jpg",
-		"rating": "6.4",
+		"image": "https://img1.doubanio.com/mpic/s27283267.jpg",
+		"rating": "6.6",
 		"publisher": "北京联合出版公司",
 		"pages": "240",
 		"price": "32.8"
@@ -1391,7 +1463,7 @@
 			"日本株式社会旺文社"
 		],
 		"image": "https://img1.doubanio.com/mpic/s1310833.jpg",
-		"rating": "9.3",
+		"rating": "9.2",
 		"publisher": "外语教学与研究出版社",
 		"pages": "2147",
 		"price": "94.90元"
@@ -1414,7 +1486,7 @@
 		"author": [
 			"[意] Paolo Perrotta"
 		],
-		"image": "https://img2.doubanio.com/mpic/s7014167.jpg",
+		"image": "https://img1.doubanio.com/mpic/s7014167.jpg",
 		"rating": "9.5",
 		"publisher": "华中科技大学出版社",
 		"pages": "288",
@@ -1450,7 +1522,7 @@
 		"author": [
 			"约瑟夫•阿尔伯斯"
 		],
-		"image": "https://img2.doubanio.com/mpic/s8993018.jpg",
+		"image": "https://img1.doubanio.com/mpic/s8993018.jpg",
 		"rating": "7.9",
 		"publisher": "重庆大学出版社/楚尘文化",
 		"pages": "83",
@@ -1474,7 +1546,7 @@
 		"author": [
 			"韩金瑞"
 		],
-		"image": "https://img2.doubanio.com/mpic/s5842058.jpg",
+		"image": "https://img1.doubanio.com/mpic/s5842058.jpg",
 		"rating": "0.0",
 		"publisher": "商务国际",
 		"pages": "594",
@@ -1486,11 +1558,23 @@
 		"author": [
 			"[德] 尼采"
 		],
-		"image": "https://img2.doubanio.com/mpic/s1036148.jpg",
+		"image": "https://img1.doubanio.com/mpic/s1036148.jpg",
 		"rating": "8.0",
 		"publisher": "九州出版社",
 		"pages": "431",
 		"price": "26.00元"
+	},
+	{
+		"id": "9787801156273",
+		"title": "瓦尔登湖",
+		"author": [
+			"[美] 亨利·戴维·梭罗"
+		],
+		"image": "https://img3.doubanio.com/mpic/s1743606.jpg",
+		"rating": "8.4",
+		"publisher": "当代世界出版社",
+		"pages": "211",
+		"price": "30.00元"
 	},
 	{
 		"id": "9787802065000",
@@ -1510,7 +1594,7 @@
 		"author": [
 			"黑背 绘"
 		],
-		"image": "https://img2.doubanio.com/mpic/s3643319.jpg",
+		"image": "https://img1.doubanio.com/mpic/s3643319.jpg",
 		"rating": "8.6",
 		"publisher": "中国画报出版社",
 		"pages": "",
@@ -1523,7 +1607,7 @@
 			"[宋] 司马光 著",
 			"黄锦鋐 主编"
 		],
-		"image": "https://img2.doubanio.com/mpic/s5972249.jpg",
+		"image": "https://img1.doubanio.com/mpic/s5972249.jpg",
 		"rating": "9.1",
 		"publisher": "新世界出版社",
 		"pages": "971",
@@ -1583,7 +1667,7 @@
 		"author": [
 			"张心远"
 		],
-		"image": "https://img2.doubanio.com/mpic/s3243347.jpg",
+		"image": "https://img1.doubanio.com/mpic/s3243347.jpg",
 		"rating": "0.0",
 		"publisher": "三秦出版社",
 		"pages": "135",
@@ -1595,8 +1679,8 @@
 		"author": [
 			"于魁荣"
 		],
-		"image": "https://img2.doubanio.com/mpic/s5984518.jpg",
-		"rating": "8.2",
+		"image": "https://img1.doubanio.com/mpic/s5984518.jpg",
+		"rating": "8.1",
 		"publisher": "中国书店",
 		"pages": "178",
 		"price": "28.00元"
@@ -1619,7 +1703,7 @@
 		"author": [
 			"朱熹"
 		],
-		"image": "https://img2.doubanio.com/mpic/s5876927.jpg",
+		"image": "https://img1.doubanio.com/mpic/s5876927.jpg",
 		"rating": "7.2",
 		"publisher": "岳麓书社",
 		"pages": "542",

@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 2,
+		"numRaters": 3,
 		"average": "0.0",
 		"min": 0
 	},

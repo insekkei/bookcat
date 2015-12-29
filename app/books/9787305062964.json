@@ -10,12 +10,12 @@
 	"pubdate": "2009-7",
 	"tags": [
 		{
-			"count": 5,
+			"count": 6,
 			"name": "诗词",
 			"title": "诗词"
 		},
 		{
-			"count": 3,
+			"count": 4,
 			"name": "国学",
 			"title": "国学"
 		},
@@ -23,6 +23,21 @@
 			"count": 2,
 			"name": "文化典籍",
 			"title": "文化典籍"
+		},
+		{
+			"count": 1,
+			"name": "中国",
+			"title": "中国"
+		},
+		{
+			"count": 1,
+			"name": "中国文学",
+			"title": "中国文学"
+		},
+		{
+			"count": 1,
+			"name": "文化史",
+			"title": "文化史"
 		}
 	],
 	"origin_title": "",

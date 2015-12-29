@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 919,
+		"numRaters": 924,
 		"average": "8.6",
 		"min": 0
 	},
@@ -12,22 +12,22 @@
 	"pubdate": "2008-9-1",
 	"tags": [
 		{
-			"count": 879,
+			"count": 887,
 			"name": "设计",
 			"title": "设计"
 		},
 		{
-			"count": 726,
+			"count": 729,
 			"name": "平面设计",
 			"title": "平面设计"
 		},
 		{
-			"count": 223,
+			"count": 225,
 			"name": "美国设计学院用书",
 			"title": "美国设计学院用书"
 		},
 		{
-			"count": 163,
+			"count": 166,
 			"name": "艺术",
 			"title": "艺术"
 		},
@@ -37,17 +37,17 @@
 			"title": "Design"
 		},
 		{
-			"count": 143,
+			"count": 144,
 			"name": "设计创意及理论",
 			"title": "设计创意及理论"
 		},
 		{
-			"count": 122,
+			"count": 125,
 			"name": "设计理论",
 			"title": "设计理论"
 		},
 		{
-			"count": 75,
+			"count": 77,
 			"name": "色彩",
 			"title": "色彩"
 		}

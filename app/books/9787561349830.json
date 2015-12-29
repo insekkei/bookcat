@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 1575,
+		"numRaters": 1580,
 		"average": "7.6",
 		"min": 0
 	},
@@ -12,17 +12,17 @@
 	"pubdate": "2010-02",
 	"tags": [
 		{
-			"count": 391,
+			"count": 394,
 			"name": "励志",
 			"title": "励志"
 		},
 		{
-			"count": 289,
+			"count": 291,
 			"name": "心理",
 			"title": "心理"
 		},
 		{
-			"count": 256,
+			"count": 257,
 			"name": "不抱怨的世界",
 			"title": "不抱怨的世界"
 		},
@@ -37,12 +37,12 @@
 			"title": "不抱怨的世界2"
 		},
 		{
-			"count": 105,
+			"count": 106,
 			"name": "人生",
 			"title": "人生"
 		},
 		{
-			"count": 92,
+			"count": 93,
 			"name": "生活",
 			"title": "生活"
 		},

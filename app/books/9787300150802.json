@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 168,
+		"numRaters": 169,
 		"average": "7.1",
 		"min": 0
 	},
@@ -12,7 +12,7 @@
 	"pubdate": "2012-7-26",
 	"tags": [
 		{
-			"count": 175,
+			"count": 177,
 			"name": "思维",
 			"title": "思维"
 		},
@@ -22,17 +22,17 @@
 			"title": "逻辑"
 		},
 		{
-			"count": 121,
+			"count": 122,
 			"name": "哲学",
 			"title": "哲学"
 		},
 		{
-			"count": 60,
+			"count": 61,
 			"name": "思考方法",
 			"title": "思考方法"
 		},
 		{
-			"count": 40,
+			"count": 41,
 			"name": "判断力",
 			"title": "判断力"
 		},
@@ -47,9 +47,9 @@
 			"title": "朱利安•巴吉尼"
 		},
 		{
-			"count": 20,
-			"name": "英国",
-			"title": "英国"
+			"count": 21,
+			"name": "方法论",
+			"title": "方法论"
 		}
 	],
 	"origin_title": "The Duck that Won the Lottery And 99 other Bad Arguments",

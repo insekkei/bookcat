@@ -18,18 +18,18 @@
 		},
 		{
 			"count": 6,
-			"name": "小说",
-			"title": "小说"
-		},
-		{
-			"count": 6,
 			"name": "古文",
 			"title": "古文"
 		},
 		{
+			"count": 6,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
 			"count": 1,
-			"name": "藏书",
-			"title": "藏书"
+			"name": "中国",
+			"title": "中国"
 		},
 		{
 			"count": 1,
@@ -53,15 +53,15 @@
 		}
 	],
 	"origin_title": "",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s4659767.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s4659767.jpg",
 	"binding": "",
 	"translator": [],
 	"catalog": "",
 	"pages": "574",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s4659767.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s4659767.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s4659767.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s4659767.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s4659767.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s4659767.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/5392912\/",
 	"id": "5392912",

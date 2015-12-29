@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 296,
+		"numRaters": 302,
 		"average": "9.1",
 		"min": 0
 	},
@@ -12,42 +12,42 @@
 	"pubdate": "2012-4-1",
 	"tags": [
 		{
-			"count": 528,
+			"count": 535,
 			"name": "JavaScript",
 			"title": "JavaScript"
 		},
 		{
-			"count": 164,
+			"count": 166,
 			"name": "犀牛书",
 			"title": "犀牛书"
 		},
 		{
-			"count": 154,
+			"count": 156,
 			"name": "Web前端开发",
 			"title": "Web前端开发"
 		},
 		{
-			"count": 93,
+			"count": 96,
 			"name": "前端",
 			"title": "前端"
 		},
 		{
-			"count": 81,
+			"count": 83,
 			"name": "Web开发",
 			"title": "Web开发"
 		},
 		{
-			"count": 67,
+			"count": 72,
 			"name": "编程",
 			"title": "编程"
 		},
 		{
-			"count": 65,
+			"count": 68,
 			"name": "计算机",
 			"title": "计算机"
 		},
 		{
-			"count": 57,
+			"count": 59,
 			"name": "javascript",
 			"title": "javascript"
 		}
@@ -76,7 +76,7 @@
 	"alt_title": "JavaScript: The Definitive Guide, Sixth Edition",
 	"author_intro": "David Flanagan是一名程序员，也是一名作家，它的个人网站是http:\/\/davidflanagan.com。他在O'Reilly出版的其他畅销书还包括《JavaScript Pocket Reference》、《The Ruby Programming Language》，以及《Java in a Nutshell》。David毕业于麻生理工学院，获得计算机科学与工程学位。他和妻子和孩子一起生活在西雅图和温哥华之间的美国太平洋西北海岸。",
 	"summary": "本书是程序员学习核心JavaScript语言和由Web浏览器定义的JavaScript API的指南和综合参考手册。\n第6版涵盖HTML 5和ECMAScript 5。很多章节完全重写，以便与时俱进，紧跟当今的最佳Web开发实践。本书新增章节描述了jQuery和服务器端JavaScript。\n本书适合那些希望学习Web编程语言的初、中级程序员和希望精通JavaScript的JavaScript程序员阅读。",
-	"ebook_price": "9.99",
+	"ebook_price": "30.00",
 	"series": {
 		"id": "697",
 		"title": "博文视点O'reilly系列"

@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 211,
+		"numRaters": 218,
 		"average": "8.9",
 		"min": 0
 	},
@@ -12,17 +12,17 @@
 	"pubdate": "2012-1",
 	"tags": [
 		{
-			"count": 123,
+			"count": 125,
 			"name": "林语堂",
 			"title": "林语堂"
 		},
 		{
-			"count": 76,
+			"count": 77,
 			"name": "文化",
 			"title": "文化"
 		},
 		{
-			"count": 51,
+			"count": 53,
 			"name": "中国",
 			"title": "中国"
 		},
@@ -47,7 +47,7 @@
 			"title": "中国文学"
 		},
 		{
-			"count": 13,
+			"count": 14,
 			"name": "散文",
 			"title": "散文"
 		}

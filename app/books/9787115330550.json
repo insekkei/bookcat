@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 46,
+		"numRaters": 49,
 		"average": "8.8",
 		"min": 0
 	},
@@ -13,7 +13,7 @@
 	"pubdate": "2013-10",
 	"tags": [
 		{
-			"count": 47,
+			"count": 49,
 			"name": "jQuery",
 			"title": "jQuery"
 		},
@@ -23,9 +23,14 @@
 			"title": "Web前端"
 		},
 		{
-			"count": 18,
+			"count": 19,
 			"name": "JavaScript",
 			"title": "JavaScript"
+		},
+		{
+			"count": 8,
+			"name": "Web",
+			"title": "Web"
 		},
 		{
 			"count": 7,
@@ -33,9 +38,9 @@
 			"title": "计算机"
 		},
 		{
-			"count": 7,
-			"name": "Web",
-			"title": "Web"
+			"count": 6,
+			"name": "前端开发",
+			"title": "前端开发"
 		},
 		{
 			"count": 5,
@@ -43,12 +48,7 @@
 			"title": "web"
 		},
 		{
-			"count": 4,
-			"name": "前端开发",
-			"title": "前端开发"
-		},
-		{
-			"count": 4,
+			"count": 5,
 			"name": "前端",
 			"title": "前端"
 		}

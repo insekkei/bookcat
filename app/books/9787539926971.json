@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 303,
+		"numRaters": 304,
 		"average": "7.2",
 		"min": 0
 	},
@@ -48,8 +48,8 @@
 		},
 		{
 			"count": 15,
-			"name": "历史",
-			"title": "历史"
+			"name": "散文",
+			"title": "散文"
 		}
 	],
 	"origin_title": "",

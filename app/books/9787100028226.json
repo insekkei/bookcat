@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 9,
-		"average": "0.0",
+		"numRaters": 10,
+		"average": "8.0",
 		"min": 0
 	},
 	"subtitle": "",
@@ -12,19 +12,19 @@
 	"pubdate": "2000-1",
 	"tags": [
 		{
-			"count": 11,
+			"count": 12,
 			"name": "工具书",
 			"title": "工具书"
 		},
 		{
 			"count": 8,
-			"name": "词典",
-			"title": "词典"
-		},
-		{
-			"count": 7,
 			"name": "汉语",
 			"title": "汉语"
+		},
+		{
+			"count": 8,
+			"name": "词典",
+			"title": "词典"
 		},
 		{
 			"count": 4,

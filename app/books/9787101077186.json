@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 125,
+		"numRaters": 130,
 		"average": "9.3",
 		"min": 0
 	},
@@ -13,12 +13,12 @@
 	"pubdate": "2011-1",
 	"tags": [
 		{
-			"count": 109,
+			"count": 112,
 			"name": "庄子",
 			"title": "庄子"
 		},
 		{
-			"count": 53,
+			"count": 54,
 			"name": "哲学",
 			"title": "哲学"
 		},

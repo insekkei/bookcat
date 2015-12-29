@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 8667,
+		"numRaters": 8783,
 		"average": "8.1",
 		"min": 0
 	},
@@ -12,42 +12,42 @@
 	"pubdate": "2010-4",
 	"tags": [
 		{
-			"count": 2136,
+			"count": 2149,
 			"name": "塞林格",
 			"title": "塞林格"
 		},
 		{
-			"count": 1986,
+			"count": 2003,
 			"name": "麦田里的守望者",
 			"title": "麦田里的守望者"
 		},
 		{
-			"count": 1588,
+			"count": 1593,
 			"name": "外国文学",
 			"title": "外国文学"
 		},
 		{
-			"count": 1276,
+			"count": 1285,
 			"name": "青春",
 			"title": "青春"
 		},
 		{
-			"count": 1230,
+			"count": 1240,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 1002,
+			"count": 1012,
 			"name": "美国",
 			"title": "美国"
 		},
 		{
-			"count": 701,
+			"count": 709,
 			"name": "理想",
 			"title": "理想"
 		},
 		{
-			"count": 483,
+			"count": 487,
 			"name": "文学",
 			"title": "文学"
 		}

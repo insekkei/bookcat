@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 74,
-		"average": "6.8",
+		"numRaters": 75,
+		"average": "6.7",
 		"min": 0
 	},
 	"subtitle": "图解逻辑思考力的35个基本点，让你一看就懂。",
@@ -12,12 +12,12 @@
 	"pubdate": "2013-7-1",
 	"tags": [
 		{
-			"count": 43,
+			"count": 45,
 			"name": "思维",
 			"title": "思维"
 		},
 		{
-			"count": 32,
+			"count": 33,
 			"name": "逻辑学",
 			"title": "逻辑学"
 		},
@@ -53,7 +53,7 @@
 		}
 	],
 	"origin_title": "論理的な考え方が面白いほど身につく本",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s26832239.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s26832239.jpg",
 	"binding": "平装",
 	"translator": [
 		"邢舒睿"
@@ -61,9 +61,9 @@
 	"catalog": "前言\n逻辑思考力小测试\n01 何谓“逻辑思考力”\n逻辑思考力使人进步\n跳跃式思考，不能让对方明白想表达的意思\n“爱较真的”和“有逻辑的”是不同的\n使证明结论的场景明确化\n把垂直思考和水平思考结合起来\n为什么有逻辑的方法就是好方法\n从日常生活中掌握逻辑思考方法\n逻辑思考力的要点1\n02 培养逻辑思考力的7大基本方法\n方法1：使解决问题的过程透明化\n方法2：三角逻辑，提高说服力\n方法3：归纳法，总结事实然后得出结论\n方法4：演绎法，找到事物的趋势从而确立假说\n方法5：MECE，使遗漏和重复降到最低\n方法6：逻辑树，对信息进行整理\n方法7：5W2H，验证信息是否有遗漏\n逻辑思考力的要点2\n03 如何进行逻辑思考\n逻辑思考并有效表达的窍门\n区分事实和判断\n平时要多问“Why”\n用“is\/is not”来思考\n用排除法进行排除\n边写边明确思路\n运用逻辑思维发现问题\n逻辑思考力的要点3\n04 如何进行逻辑写作\n逻辑写作的窍门\n写出通俗易懂的文章\n莫因邮件书写失误而招致误解\n长的文章要首先制作目录\n站在读者的角度\n确定每个段落的主要内容\n如果是演讲资料要把目录放在前面\n逻辑思考力的要点4\n05 如何进行逻辑表达\n逻辑表达的窍门\n在演讲时说服对方\n整理出三个左右的信息点\n使用金字塔模式\n建立良好的沟通过程\n和说话的对方成为朋友\n做实质性的讨论\n逻辑思考力的要点5",
 	"pages": "176",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s26832239.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s26832239.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s26832239.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s26832239.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s26832239.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s26832239.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/24855882\/",
 	"id": "24855882",

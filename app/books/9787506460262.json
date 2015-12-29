@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 13,
+		"numRaters": 14,
 		"average": "6.8",
 		"min": 0
 	},
@@ -17,7 +17,7 @@
 			"title": "曾国藩"
 		},
 		{
-			"count": 4,
+			"count": 5,
 			"name": "国学",
 			"title": "国学"
 		},

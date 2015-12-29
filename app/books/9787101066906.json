@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 958,
+		"numRaters": 980,
 		"average": "9.2",
 		"min": 0
 	},
@@ -13,42 +13,42 @@
 	"pubdate": "2009-6-8",
 	"tags": [
 		{
-			"count": 353,
+			"count": 359,
 			"name": "王国维",
 			"title": "王国维"
 		},
 		{
-			"count": 278,
+			"count": 280,
 			"name": "国学",
 			"title": "国学"
 		},
 		{
-			"count": 179,
+			"count": 180,
 			"name": "古典文学",
 			"title": "古典文学"
 		},
 		{
-			"count": 131,
+			"count": 132,
 			"name": "人间词话",
 			"title": "人间词话"
 		},
 		{
-			"count": 100,
+			"count": 103,
 			"name": "文学",
 			"title": "文学"
 		},
 		{
-			"count": 86,
+			"count": 87,
 			"name": "中华书局",
 			"title": "中华书局"
 		},
 		{
-			"count": 75,
+			"count": 78,
 			"name": "诗词",
 			"title": "诗词"
 		},
 		{
-			"count": 71,
+			"count": 72,
 			"name": "经典",
 			"title": "经典"
 		}

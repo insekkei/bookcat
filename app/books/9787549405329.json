@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 19,
+		"numRaters": 20,
 		"average": "8.3",
 		"min": 0
 	},
@@ -12,7 +12,7 @@
 	"pubdate": "2012-6-30",
 	"tags": [
 		{
-			"count": 27,
+			"count": 28,
 			"name": "设计",
 			"title": "设计"
 		},

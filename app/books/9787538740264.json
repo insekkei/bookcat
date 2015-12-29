@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 230,
+		"numRaters": 233,
 		"average": "7.8",
 		"min": 0
 	},
@@ -17,17 +17,17 @@
 			"title": "竹久梦二"
 		},
 		{
-			"count": 89,
+			"count": 90,
 			"name": "绘本",
 			"title": "绘本"
 		},
 		{
-			"count": 69,
+			"count": 70,
 			"name": "日本",
 			"title": "日本"
 		},
 		{
-			"count": 43,
+			"count": 44,
 			"name": "童话",
 			"title": "童话"
 		},
@@ -42,7 +42,7 @@
 			"title": "艺术"
 		},
 		{
-			"count": 16,
+			"count": 17,
 			"name": "童心",
 			"title": "童心"
 		},
@@ -53,7 +53,7 @@
 		}
 	],
 	"origin_title": "",
-	"image": "https:\/\/img2.doubanio.com\/mpic\/s10405659.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s10405659.jpg",
 	"binding": "平装",
 	"translator": [
 		"袁丽"
@@ -61,9 +61,9 @@
 	"catalog": "一 我要妈妈\n——那些与妈妈形影相随的时光\n清晨\n早晨\n摇篮曲\n月夜\n月曲\n脏脏的脸\n玩偶的衣服\n小鸟之歌\n火炉前\n二 我爱爸爸\n——爸爸看上去总是那么辛苦\n便当\n接爸爸\n明信片\n字帖\n好孩子\n最初的悲伤\n三 儿时的玩伴\n——因为有你，童年如此美好\n小秘密\n小妈妈\n我的小宝宝\n睡觉的小偶人\n坏小狗\n儿时的玩伴\n我不在哟\n拉钩\n猫\n偷听\n山神\n小人儿与小猫儿\n小狗的心\n玛丽\n鹦鹉\n云与烟\n棒球之歌\n紫云英\n悄悄地\n雪\n叔叔的脸\n巨大的蝙蝠伞\n四 童话，童话\n——没有童话，\n世界会是什么样子\n鸭子与小鸡\n小马与犬\n打扮\n雨蛙\n知更鸟与小鸭子\n小军官\n火腿的骨头\n风筝之歌\n草丛\n春之绘\n花之归宿\n五 坏小孩的天空\n——你是乖孩子还是坏孩子？\n真脏啊\n小的信\n圣诞之夜\n圣诞节礼物\n门\n老师的脸\n人贩子\n小奶奶\n一块石头\n水车\n大手\n年幼的守灯塔人\n谁？什么时候？在哪里？做了什么？\n六 成年好不好\n——小时候想长大，长大了却怀念小时候\n悲伤的“别了”\n路（一）\n路（二）\n死\n向日葵\n都市的眼睛\"",
 	"pages": "185",
 	"images": {
-		"small": "https:\/\/img2.doubanio.com\/spic\/s10405659.jpg",
-		"large": "https:\/\/img2.doubanio.com\/lpic\/s10405659.jpg",
-		"medium": "https:\/\/img2.doubanio.com\/mpic\/s10405659.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s10405659.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s10405659.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s10405659.jpg"
 	},
 	"alt": "http:\/\/book.douban.com\/subject\/10741326\/",
 	"id": "10741326",

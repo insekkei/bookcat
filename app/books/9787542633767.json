@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 199,
+		"numRaters": 208,
 		"average": "9.7",
 		"min": 0
 	},
@@ -13,32 +13,32 @@
 	"pubdate": "2011-5-1",
 	"tags": [
 		{
-			"count": 92,
+			"count": 95,
 			"name": "红楼梦",
 			"title": "红楼梦"
 		},
 		{
-			"count": 64,
+			"count": 65,
 			"name": "脂砚斋",
 			"title": "脂砚斋"
 		},
 		{
-			"count": 56,
+			"count": 58,
 			"name": "古典文学",
 			"title": "古典文学"
 		},
 		{
-			"count": 43,
+			"count": 44,
 			"name": "曹雪芹",
 			"title": "曹雪芹"
 		},
 		{
-			"count": 32,
+			"count": 35,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 20,
+			"count": 21,
 			"name": "经典",
 			"title": "经典"
 		},
@@ -48,7 +48,7 @@
 			"title": "中国古典"
 		},
 		{
-			"count": 14,
+			"count": 15,
 			"name": "文学",
 			"title": "文学"
 		}

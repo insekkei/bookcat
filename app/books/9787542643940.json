@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 28,
-		"average": "8.7",
+		"numRaters": 30,
+		"average": "8.8",
 		"min": 0
 	},
 	"subtitle": "",
@@ -22,14 +22,14 @@
 			"title": "政治哲学"
 		},
 		{
-			"count": 2,
+			"count": 3,
 			"name": "哲学",
 			"title": "哲学"
 		},
 		{
 			"count": 2,
-			"name": "社会",
-			"title": "社会"
+			"name": "政治学",
+			"title": "政治学"
 		},
 		{
 			"count": 1,
@@ -38,18 +38,18 @@
 		},
 		{
 			"count": 1,
-			"name": "历史",
-			"title": "历史"
-		},
-		{
-			"count": 1,
 			"name": "思考，学习",
 			"title": "思考，学习"
 		},
 		{
 			"count": 1,
-			"name": "政治",
-			"title": "政治"
+			"name": "政治社会",
+			"title": "政治社会"
+		},
+		{
+			"count": 1,
+			"name": "社会",
+			"title": "社会"
 		}
 	],
 	"origin_title": "",

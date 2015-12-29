@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 1610,
+		"numRaters": 1623,
 		"average": "9.2",
 		"min": 0
 	},
@@ -12,39 +12,39 @@
 	"pubdate": "2008-2",
 	"tags": [
 		{
-			"count": 917,
+			"count": 929,
 			"name": "C语言",
 			"title": "C语言"
 		},
 		{
-			"count": 526,
+			"count": 534,
 			"name": "编程",
 			"title": "编程"
 		},
 		{
-			"count": 346,
+			"count": 348,
 			"name": "c",
 			"title": "c"
 		},
 		{
-			"count": 293,
+			"count": 297,
 			"name": "计算机",
 			"title": "计算机"
 		},
 		{
-			"count": 269,
+			"count": 272,
 			"name": "C专家编程",
 			"title": "C专家编程"
 		},
 		{
-			"count": 243,
-			"name": "C\/C++",
-			"title": "C\/C++"
-		},
-		{
-			"count": 240,
+			"count": 244,
 			"name": "C",
 			"title": "C"
+		},
+		{
+			"count": 242,
+			"name": "C\/C++",
+			"title": "C\/C++"
 		},
 		{
 			"count": 221,

@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 3726,
+		"numRaters": 3774,
 		"average": "8.2",
 		"min": 0
 	},
@@ -12,32 +12,32 @@
 	"pubdate": "2012-1",
 	"tags": [
 		{
-			"count": 2408,
+			"count": 2425,
 			"name": "爱情",
 			"title": "爱情"
 		},
 		{
-			"count": 1598,
+			"count": 1603,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 1393,
+			"count": 1409,
 			"name": "电影原著",
 			"title": "电影原著"
 		},
 		{
-			"count": 1040,
+			"count": 1046,
 			"name": "英国文学",
 			"title": "英国文学"
 		},
 		{
-			"count": 666,
+			"count": 675,
 			"name": "一天",
 			"title": "一天"
 		},
 		{
-			"count": 580,
+			"count": 586,
 			"name": "外国文学",
 			"title": "外国文学"
 		},
@@ -47,7 +47,7 @@
 			"title": "大卫·尼克斯"
 		},
 		{
-			"count": 523,
+			"count": 526,
 			"name": "大卫•尼克斯",
 			"title": "大卫•尼克斯"
 		}

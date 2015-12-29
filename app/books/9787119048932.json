@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 285,
+		"numRaters": 286,
 		"average": "9.4",
 		"min": 0
 	},
@@ -37,7 +37,7 @@
 			"title": "美国"
 		},
 		{
-			"count": 36,
+			"count": 37,
 			"name": "南北战争",
 			"title": "南北战争"
 		},

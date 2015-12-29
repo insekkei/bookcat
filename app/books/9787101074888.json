@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 188,
+		"numRaters": 194,
 		"average": "9.3",
 		"min": 0
 	},
@@ -12,17 +12,17 @@
 	"pubdate": "2011-1-1",
 	"tags": [
 		{
-			"count": 90,
+			"count": 92,
 			"name": "老子",
 			"title": "老子"
 		},
 		{
-			"count": 69,
+			"count": 70,
 			"name": "哲学",
 			"title": "哲学"
 		},
 		{
-			"count": 67,
+			"count": 68,
 			"name": "国学",
 			"title": "国学"
 		},
@@ -32,7 +32,7 @@
 			"title": "道家"
 		},
 		{
-			"count": 26,
+			"count": 28,
 			"name": "中国哲学",
 			"title": "中国哲学"
 		},

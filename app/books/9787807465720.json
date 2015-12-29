@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 513,
+		"numRaters": 516,
 		"average": "8.6",
 		"min": 0
 	},
@@ -12,7 +12,7 @@
 	"pubdate": "2008-12-1",
 	"tags": [
 		{
-			"count": 436,
+			"count": 439,
 			"name": "设计",
 			"title": "设计"
 		},
@@ -22,22 +22,22 @@
 			"title": "平面设计"
 		},
 		{
-			"count": 134,
+			"count": 135,
 			"name": "美国视觉设计学院",
 			"title": "美国视觉设计学院"
 		},
 		{
-			"count": 86,
+			"count": 87,
 			"name": "Design",
 			"title": "Design"
 		},
 		{
-			"count": 85,
+			"count": 86,
 			"name": "设计理论",
 			"title": "设计理论"
 		},
 		{
-			"count": 60,
+			"count": 61,
 			"name": "艺术",
 			"title": "艺术"
 		},

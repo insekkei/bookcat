@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 618,
+		"numRaters": 653,
 		"average": "8.5",
 		"min": 0
 	},
@@ -12,42 +12,42 @@
 	"pubdate": "2014-7",
 	"tags": [
 		{
-			"count": 304,
+			"count": 313,
 			"name": "维多利亚.希斯洛普",
 			"title": "维多利亚.希斯洛普"
 		},
 		{
-			"count": 185,
+			"count": 191,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 149,
+			"count": 155,
 			"name": "英国文学",
 			"title": "英国文学"
 		},
 		{
-			"count": 132,
+			"count": 138,
 			"name": "岛，姊妹篇",
 			"title": "岛，姊妹篇"
 		},
 		{
-			"count": 104,
+			"count": 111,
 			"name": "外国文学",
 			"title": "外国文学"
 		},
 		{
-			"count": 69,
+			"count": 71,
 			"name": "英国",
 			"title": "英国"
 		},
 		{
-			"count": 49,
+			"count": 54,
 			"name": "爱情",
 			"title": "爱情"
 		},
 		{
-			"count": 40,
+			"count": 44,
 			"name": "文学",
 			"title": "文学"
 		}

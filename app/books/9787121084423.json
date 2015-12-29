@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 340,
+		"numRaters": 341,
 		"average": "8.8",
 		"min": 0
 	},
@@ -12,7 +12,7 @@
 	"pubdate": "2009-6",
 	"tags": [
 		{
-			"count": 595,
+			"count": 598,
 			"name": "操作系统",
 			"title": "操作系统"
 		},
@@ -22,12 +22,12 @@
 			"title": "计算机"
 		},
 		{
-			"count": 194,
+			"count": 193,
 			"name": "OS",
 			"title": "OS"
 		},
 		{
-			"count": 125,
+			"count": 127,
 			"name": "编程",
 			"title": "编程"
 		},

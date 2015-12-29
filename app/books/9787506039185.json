@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 301,
+		"numRaters": 305,
 		"average": "9.0",
 		"min": 0
 	},
@@ -12,7 +12,7 @@
 	"pubdate": "2010-6",
 	"tags": [
 		{
-			"count": 198,
+			"count": 200,
 			"name": "南怀瑾",
 			"title": "南怀瑾"
 		},
@@ -22,7 +22,7 @@
 			"title": "国学"
 		},
 		{
-			"count": 89,
+			"count": 92,
 			"name": "老子",
 			"title": "老子"
 		},
@@ -32,12 +32,12 @@
 			"title": "道家"
 		},
 		{
-			"count": 57,
+			"count": 58,
 			"name": "哲学",
 			"title": "哲学"
 		},
 		{
-			"count": 33,
+			"count": 34,
 			"name": "道德经",
 			"title": "道德经"
 		},

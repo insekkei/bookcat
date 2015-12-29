@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 793,
+		"numRaters": 860,
 		"average": "8.6",
 		"min": 0
 	},
@@ -12,42 +12,42 @@
 	"pubdate": "2014-11",
 	"tags": [
 		{
-			"count": 811,
+			"count": 842,
 			"name": "加西亚·马尔克斯",
 			"title": "加西亚·马尔克斯"
 		},
 		{
-			"count": 389,
+			"count": 404,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 344,
+			"count": 355,
 			"name": "拉美文学",
 			"title": "拉美文学"
 		},
 		{
-			"count": 193,
+			"count": 206,
 			"name": "外国文学",
 			"title": "外国文学"
 		},
 		{
-			"count": 132,
+			"count": 144,
 			"name": "马尔克斯",
 			"title": "马尔克斯"
 		},
 		{
-			"count": 100,
-			"name": "文学",
-			"title": "文学"
-		},
-		{
-			"count": 98,
+			"count": 106,
 			"name": "哥伦比亚",
 			"title": "哥伦比亚"
 		},
 		{
-			"count": 87,
+			"count": 105,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 95,
 			"name": "拉美",
 			"title": "拉美"
 		}

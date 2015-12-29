@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 33,
-		"average": "8.2",
+		"numRaters": 35,
+		"average": "8.1",
 		"min": 0
 	},
 	"subtitle": "菩提十书",
@@ -12,7 +12,7 @@
 	"pubdate": "2012-9",
 	"tags": [
 		{
-			"count": 18,
+			"count": 19,
 			"name": "林清玄",
 			"title": "林清玄"
 		},
@@ -38,18 +38,18 @@
 		},
 		{
 			"count": 2,
-			"name": "禅学",
-			"title": "禅学"
+			"name": "心理",
+			"title": "心理"
+		},
+		{
+			"count": 2,
+			"name": "夏天的书",
+			"title": "夏天的书"
 		},
 		{
 			"count": 2,
 			"name": "温柔心",
 			"title": "温柔心"
-		},
-		{
-			"count": 2,
-			"name": "心理",
-			"title": "心理"
 		}
 	],
 	"origin_title": "",

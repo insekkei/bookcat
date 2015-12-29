@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 683,
-		"average": "7.6",
+		"numRaters": 703,
+		"average": "7.5",
 		"min": 0
 	},
 	"subtitle": "我的职业是旅行》（独家定制图",
@@ -10,42 +10,42 @@
 	"pubdate": "2011-7",
 	"tags": [
 		{
-			"count": 425,
+			"count": 427,
 			"name": "旅行",
 			"title": "旅行"
 		},
 		{
-			"count": 171,
+			"count": 170,
 			"name": "背包十年",
 			"title": "背包十年"
 		},
 		{
-			"count": 136,
+			"count": 137,
 			"name": "梦想",
 			"title": "梦想"
 		},
 		{
-			"count": 120,
+			"count": 123,
 			"name": "生活~行走",
 			"title": "生活~行走"
 		},
 		{
-			"count": 100,
+			"count": 102,
 			"name": "游记",
 			"title": "游记"
 		},
 		{
-			"count": 90,
+			"count": 91,
 			"name": "小鹏",
 			"title": "小鹏"
 		},
 		{
-			"count": 56,
+			"count": 58,
 			"name": "旅游",
 			"title": "旅游"
 		},
 		{
-			"count": 29,
+			"count": 30,
 			"name": "户外",
 			"title": "户外"
 		}

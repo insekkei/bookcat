@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 11195,
+		"numRaters": 13733,
 		"average": "7.9",
 		"min": 0
 	},
@@ -12,44 +12,44 @@
 	"pubdate": "2015-5",
 	"tags": [
 		{
-			"count": 2712,
+			"count": 3175,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 2269,
+			"count": 2578,
 			"name": "外国文学",
 			"title": "外国文学"
 		},
 		{
-			"count": 1385,
+			"count": 1577,
 			"name": "好书，值得一读",
 			"title": "好书，值得一读"
 		},
 		{
-			"count": 1179,
+			"count": 1400,
 			"name": "美国文学",
 			"title": "美国文学"
 		},
 		{
-			"count": 1026,
+			"count": 1191,
 			"name": "文学",
 			"title": "文学"
 		},
 		{
-			"count": 862,
-			"name": "深夜读书",
-			"title": "深夜读书"
-		},
-		{
-			"count": 861,
+			"count": 1022,
 			"name": "生活",
 			"title": "生活"
 		},
 		{
-			"count": 851,
+			"count": 1018,
 			"name": "美国",
 			"title": "美国"
+		},
+		{
+			"count": 1001,
+			"name": "深夜读书",
+			"title": "深夜读书"
 		}
 	],
 	"origin_title": "The Storied Life of A. J. Fikry",

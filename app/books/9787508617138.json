@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 386,
+		"numRaters": 398,
 		"average": "8.3",
 		"min": 0
 	},
@@ -12,42 +12,42 @@
 	"pubdate": "2009-11-1",
 	"tags": [
 		{
-			"count": 361,
+			"count": 370,
 			"name": "管理",
 			"title": "管理"
 		},
 		{
-			"count": 197,
+			"count": 202,
 			"name": "商业",
 			"title": "商业"
 		},
 		{
-			"count": 135,
+			"count": 141,
 			"name": "管理学",
 			"title": "管理学"
 		},
 		{
-			"count": 66,
+			"count": 70,
 			"name": "企业",
 			"title": "企业"
 		},
 		{
-			"count": 61,
+			"count": 63,
 			"name": "经济管理",
 			"title": "经济管理"
 		},
 		{
-			"count": 41,
-			"name": "心理学",
-			"title": "心理学"
-		},
-		{
-			"count": 41,
+			"count": 42,
 			"name": "励志",
 			"title": "励志"
 		},
 		{
-			"count": 35,
+			"count": 42,
+			"name": "心理学",
+			"title": "心理学"
+		},
+		{
+			"count": 36,
 			"name": "经济",
 			"title": "经济"
 		}

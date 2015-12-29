@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 165,
+		"numRaters": 166,
 		"average": "7.3",
 		"min": 0
 	},
@@ -12,7 +12,7 @@
 	"pubdate": "2011-6",
 	"tags": [
 		{
-			"count": 62,
+			"count": 64,
 			"name": "蒋勋",
 			"title": "蒋勋"
 		},
@@ -22,7 +22,7 @@
 			"title": "《红楼梦》研究"
 		},
 		{
-			"count": 31,
+			"count": 32,
 			"name": "红楼梦",
 			"title": "红楼梦"
 		},

@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 202,
+		"numRaters": 211,
 		"average": "9.1",
 		"min": 0
 	},
@@ -15,42 +15,42 @@
 	"pubdate": "2012-12",
 	"tags": [
 		{
-			"count": 358,
+			"count": 374,
 			"name": "算法",
 			"title": "算法"
 		},
 		{
-			"count": 218,
+			"count": 222,
 			"name": "算法导论",
 			"title": "算法导论"
 		},
 		{
-			"count": 147,
+			"count": 154,
 			"name": "计算机",
 			"title": "计算机"
 		},
 		{
-			"count": 129,
+			"count": 141,
 			"name": "编程",
 			"title": "编程"
 		},
 		{
-			"count": 109,
+			"count": 116,
 			"name": "计算机科学",
 			"title": "计算机科学"
 		},
 		{
-			"count": 72,
+			"count": 80,
 			"name": "经典",
 			"title": "经典"
 		},
 		{
-			"count": 49,
+			"count": 54,
 			"name": "算法&数学",
 			"title": "算法&数学"
 		},
 		{
-			"count": 42,
+			"count": 47,
 			"name": "程序设计",
 			"title": "程序设计"
 		}

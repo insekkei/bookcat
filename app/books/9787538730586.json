@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 523,
+		"numRaters": 539,
 		"average": "9.1",
 		"min": 0
 	},
@@ -17,37 +17,37 @@
 			"title": "小王子"
 		},
 		{
-			"count": 112,
+			"count": 116,
 			"name": "童话",
 			"title": "童话"
 		},
 		{
-			"count": 54,
+			"count": 58,
 			"name": "外国文学",
 			"title": "外国文学"
 		},
 		{
-			"count": 47,
+			"count": 49,
 			"name": "法国",
 			"title": "法国"
 		},
 		{
-			"count": 40,
+			"count": 43,
 			"name": "绘本",
 			"title": "绘本"
 		},
 		{
-			"count": 37,
+			"count": 38,
 			"name": "圣埃克苏佩里",
 			"title": "圣埃克苏佩里"
 		},
 		{
-			"count": 30,
+			"count": 32,
 			"name": "珍藏版",
 			"title": "珍藏版"
 		},
 		{
-			"count": 29,
+			"count": 30,
 			"name": "文学",
 			"title": "文学"
 		}
