@@ -33,7 +33,10 @@ bookcatControllers.controller('BookListCtrl', ['$scope', 'Book',
 			$scope.books = data
 		});*/
 		
-		// $scope.orderProp = 'title';
+		$scope.orderFunc = 'title';
+		/*$scope.orderFunc = $scope.books.sort(function (a, b) {
+			return a.localeCompare(b);
+		});*/
 	}]);
 
 bookcatControllers.controller('BookDetailCtrl', ['$scope', '$routeParams', 'Book', 'BookConmments', 'md5',

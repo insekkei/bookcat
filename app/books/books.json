@@ -367,6 +367,18 @@
 		"price": "49.00元"
 	},
 	{
+		"id": "9787115364104",
+		"title": "认知与设计",
+		"author": [
+			"[美] Jeff Johnson"
+		],
+		"image": "https://img1.doubanio.com/mpic/s27338939.jpg",
+		"rating": "8.8",
+		"publisher": "人民邮电出版社",
+		"pages": "224",
+		"price": "69.00元"
+	},
+	{
 		"id": "9787115385130",
 		"title": "程序是怎样跑起来的",
 		"author": [
@@ -415,6 +427,20 @@
 		"price": "188.00元"
 	},
 	{
+		"id": "9787121157400",
+		"title": "About Face3交互设计精髓",
+		"author": [
+			"[美] 艾伦·库伯",
+			"[美] 罗伯特·瑞宁",
+			"[美] 大伟·克洛林"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28034473.jpg",
+		"rating": "8.9",
+		"publisher": "电子工业出版社",
+		"pages": "447",
+		"price": "98.00元"
+	},
+	{
 		"id": "9787121167331",
 		"title": "技术元素",
 		"author": [
@@ -424,6 +450,30 @@
 		"rating": "8.1",
 		"publisher": "电子工业出版社",
 		"pages": "420",
+		"price": "55.00元"
+	},
+	{
+		"id": "9787121258862",
+		"title": "高性能网站建设进阶指南：Web开发者性能优化最佳实践",
+		"author": [
+			"Steve Souders"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28322076.jpg",
+		"rating": "0.0",
+		"publisher": "电子工业出版社",
+		"pages": "256",
+		"price": "CNY 65.00"
+	},
+	{
+		"id": "9787121258879",
+		"title": "高性能网站建设指南（第二版）",
+		"author": [
+			"Steve Souders"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28094013.jpg",
+		"rating": "0.0",
+		"publisher": "电子工业出版社",
+		"pages": "172",
 		"price": "55.00元"
 	},
 	{
