@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 6,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "外国游记书丛",
+	"author": [
+		"〔美〕梭罗"
+	],
+	"pubdate": "1996-6",
+	"tags": [
+		{
+			"count": 6,
+			"name": "梭罗",
+			"title": "梭罗"
+		},
+		{
+			"count": 5,
+			"name": "刘绯版是最美译本",
+			"title": "刘绯版是最美译本"
+		},
+		{
+			"count": 3,
+			"name": "瓦尔登湖",
+			"title": "瓦尔登湖"
+		},
+		{
+			"count": 2,
+			"name": "译本",
+			"title": "译本"
+		},
+		{
+			"count": 2,
+			"name": "随笔",
+			"title": "随笔"
+		},
+		{
+			"count": 1,
+			"name": "刘绯",
+			"title": "刘绯"
+		},
+		{
+			"count": 1,
+			"name": "上海图书馆",
+			"title": "上海图书馆"
+		},
+		{
+			"count": 1,
+			"name": "essay",
+			"title": "essay"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s27202487.jpg",
+	"binding": "",
+	"translator": [
+		"刘绯"
+	],
+	"catalog": "",
+	"pages": "",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s27202487.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s27202487.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s27202487.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/5418440\/",
+	"id": "5418440",
+	"publisher": "花山文艺出版社",
+	"isbn10": "7806112898",
+	"isbn13": "9787806112892",
+	"title": "瓦尔登湖",
+	"url": "http:\/\/api.douban.com\/v2\/book\/5418440",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "",
+	"series": {
+		"id": "6540",
+		"title": "外国游记书丛"
+	},
+	"price": "12.00元"
+}

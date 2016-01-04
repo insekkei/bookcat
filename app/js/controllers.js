@@ -17,11 +17,12 @@ bookcatControllers.controller('BookListCtrl', ['$scope', 'Book',
 					if (price.match('CNY') == 'CNY') {
 						price = price.split('CNY')[1];
 					}
-					$scope.totalPrice += parseFloat (price);
+					$scope.totalPrice += parseFloat(price);
 
 				}
 			};
-			$scope.totalPrice = $scope.totalPrice.toFixed(2);
+			$scope.totalPrice = $scope.totalPrice.toLocaleString();
+			$scope.totalPages = $scope.totalPages.toLocaleString();
 
 		}, function (error) {
 		});
