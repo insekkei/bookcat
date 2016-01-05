@@ -1627,6 +1627,18 @@
 		"price": "48.00元"
 	},
 	{
+		"id": "9787563391271",
+		"title": "孤独六讲",
+		"author": [
+			"蒋勋"
+		],
+		"image": "https://img1.doubanio.com/mpic/s4075572.jpg",
+		"rating": "8.2",
+		"publisher": "广西师范大学出版社",
+		"pages": "272",
+		"price": "36.00元"
+	},
+	{
 		"id": "9787564121341",
 		"title": "Ruby语言入门",
 		"author": [

@@ -1,0 +1,81 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 29284,
+		"average": "8.2",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"蒋勋"
+	],
+	"pubdate": "2009-10-1",
+	"tags": [
+		{
+			"count": 9150,
+			"name": "蒋勋",
+			"title": "蒋勋"
+		},
+		{
+			"count": 5243,
+			"name": "孤独六讲",
+			"title": "孤独六讲"
+		},
+		{
+			"count": 4737,
+			"name": "美学",
+			"title": "美学"
+		},
+		{
+			"count": 4392,
+			"name": "随笔",
+			"title": "随笔"
+		},
+		{
+			"count": 3311,
+			"name": "台湾",
+			"title": "台湾"
+		},
+		{
+			"count": 2136,
+			"name": "文化",
+			"title": "文化"
+		},
+		{
+			"count": 991,
+			"name": "文化研究",
+			"title": "文化研究"
+		},
+		{
+			"count": 939,
+			"name": "文学",
+			"title": "文学"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s4075572.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "自序\n第一章 情欲孤独\n第二章 语言孤独\n第三章 革命孤独\n第四章 暴力孤独\n第五章 思维孤独\n第六章 伦理孤独",
+	"pages": "272",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s4075572.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s4075572.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s4075572.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/4124727\/",
+	"id": "4124727",
+	"publisher": "广西师范大学出版社",
+	"isbn10": "7563391274",
+	"isbn13": "9787563391271",
+	"title": "孤独六讲",
+	"url": "http:\/\/api.douban.com\/v2\/book\/4124727",
+	"alt_title": "",
+	"author_intro": "蒋勋，一九四七年生，福建长乐人，台北中国文化大学史学系、艺术研究所毕业。一九七二年负笈法国巴黎大学艺术研究所，一九七六年返台后，曾任《雄狮美术》月刊主编、东海大学美术系系主任，现任《联合文学》社长。著述颇丰，主要有《舞动白蛇传》《给年轻艺术家的信》《天地有大美》《美的沉思》《多情应笑我》《今宵酒醒何处》《写给大家的中国美术史》等。",
+	"summary": "美学大师蒋勋以美学家特有的思维和情感切入孤独，从情欲、语言、革命、思维、伦理、暴力六个面向阐释孤独美学，融个人记忆、美学追问、文化反思、社会批判于一体。可以说，蒋勋在本书中，创造了孤独美学：美学的本质或许就是孤独。\n自序\n情欲孤独\n语言孤独\n革命孤独\n暴力孤独\n思维孤独\n伦理孤独",
+	"series": {
+		"id": "11458",
+		"title": "理想国·蒋勋作品"
+	},
+	"price": "36.00元"
+}
