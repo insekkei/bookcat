@@ -1,0 +1,78 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 29,
+		"average": "8.6",
+		"min": 0
+	},
+	"subtitle": "从文自传",
+	"author": [
+		"沈从文 著",
+		"卓雅 摄影"
+	],
+	"pubdate": "2011-1",
+	"tags": [
+		{
+			"count": 14,
+			"name": "沈从文",
+			"title": "沈从文"
+		},
+		{
+			"count": 5,
+			"name": "人文",
+			"title": "人文"
+		},
+		{
+			"count": 5,
+			"name": "自传",
+			"title": "自传"
+		},
+		{
+			"count": 4,
+			"name": "传记",
+			"title": "传记"
+		},
+		{
+			"count": 2,
+			"name": "岳麓书社",
+			"title": "岳麓书社"
+		},
+		{
+			"count": 1,
+			"name": "中国文学",
+			"title": "中国文学"
+		},
+		{
+			"count": 1,
+			"name": "卓雅",
+			"title": "卓雅"
+		},
+		{
+			"count": 1,
+			"name": "散文随笔",
+			"title": "散文随笔"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img1.doubanio.com\/mpic\/s6644414.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "我的写作与水的关系\n永恒的湘西和沈从文\n我所生长的地方\n我的家庭\n我读一本小书同时又读一本大书\n辛亥革命的一课\n我上许多课仍然不放下那一本大书\n预备兵的技术班\n一个老战兵\n辰州\n清乡所见\n怀化镇\n姓文的秘书\n女难\n常德\n船上\n保靖\n一个大王\n学历史的地方\n一个转机\n附记\n后记",
+	"pages": "198",
+	"images": {
+		"small": "https://img1.doubanio.com\/spic\/s6644414.jpg",
+		"large": "https://img1.doubanio.com\/lpic\/s6644414.jpg",
+		"medium": "https://img1.doubanio.com\/mpic\/s6644414.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/6430302\/",
+	"id": "6430302",
+	"publisher": "岳麓书社",
+	"isbn10": "7807615281",
+	"isbn13": "9787807615286",
+	"title": "沈从文的湘西世界",
+	"url": "http:\/\/api.douban.com\/v2\/book\/6430302",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《沈从文的湘西世界:从文自傳(摄影图文本)》内容简介：“孤独一点，在你缺少一切的时节，你就会发现原来还有个你自己。”这是一句真话。我有我自己的生活与思想，可以说是皆从孤独得来的。我的教育.也是从孤独中得来的。然而这点孤独，与水不能分开。",
+	"price": "15.00元"
+}

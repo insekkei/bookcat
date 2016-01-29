@@ -41,6 +41,7 @@ bookcatControllers.controller('BookListCtrl', ['$scope', 'Book',
 
 bookcatControllers.controller('BookDetailCtrl', ['$scope', '$routeParams', 'Book', 'BookConmments', 'md5',
 	function ($scope, $routeParams, Book, BookConmments, md5) {
+		window.scrollTo(0,0);
 		$scope.book = Book.get({bookId: $routeParams.bookId}, function (book) {
 			// 如果没有summary，设为空，如果有，为分段显示做准备
 			if (book.summary.length > 0) {
