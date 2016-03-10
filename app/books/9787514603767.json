@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 101,
+		"average": "8.9",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"吕思勉"
+	],
+	"pubdate": "2012-5",
+	"tags": [
+		{
+			"count": 59,
+			"name": "历史",
+			"title": "历史"
+		},
+		{
+			"count": 28,
+			"name": "吕思勉",
+			"title": "吕思勉"
+		},
+		{
+			"count": 23,
+			"name": "中国通史",
+			"title": "中国通史"
+		},
+		{
+			"count": 12,
+			"name": "中国历史",
+			"title": "中国历史"
+		},
+		{
+			"count": 11,
+			"name": "社会",
+			"title": "社会"
+		},
+		{
+			"count": 8,
+			"name": "历史学",
+			"title": "历史学"
+		},
+		{
+			"count": 6,
+			"name": "文化",
+			"title": "文化"
+		},
+		{
+			"count": 2,
+			"name": "当当读书",
+			"title": "当当读书"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img1.doubanio.com\/mpic\/s10174477.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "",
+	"ebook_url": "http:\/\/read.douban.com\/ebook\/15860442\/",
+	"pages": "499",
+	"images": {
+		"small": "https://img1.doubanio.com\/spic\/s10174477.jpg",
+		"large": "https://img1.doubanio.com\/lpic\/s10174477.jpg",
+		"medium": "https://img1.doubanio.com\/mpic\/s10174477.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/10604641\/",
+	"id": "10604641",
+	"publisher": "中国画报出版社",
+	"isbn10": "751460376X",
+	"isbn13": "9787514603767",
+	"title": "中国通史",
+	"url": "http:\/\/api.douban.com\/v2\/book\/10604641",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《中国通史(精装插图本)》从面世至今，不断再版，足以说明人们对吕先生和他以白话写通史的认可。对于这样一部经典之作，长处本无需赘述，可在此仍要强调一下《中国通史(精装插图本)》的特点：我国历史上优秀的史学典籍本是不少，无奈笔墨宏大过于高深，将文言功底本就不深的初级读者挡在了门外，而吕先生这本书简明扼要，行文浅显，相对简单了不少。《中国通史(精装插图本)》分为上下两编，内容包括婚姻、族制、政体、阶级、财产、管制、选举、赋税、兵制、刑法、实业、货币、衣食、住行等。",
+	"ebook_price": "0.50",
+	"series": {
+		"id": "19354",
+		"title": "市场上最值得收藏的国学版本"
+	},
+	"price": "39.80元"
+}

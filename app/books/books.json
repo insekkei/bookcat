@@ -549,6 +549,18 @@
 		"price": "32.90"
 	},
 	{
+		"id": "9787301204689",
+		"title": "全球通史",
+		"author": [
+			"(美) 斯塔夫里阿诺斯"
+		],
+		"image": "https://img1.doubanio.com/mpic/s26544752.jpg",
+		"rating": "9.2",
+		"publisher": "北京大学出版社",
+		"pages": "833",
+		"price": "168.00元"
+	},
+	{
 		"id": "9787302156871",
 		"title": "ARM嵌入式Linux系统开发从入门到精通",
 		"author": [
@@ -977,6 +989,18 @@
 		"publisher": "民主与建设出版社",
 		"pages": "708",
 		"price": "78.00"
+	},
+	{
+		"id": "9787514603767",
+		"title": "中国通史",
+		"author": [
+			"吕思勉"
+		],
+		"image": "https://img1.doubanio.com/mpic/s10174477.jpg",
+		"rating": "8.9",
+		"publisher": "中国画报出版社",
+		"pages": "499",
+		"price": "39.80元"
 	},
 	{
 		"id": "9787517013129",
@@ -1435,6 +1459,18 @@
 		"price": "35"
 	},
 	{
+		"id": "9787543894440",
+		"title": "这个历史挺靠谱",
+		"author": [
+			"袁腾飞"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28022946.jpg",
+		"rating": "7.6",
+		"publisher": "湖南人民出版社",
+		"pages": "870",
+		"price": "CNY 99.00"
+	},
+	{
 		"id": "9787544234412",
 		"title": "丢三落四的小豆豆",
 		"author": [
@@ -1555,6 +1591,18 @@
 		"price": "35.00元"
 	},
 	{
+		"id": "9787546387932",
+		"title": "坐天下很累",
+		"author": [
+			"张宏杰"
+		],
+		"image": "https://img1.doubanio.com/mpic/s22792187.jpg",
+		"rating": "8.3",
+		"publisher": "吉林出版集团有限责任公司",
+		"pages": "325",
+		"price": "38.00元"
+	},
+	{
 		"id": "9787547715185",
 		"title": "人神异兽录",
 		"author": [
@@ -1663,6 +1711,18 @@
 		"price": "29.80元"
 	},
 	{
+		"id": "9787561340868",
+		"title": "春秋大义",
+		"author": [
+			"熊逸"
+		],
+		"image": "https://img1.doubanio.com/mpic/s2831603.jpg",
+		"rating": "8.8",
+		"publisher": "陕西师范大学出版社",
+		"pages": "554",
+		"price": "49.80元"
+	},
+	{
 		"id": "9787561349830",
 		"title": "不抱怨的世界2",
 		"author": [
@@ -1685,6 +1745,18 @@
 		"publisher": "重庆大学出版社/楚尘文化",
 		"pages": "83",
 		"price": "48.00元"
+	},
+	{
+		"id": "9787563377015",
+		"title": "春秋大义2",
+		"author": [
+			"熊逸"
+		],
+		"image": "https://img1.doubanio.com/mpic/s3932877.jpg",
+		"rating": "8.7",
+		"publisher": "广西师范大学出版社",
+		"pages": "512",
+		"price": "49.00元"
 	},
 	{
 		"id": "9787563391271",
