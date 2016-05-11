@@ -196,6 +196,18 @@
 		"price": "69.00元"
 	},
 	{
+		"id": "9787111348665",
+		"title": "用户体验要素",
+		"author": [
+			"Jesse James Garrett"
+		],
+		"image": "https://img1.doubanio.com/mpic/s6519128.jpg",
+		"rating": "8.4",
+		"publisher": "机械工业出版社",
+		"pages": "172",
+		"price": "39.00元"
+	},
+	{
 		"id": "9787111376613",
 		"title": "JavaScript权威指南(第6版)",
 		"author": [
@@ -477,6 +489,18 @@
 		"price": "55.00元"
 	},
 	{
+		"id": "9787121186066",
+		"title": "在你身边，为你设计",
+		"author": [
+			"腾讯公司用户研究与体验设计部"
+		],
+		"image": "https://img1.doubanio.com/mpic/s24522948.jpg",
+		"rating": "7.3",
+		"publisher": "电子工业出版社",
+		"pages": "340",
+		"price": "69.00元"
+	},
+	{
 		"id": "9787121258862",
 		"title": "高性能网站建设进阶指南：Web开发者性能优化最佳实践",
 		"author": [
@@ -581,6 +605,18 @@
 		"publisher": "",
 		"pages": "366",
 		"price": "21.00元"
+	},
+	{
+		"id": "9787309063660",
+		"title": "潜规则（修订版）",
+		"author": [
+			"吴思"
+		],
+		"image": "https://img3.doubanio.com/mpic/s8873145.jpg",
+		"rating": "8.2",
+		"publisher": "复旦大学出版社",
+		"pages": "272",
+		"price": "28.00"
 	},
 	{
 		"id": "9787309094374",
@@ -1160,6 +1196,30 @@
 		"price": "68.0"
 	},
 	{
+		"id": "9787532749195",
+		"title": "十一种孤独",
+		"author": [
+			"（美）理查德·耶茨"
+		],
+		"image": "https://img3.doubanio.com/mpic/s4099866.jpg",
+		"rating": "8.1",
+		"publisher": "上海译文出版社",
+		"pages": "245",
+		"price": "20.00元"
+	},
+	{
+		"id": "9787532761258",
+		"title": "海",
+		"author": [
+			"(爱尔兰)约翰·班维尔"
+		],
+		"image": "https://img3.doubanio.com/mpic/s26814680.jpg",
+		"rating": "7.9",
+		"publisher": "上海译文出版社",
+		"pages": "203",
+		"price": "32.00"
+	},
+	{
 		"id": "9787532766178",
 		"title": "月亮和六便士（插图本）",
 		"author": [
@@ -1663,6 +1723,18 @@
 		"price": "32.8"
 	},
 	{
+		"id": "9787550263932",
+		"title": "天才在左 疯子在右（完整版）",
+		"author": [
+			"高铭"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28350186.jpg",
+		"rating": "7.6",
+		"publisher": "北京联合出版公司",
+		"pages": "350",
+		"price": "39.80"
+	},
+	{
 		"id": "9787560022680",
 		"title": "外研社日汉双解学习词典",
 		"author": [
@@ -1805,6 +1877,18 @@
 		"publisher": "商务国际",
 		"pages": "594",
 		"price": "39.80元"
+	},
+	{
+		"id": "9787801093660",
+		"title": "乌合之众",
+		"author": [
+			"(法)古斯塔夫.勒庞"
+		],
+		"image": "https://img3.doubanio.com/mpic/s1988393.jpg",
+		"rating": "8.4",
+		"publisher": "中央编译出版社",
+		"pages": "183",
+		"price": "16.00元"
 	},
 	{
 		"id": "9787801149176",

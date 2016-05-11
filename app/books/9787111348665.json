@@ -1,0 +1,79 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 1108,
+		"average": "8.4",
+		"min": 0
+	},
+	"subtitle": "以用户为中心的产品设计",
+	"author": [
+		"Jesse James Garrett"
+	],
+	"pubdate": "2011-7-1",
+	"tags": [
+		{
+			"count": 1029,
+			"name": "用户体验",
+			"title": "用户体验"
+		},
+		{
+			"count": 566,
+			"name": "交互设计",
+			"title": "交互设计"
+		},
+		{
+			"count": 417,
+			"name": "产品设计",
+			"title": "产品设计"
+		},
+		{
+			"count": 373,
+			"name": "产品经理",
+			"title": "产品经理"
+		},
+		{
+			"count": 321,
+			"name": "互联网",
+			"title": "互联网"
+		},
+		{
+			"count": 273,
+			"name": "设计",
+			"title": "设计"
+		},
+		{
+			"count": 193,
+			"name": "产品",
+			"title": "产品"
+		},
+		{
+			"count": 136,
+			"name": "UE",
+			"title": "UE"
+		}
+	],
+	"origin_title": "The Elements of User Experience: User-Centered Design for the Web and Beyond，Second Edition",
+	"image": "https://img1.doubanio.com\/mpic\/s6519128.jpg",
+	"binding": "平装",
+	"translator": [
+		"范晓燕"
+	],
+	"catalog": "作者简介\n译者简介\n译者序\n第1版　致谢\n第2版　致谢\n第1版　前言\n第2版　前言\n第1章\n用户体验为什么如此重要\t2\n日常生活中的遭遇\t3\n什么是用户体验\t4\n从产品设计到用户体验设计\t7\n为体验而设计：使用第一\t8\n用户体验和网站\t9\n用户体验就是商机\t12\n在乎你的用户\t17\n第2章\n认识这些要素\t18\n五个层面\t19\n表现层\t20\n框架层\t20\n结构层\t20\n范围层\t21\n战略层\t21\n自下而上地建设\t21\n基本的双重性\t25\n用户体验的要素\t28\n战略层\t28\n范围层\t29\n结构层\t30\n框架层\t30\n表现层\t30\n应用这些要素\t31\n第3章\n战略层\n产品目标和用户需求\t34\n战略层定义\t36\n产品目标\t37\n商业目标\t37\n品牌识别\t38\n成功标准\t39\n用户需求\t42\n用户细分\t42\n可用性和用户研究\t46\n创建人物角色\t49\n团队角色和流程\t52\n第4章\n范围层\n功能规格和内容需求\t56\n范围层定义\t58\n原因#1：这样你才知道你正在建设什么\t59\n原因#2：这样你才知道你不需要建设什么\t60\n功能和内容\t61\n定义需求\t65\n功能规格说明\t68\n记下来\t69\n内容需求\t72\n确定需求优先级\t74\n第5章\n结构层\n交互设计与信息架构\t78\n结构层定义\t80\n交互设计\t81\n概念模型\t83\n错误处理\t86\n信息架构\t88\n结构化内容\t89\n结构方法\t92\n组织原则\t96\n语言和元数据\t98\n团队角色和流程\t101\n第6章\n框架层\n界面设计、导航设计和信息设计\t106\n框架层定义\t108\n习惯和比喻\t110\n界面设计\t114\n导航设计\t118\n信息设计\t124\n指示标识\t127\n线框图\t128\n第7章\n表现层\n感知设计\t132\n表现层定义\t134\n合理设计感知\t135\n嗅觉和味觉\t135\n触觉\t135\n听觉\t136\n视觉\t136\n忠于眼睛\t137\n对比和一致性\t139\n内部和外部的一致性\t143\n配色方案和排版\t145\n设计合成品和风格指南\t148\n第8章\n要素的应用\t152\n提出正确的问题\t157\n马拉松和短跑\t159\n索引\t164",
+	"pages": "172",
+	"images": {
+		"small": "https://img1.doubanio.com\/spic\/s6519128.jpg",
+		"large": "https://img1.doubanio.com\/lpic\/s6519128.jpg",
+		"medium": "https://img1.doubanio.com\/mpic\/s6519128.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/6523997\/",
+	"id": "6523997",
+	"publisher": "机械工业出版社",
+	"isbn10": "7111348664",
+	"isbn13": "9787111348665",
+	"title": "用户体验要素",
+	"url": "https:\/\/api.douban.com\/v2\/book\/6523997",
+	"alt_title": "The Elements of User Experience: User-Centered Design for the Web and Beyond，Second Edition",
+	"author_intro": "Jesse James Garrett是Adaptive Path的创始人之一。Adaptive Path是一家位于美国旧金山(San Francisco)的用户体验咨询公司。从1995年开始，Jesse帮助一些企业改进他们的网站，其中包括AT&T、Intel、Boeing、Motorola、Hewlett-Packard和美国国家公众广播等。他在用户体验领域的贡献，包括“视觉辞典（The Visual Vocabulary）”─一个为规范信息架构文档而建立的开放符号系统─现在这个系统在全球各个企业中得到了广泛的应用。他的个人网站www.jjg.net是提供信息架构资源的网站中最受欢迎的一个，他同时也是信息架构和用户体验的积极倡导者。\n2005年2月，Jesse James Garrett发表了《Ajax：A New Approach to Web Applications》一文，标志着Ajax的诞生。由此，他被称为“Ajax之父”。",
+	"summary": "《用户体验要素:以用户为中心的产品设计(原书第2版)》是AJAX之父Jesse James Garrett的经典之作。本书用简洁的语言系统化地诠释了设计、技术和商业融合是最重要的发展趋势。全书共8章，包括关于用户体验以及为什么它如此重要、认识这些要素、战略层、范围层、结构层、框架层、表现层以及要素的应用。\n《用户体验要素:以用户为中心的产品设计(原书第2版)》用清晰的说明和生动的图形分析了以用户为中心的设计方法（UCD）来进行网站设计的复杂内涵，并关注于思路而不是工具或技术，从而使你的网站具备高质量体验的流程。",
+	"price": "39.00元"
+}
