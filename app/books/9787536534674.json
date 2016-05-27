@@ -1,0 +1,77 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 810,
+		"average": "9.2",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"（丹麦）安徒生"
+	],
+	"pubdate": "2006-1-1",
+	"tags": [
+		{
+			"count": 117,
+			"name": "童话",
+			"title": "童话"
+		},
+		{
+			"count": 99,
+			"name": "安徒生",
+			"title": "安徒生"
+		},
+		{
+			"count": 40,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 39,
+			"name": "儿童文学",
+			"title": "儿童文学"
+		},
+		{
+			"count": 36,
+			"name": "丹麦",
+			"title": "丹麦"
+		},
+		{
+			"count": 31,
+			"name": "童话　经典　",
+			"title": "童话　经典　"
+		},
+		{
+			"count": 29,
+			"name": "安徒生童话",
+			"title": "安徒生童话"
+		},
+		{
+			"count": 26,
+			"name": "童话　经典",
+			"title": "童话　经典"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s28036746.jpg",
+	"binding": "16开",
+	"translator": [],
+	"catalog": "打火匣完全是真的幸福的家庭衬衫领子拇指姑娘一枚银毫园丁和主人鹤鸟在养鸭场里夜莺豌豆上的公主丑小鸭守塔人奥列茶壶顽皮的孩子皇帝的新装一滴水野天鹅飞箱笨汉汉斯钱猪跳高者坚定的锡兵蜗牛和玫瑰树牧羊女和扫烟囱的人织补针海的女儿猪倌接骨木树妈妈老房子癞蛤蟆恋人蝴蝶影子卖火柴的小女孩甲虫小鬼和小商人两只公鸡伤心事旅伴小意达的花儿雪人白雪女皇",
+	"pages": "352",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s28036746.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s28036746.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s28036746.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/1489401\/",
+	"id": "1489401",
+	"publisher": "四川少年儿童出版社",
+	"isbn10": "7536534671",
+	"isbn13": "9787536534674",
+	"title": "安徒生童话",
+	"url": "https:\/\/api.douban.com\/v2\/book\/1489401",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "让5岁的孩子倾听安徒生；让15岁的少年阅读安徒生；让25岁的青年人品味安徒生；让35岁的成年人理解安徒生；让45-99岁的人思索和回味安徒生。因为在人的童年、少年、青年至老年，安徒生带给我们的不仅仅是温馨、欢乐、启迪，更多的是思考和悠远的人生体味。",
+	"price": "58.00元"
+}

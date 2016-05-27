@@ -525,6 +525,18 @@
 		"price": "55.00元"
 	},
 	{
+		"id": "9787122184221",
+		"title": "秘密",
+		"author": [
+			"(日)东野圭吾"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27185093.jpg",
+		"rating": "7.9",
+		"publisher": "化学工业出版社",
+		"pages": "343",
+		"price": "29.80元"
+	},
+	{
 		"id": "9787200065015",
 		"title": "史记",
 		"author": [
@@ -1304,6 +1316,32 @@
 		"price": "36.00元"
 	},
 	{
+		"id": "9787536534674",
+		"title": "安徒生童话",
+		"author": [
+			"（丹麦）安徒生"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28036746.jpg",
+		"rating": "9.2",
+		"publisher": "四川少年儿童出版社",
+		"pages": "352",
+		"price": "58.00元"
+	},
+	{
+		"id": "9787536563131",
+		"title": "格林童话",
+		"author": [
+			"格林兄弟 (作者)",
+			"尼古拉斯·海德巴赫 (插图作者)",
+			"杨武能 (译者)"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28660997.jpg",
+		"rating": "0.0",
+		"publisher": "川少年儿童出版社",
+		"pages": "371",
+		"price": "58.00"
+	},
+	{
 		"id": "9787538250916",
 		"title": "英雄与英雄崇拜",
 		"author": [
@@ -1591,6 +1629,18 @@
 		"price": "39.50元"
 	},
 	{
+		"id": "9787544258609",
+		"title": "白夜行",
+		"author": [
+			"[日] 东野圭吾"
+		],
+		"image": "https://img1.doubanio.com/mpic/s24514468.jpg",
+		"rating": "9.2",
+		"publisher": "南海出版公司",
+		"pages": "0",
+		"price": "39.50元"
+	},
+	{
 		"id": "9787544264389",
 		"title": "回归",
 		"author": [
@@ -1601,6 +1651,18 @@
 		"publisher": "南海出版公司",
 		"pages": "416",
 		"price": "36.00元"
+	},
+	{
+		"id": "9787544267618",
+		"title": "嫌疑人X的献身",
+		"author": [
+			"东野圭吾"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27676061.jpg",
+		"rating": "9.0",
+		"publisher": "南海出版公司",
+		"pages": "251",
+		"price": "CNY 35.00"
 	},
 	{
 		"id": "9787544271011",
