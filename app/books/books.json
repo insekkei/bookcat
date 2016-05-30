@@ -751,6 +751,18 @@
 		"price": "22.00元"
 	},
 	{
+		"id": "9787505725959",
+		"title": "北京法源寺",
+		"author": [
+			"李敖"
+		],
+		"image": "https://img1.doubanio.com/mpic/s6505389.jpg",
+		"rating": "8.8",
+		"publisher": "中国友谊出版公司",
+		"pages": "213",
+		"price": "22.00元"
+	},
+	{
 		"id": "9787506039185",
 		"title": "老子他说续集",
 		"author": [
@@ -1025,6 +1037,18 @@
 		"publisher": "新星出版社",
 		"pages": "707",
 		"price": "88.00元"
+	},
+	{
+		"id": "9787513317139",
+		"title": "自由在高处（增订版）",
+		"author": [
+			"熊培云"
+		],
+		"image": "https://img1.doubanio.com/mpic/s27977148.jpg",
+		"rating": "8.0",
+		"publisher": "新星出版社",
+		"pages": "464",
+		"price": "42.00元"
 	},
 	{
 		"id": "9787513903509",
@@ -1771,6 +1795,18 @@
 		"publisher": "广西美术出版社",
 		"pages": "248",
 		"price": "89.00元"
+	},
+	{
+		"id": "9787549550166",
+		"title": "野火集",
+		"author": [
+			"龙应台"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27276236.jpg",
+		"rating": "9.0",
+		"publisher": "广西师范大学出版社",
+		"pages": "360",
+		"price": "39.80"
 	},
 	{
 		"id": "9787550227774",
