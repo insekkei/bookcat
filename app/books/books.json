@@ -36,6 +36,18 @@
 		"price": "72.00元"
 	},
 	{
+		"id": "9787100011129",
+		"title": "爱弥儿",
+		"author": [
+			"[法] 卢梭"
+		],
+		"image": "https://img3.doubanio.com/mpic/s1538302.jpg",
+		"rating": "8.7",
+		"publisher": "商务印书馆",
+		"pages": "816",
+		"price": "37.00"
+	},
+	{
 		"id": "9787100028226",
 		"title": "古今汉语词典",
 		"author": [
@@ -46,6 +58,18 @@
 		"publisher": "商务印书馆",
 		"pages": "2042",
 		"price": "98.00元"
+	},
+	{
+		"id": "9787100037259",
+		"title": "社会契约论",
+		"author": [
+			"卢梭"
+		],
+		"image": "https://img3.doubanio.com/mpic/s2157045.jpg",
+		"rating": "8.8",
+		"publisher": "商务印书馆",
+		"pages": "197",
+		"price": "18.00元"
 	},
 	{
 		"id": "9787101054491",
