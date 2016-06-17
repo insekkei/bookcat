@@ -1641,6 +1641,19 @@
 		"price": "35"
 	},
 	{
+		"id": "9787543894433",
+		"title": "所有人问所有人",
+		"author": [
+			"韩寒 监制",
+			"「一个」工作室 主编"
+		],
+		"image": "https://img3.doubanio.com/mpic/s26929174.jpg",
+		"rating": "7.0",
+		"publisher": "湖南人民出版社",
+		"pages": "288",
+		"price": "36.00元"
+	},
+	{
 		"id": "9787543894440",
 		"title": "这个历史挺靠谱",
 		"author": [
@@ -1903,6 +1916,18 @@
 		"publisher": "北京联合出版公司",
 		"pages": "350",
 		"price": "39.80"
+	},
+	{
+		"id": "9787551806336",
+		"title": "去你家玩好吗",
+		"author": [
+			"韩寒  监制"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27196244.jpg",
+		"rating": "7.4",
+		"publisher": "三秦出版社",
+		"pages": "256",
+		"price": "29.00元"
 	},
 	{
 		"id": "9787560022680",
@@ -2313,5 +2338,17 @@
 		"publisher": "北京航空航天大学出版社",
 		"pages": "582",
 		"price": "79.00元"
+	},
+	{
+		"id": "9789866562747",
+		"title": "鼠男",
+		"author": [
+			"道尾秀介"
+		],
+		"image": "https://img3.doubanio.com/mpic/s4546485.jpg",
+		"rating": "8.2",
+		"publisher": "獨步文化",
+		"pages": "310",
+		"price": "NT$320"
 	}
 ]
