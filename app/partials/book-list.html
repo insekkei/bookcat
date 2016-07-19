@@ -2,21 +2,204 @@
   	<div class="row">
   		<h1>我家的<span>书们</span></h1>
 	      <!--Body content-->
-		<ul class="books">
-			<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc"
-				class="thumbnail book-listing" title="{{book.title}}">
-				<a class="img" href="#/books/{{book.id}}#bookdetails">
-					<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
-				</a>
-				<a class="title" href="#/books/{{book.id}}">
-					{{book.title}}
-				</a>
-				<p class="author"><span>By </span>{{book.author.join('，')}}</p>
-				<p class="rating"><span>{{book.publisher}}</span></p>
-			</li>
-		  </li>
-		</ul>
-		<p class="copyright">Designed by <a href="mailto:hancong9104@163.com">IN設計</a>, {{books.length}} books contained, totally {{totalPages}} pages, cost ¥{{totalPrice}}.</p></p>
+		<div class="books-wrap">
+			<p ng-show="books.length > 0"><strong>诗歌</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '诗歌'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>社科人文</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '人文'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>哲学</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '哲学'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>童话</strong></p>
+			<ul>
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '童话'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>孤独</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '孤独'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>红楼</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '红楼'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>历史</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '历史'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>设计</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '设计'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>书法</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '书法'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+
+			<p ng-show="books.length > 0"><strong>词典</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '词典'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>文集</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '文集'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>技术</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '技术'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+
+			<p ng-show="books.length > 0"><strong>乱炖</strong></p>
+			<ul class="books">
+				<li ng-repeat="book in books | filter:querybook | orderBy:orderFunc" ng-show="book.category === '乱炖'"
+					class="thumbnail book-listing" title="{{book.title}}">
+					<a class="img" href="#/books/{{book.id}}#bookdetails">
+						<img ng-src="{{book.image}}" title="{{book.title + '的封面图'}}">
+					</a>
+					<a class="title" href="#/books/{{book.id}}">
+						{{book.title}}
+					</a>
+					<p class="author"><span>By </span>{{book.author.join('，')}}</strong></p>
+					<p class="rating"><span>{{book.publisher}}</span></strong></p>
+				</li>
+			</ul>
+		</div>
+		<p class="copyright">Designed by <a href="mailto:hancong9104@163.com">IN設計</a>, {{books.length}} books contained, totally {{totalPages}} pages, cost ¥{{totalPrice}}.</strong></p></strong></p>
 	</div>
 	<div class="row tools">
 		    <!--Sidebar content-->

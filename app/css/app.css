@@ -43,11 +43,19 @@ h1 span:after {
 .books {
     padding:20px;
 }
+.books-wrap>p {
+    background: #000;
+    color: #fff;
+    margin-right: 100%;
+    position: absolute;
+    padding: 3px;
+    left: 0;
+}
 .book-listing {
-    width: 9%;
+    width: 7%;
     display: inline-block;
     padding: 0 0 10px 0;
-    margin: 10px 2% 20px;
+    margin: 10px 1.5% 20px;
     border-radius: 0;
     font-size: 9px;
     position:relative;
