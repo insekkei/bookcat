@@ -146,6 +146,18 @@
 		"price": "CNY 16.00"
 	},
 	{
+		"id": "9787108030375",
+		"title": "美的历程",
+		"author": [
+			"李泽厚"
+		],
+		"image": "https://img3.doubanio.com/mpic/s3893343.jpg",
+		"rating": "9.2",
+		"publisher": "生活·读书·新知三联书店",
+		"pages": "217",
+		"price": "43.00元"
+	},
+	{
 		"id": "9787108045621",
 		"title": "人间烟火",
 		"author": [
@@ -525,6 +537,18 @@
 		"price": "55.00元"
 	},
 	{
+		"id": "9787121175015",
+		"title": "精通正则表达式",
+		"author": [
+			"[美] Jeffrey E.F.Friedl"
+		],
+		"image": "https://img3.doubanio.com/mpic/s11292040.jpg",
+		"rating": "7.8",
+		"publisher": "电子工业出版社",
+		"pages": "515",
+		"price": "89.00元"
+	},
+	{
 		"id": "9787121186066",
 		"title": "在你身边，为你设计",
 		"author": [
@@ -799,6 +823,18 @@
 		"price": "22.00元"
 	},
 	{
+		"id": "9787503921667",
+		"title": "怀疑三部曲",
+		"author": [
+			"王小波"
+		],
+		"image": "https://img1.doubanio.com/mpic/s1067629.jpg",
+		"rating": "9.0",
+		"publisher": "文化艺术出版社",
+		"pages": "538",
+		"price": "28.00元"
+	},
+	{
 		"id": "9787505725959",
 		"title": "北京法源寺",
 		"author": [
@@ -845,6 +881,18 @@
 		"publisher": "作家出版社",
 		"pages": "145",
 		"price": "18.00元"
+	},
+	{
+		"id": "9787506365437",
+		"title": "活着",
+		"author": [
+			"余华"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27279654.jpg",
+		"rating": "9.3",
+		"publisher": "作家出版社",
+		"pages": "191",
+		"price": "20.00元"
 	},
 	{
 		"id": "9787506384209",
@@ -927,6 +975,18 @@
 		"publisher": "中信出版社",
 		"pages": "268",
 		"price": "39.80元"
+	},
+	{
+		"id": "9787509719923",
+		"title": "日本影响下的创造社文学之路",
+		"author": [
+			"童晓薇"
+		],
+		"image": "https://img3.doubanio.com/mpic/s6523631.jpg",
+		"rating": "0.0",
+		"publisher": "社会科学文献出版社",
+		"pages": "286",
+		"price": "55.00元"
 	},
 	{
 		"id": "9787510033131",
@@ -1159,6 +1219,18 @@
 		"price": "39.80元"
 	},
 	{
+		"id": "9787515312354",
+		"title": "城南旧事",
+		"author": [
+			"林海音"
+		],
+		"image": "https://img3.doubanio.com/mpic/s24937491.jpg",
+		"rating": "8.6",
+		"publisher": "中国青年出版社",
+		"pages": "221",
+		"price": "25.00元"
+	},
+	{
 		"id": "9787517013129",
 		"title": "色铅笔绘画入门,一本就够了",
 		"author": [
@@ -1362,6 +1434,18 @@
 		"publisher": "上海译文出版社",
 		"pages": "304",
 		"price": "39.00"
+	},
+	{
+		"id": "9787533866136",
+		"title": "婉约词",
+		"author": [
+			"罗立刚"
+		],
+		"image": "https://img1.doubanio.com/mpic/s5791764.jpg",
+		"rating": "8.2",
+		"publisher": "浙江教育出版社",
+		"pages": "257",
+		"price": "19.00元"
 	},
 	{
 		"id": "9787533866136",
@@ -1918,6 +2002,18 @@
 		"price": "39.80"
 	},
 	{
+		"id": "9787549550173",
+		"title": "目送",
+		"author": [
+			"龙应台"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27222202.jpg",
+		"rating": "8.5",
+		"publisher": "广西师范大学出版社",
+		"pages": "296",
+		"price": "43.00元"
+	},
+	{
 		"id": "9787550227774",
 		"title": "兔子，我要你更优秀",
 		"author": [
@@ -2060,6 +2156,18 @@
 		"publisher": "广西师范大学出版社",
 		"pages": "272",
 		"price": "36.00元"
+	},
+	{
+		"id": "9787563932221",
+		"title": "沉默的大多数",
+		"author": [
+			"王小波"
+		],
+		"image": "https://img1.doubanio.com/mpic/s25136897.jpg",
+		"rating": "8.7",
+		"publisher": "北京工业大学出版社",
+		"pages": "247",
+		"price": "25.00元"
 	},
 	{
 		"id": "9787564121341",
