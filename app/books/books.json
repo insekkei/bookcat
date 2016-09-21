@@ -895,6 +895,18 @@
 		"price": "20.00元"
 	},
 	{
+		"id": "9787506365680",
+		"title": "许三观卖血记",
+		"author": [
+			"余华"
+		],
+		"image": "https://img3.doubanio.com/mpic/s24575140.jpg",
+		"rating": "8.9",
+		"publisher": "作家出版社",
+		"pages": "264",
+		"price": "24.00元"
+	},
+	{
 		"id": "9787506384209",
 		"title": "俗世奇人·贰",
 		"author": [
@@ -1676,6 +1688,18 @@
 		"publisher": "湖南文艺出版社",
 		"pages": "193",
 		"price": "CNY 29.80"
+	},
+	{
+		"id": "9787540467913",
+		"title": "病隙碎笔(插图版)",
+		"author": [
+			"史铁生"
+		],
+		"image": "https://img1.doubanio.com/mpic/s27812479.jpg",
+		"rating": "8.1",
+		"publisher": "湖南文艺出版社",
+		"pages": "245",
+		"price": "29.80元"
 	},
 	{
 		"id": "9787541138768",
