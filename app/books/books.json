@@ -1448,6 +1448,30 @@
 		"price": "39.00"
 	},
 	{
+		"id": "9787532766413",
+		"title": "小说的艺术",
+		"author": [
+			"米兰·昆德拉"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27471974.jpg",
+		"rating": "9.3",
+		"publisher": "上海译文出版社",
+		"pages": "209",
+		"price": "33.00"
+	},
+	{
+		"id": "9787532766437",
+		"title": "慢",
+		"author": [
+			"米兰·昆德拉"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27471983.jpg",
+		"rating": "8.5",
+		"publisher": "上海译文出版社",
+		"pages": "173",
+		"price": "30.00"
+	},
+	{
 		"id": "9787533866136",
 		"title": "婉约词",
 		"author": [
@@ -1604,6 +1628,18 @@
 		"publisher": "江苏文艺出版社",
 		"pages": "285",
 		"price": "32.80元"
+	},
+	{
+		"id": "9787539957173",
+		"title": "永恒的终结",
+		"author": [
+			"[美] 艾萨克·阿西莫夫"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27409671.jpg",
+		"rating": "9.0",
+		"publisher": "江苏文艺出版社",
+		"pages": "264",
+		"price": "CNY 32.00"
 	},
 	{
 		"id": "9787539971810",

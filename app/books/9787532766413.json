@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 91,
+		"average": "9.3",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"米兰·昆德拉"
+	],
+	"pubdate": "2014-6",
+	"tags": [
+		{
+			"count": 17,
+			"name": "米兰・昆德拉",
+			"title": "米兰・昆德拉"
+		},
+		{
+			"count": 14,
+			"name": "文学评论",
+			"title": "文学评论"
+		},
+		{
+			"count": 14,
+			"name": "米兰·昆德拉",
+			"title": "米兰·昆德拉"
+		},
+		{
+			"count": 13,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 10,
+			"name": "捷克",
+			"title": "捷克"
+		},
+		{
+			"count": 9,
+			"name": "文学研究",
+			"title": "文学研究"
+		},
+		{
+			"count": 7,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 5,
+			"name": "昆德拉",
+			"title": "昆德拉"
+		}
+	],
+	"origin_title": "L'art Du Roman",
+	"image": "https://img3.doubanio.com\/mpic\/s27471974.jpg",
+	"binding": "精装",
+	"translator": [
+		"董强"
+	],
+	"catalog": "第一部分／受到诋毁的塞万提斯遗产\n第二部分／关于小说艺术的谈话\n第三部分／受《梦游者》启发而作的札记\n第四部分／关于小说结构艺术的谈话\n第五部分／那后边的某个地方\n第六部分／六十七个词\n第七部分／耶路撒冷演讲：小说与欧洲",
+	"pages": "209",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s27471974.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s27471974.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s27471974.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/25900366\/",
+	"id": "25900366",
+	"publisher": "上海译文出版社",
+	"isbn10": "7532766411",
+	"isbn13": "9787532766413",
+	"title": "小说的艺术",
+	"url": "https:\/\/api.douban.com\/v2\/book\/25900366",
+	"alt_title": "L'art Du Roman",
+	"author_intro": "",
+	"summary": "“人一思索，上帝就发笑。”昆德拉说，在这个格言的启发下，他喜欢想象：弗朗索瓦?拉伯雷有一天听到了上帝的笑声，欧洲第一部伟大的小说因此诞生了。小说艺术来到世界正是上帝笑声的回响。小说的智能不同于哲学的智能，它不是从理论蕴含，而是从幽默精神中产生的。这本作品是昆德拉对小说艺术思考的总结，藉由此书，我们可以了解这位作家的艺术观点、风格、技巧，和他对写作的态度、对文学传统的理解，以及在这个态度背后对人和世界的想法。",
+	"series": {
+		"id": "24318",
+		"title": "米兰·昆德拉作品全新系列"
+	},
+	"price": "33.00"
+}
