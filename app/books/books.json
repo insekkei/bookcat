@@ -609,6 +609,18 @@
 		"price": "19.9"
 	},
 	{
+		"id": "9787201094014",
+		"title": "浮生六记",
+		"author": [
+			"沈复"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28295535.jpg",
+		"rating": "8.2",
+		"publisher": "果麦文化/天津人民出版社",
+		"pages": "232",
+		"price": "32.00元"
+	},
+	{
 		"id": "9787205065041",
 		"title": "废名卷",
 		"author": [
@@ -619,6 +631,18 @@
 		"publisher": "辽宁人民出版社",
 		"pages": "250",
 		"price": "24.00元"
+	},
+	{
+		"id": "9787210088066",
+		"title": "星，雪，火",
+		"author": [
+			"[美] 约翰·海恩斯"
+		],
+		"image": "https://img3.doubanio.com/mpic/s29169271.jpg",
+		"rating": "9.5",
+		"publisher": "江西人民出版社",
+		"pages": "256",
+		"price": "39.80元"
 	},
 	{
 		"id": "9787222068681",
@@ -1424,6 +1448,18 @@
 		"price": "25.00元"
 	},
 	{
+		"id": "9787532752874",
+		"title": "好笑的爱",
+		"author": [
+			"米兰·昆德拉"
+		],
+		"image": "https://img3.doubanio.com/mpic/s6273530.jpg",
+		"rating": "8.5",
+		"publisher": "上海译文出版社",
+		"pages": "344",
+		"price": "29.00元"
+	},
+	{
 		"id": "9787532761258",
 		"title": "海",
 		"author": [
@@ -1434,6 +1470,18 @@
 		"publisher": "上海译文出版社",
 		"pages": "203",
 		"price": "32.00"
+	},
+	{
+		"id": "9787532761838",
+		"title": "西西弗神话",
+		"author": [
+			"(法)阿尔贝·加缪"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27003290.jpg",
+		"rating": "8.8",
+		"publisher": "上海译文出版社",
+		"pages": "256",
+		"price": "32"
 	},
 	{
 		"id": "9787532766178",
@@ -2457,6 +2505,18 @@
 		"publisher": "学林出版社",
 		"pages": "347",
 		"price": "18.00元"
+	},
+	{
+		"id": "9787806797549",
+		"title": "万物简史",
+		"author": [
+			"[美] 比尔·布莱森"
+		],
+		"image": "https://img3.doubanio.com/mpic/s1171582.jpg",
+		"rating": "8.8",
+		"publisher": "接力出版社",
+		"pages": "438",
+		"price": "36.80元"
 	},
 	{
 		"id": "9787807465256",
