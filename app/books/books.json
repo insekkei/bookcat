@@ -146,6 +146,18 @@
 		"price": "CNY 16.00"
 	},
 	{
+		"id": "9787108015419",
+		"title": "黄河青山",
+		"author": [
+			"[美] 黄仁宇"
+		],
+		"image": "https://img5.doubanio.com/mpic/s10121236.jpg",
+		"rating": "8.3",
+		"publisher": "生活·读书·新知三联书店",
+		"pages": "583",
+		"price": "32.00元"
+	},
+	{
 		"id": "9787108030375",
 		"title": "美的历程",
 		"author": [
@@ -475,6 +487,18 @@
 		"price": "39.00元"
 	},
 	{
+		"id": "9787115437303",
+		"title": "深入react 技术栈",
+		"author": [
+			"陈屹"
+		],
+		"image": "https://img3.doubanio.com/mpic/s29162154.jpg",
+		"rating": "7.8",
+		"publisher": "人民邮电出版社",
+		"pages": "351",
+		"price": "CNY 79.00"
+	},
+	{
 		"id": "9787119048932",
 		"title": "飘",
 		"author": [
@@ -621,6 +645,18 @@
 		"price": "32.00元"
 	},
 	{
+		"id": "9787201104560",
+		"title": "局外人",
+		"author": [
+			"[法]加缪"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28908261.jpg",
+		"rating": "8.9",
+		"publisher": "天津人民出版社",
+		"pages": "160",
+		"price": "32.00元"
+	},
+	{
 		"id": "9787205065041",
 		"title": "废名卷",
 		"author": [
@@ -631,6 +667,18 @@
 		"publisher": "辽宁人民出版社",
 		"pages": "250",
 		"price": "24.00元"
+	},
+	{
+		"id": "9787208106086",
+		"title": "悉达多",
+		"author": [
+			"[德] 赫尔曼·黑塞"
+		],
+		"image": "https://img1.doubanio.com/mpic/s11431479.jpg",
+		"rating": "9.1",
+		"publisher": "上海人民出版社",
+		"pages": "168",
+		"price": "25.00元"
 	},
 	{
 		"id": "9787210088066",
@@ -691,6 +739,18 @@
 		"publisher": "北京大学出版社",
 		"pages": "833",
 		"price": "168.00元"
+	},
+	{
+		"id": "9787301251782",
+		"title": "异乡人",
+		"author": [
+			"(法) 加缪"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27980035.jpg",
+		"rating": "8.9",
+		"publisher": "北京大学出版社",
+		"pages": "144",
+		"price": "28"
 	},
 	{
 		"id": "9787302156871",
@@ -1219,6 +1279,18 @@
 		"price": "88.00元"
 	},
 	{
+		"id": "9787513311762",
+		"title": "霸王别姬",
+		"author": [
+			"李碧华"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27115721.jpg",
+		"rating": "9.2",
+		"publisher": "新星出版社",
+		"pages": "235",
+		"price": "29.50元"
+	},
+	{
 		"id": "9787513317139",
 		"title": "自由在高处（增订版）",
 		"author": [
@@ -1458,6 +1530,18 @@
 		"publisher": "上海译文出版社",
 		"pages": "344",
 		"price": "29.00元"
+	},
+	{
+		"id": "9787532752898",
+		"title": "生活在别处",
+		"author": [
+			"米兰・昆德拉"
+		],
+		"image": "https://img1.doubanio.com/mpic/s6273448.jpg",
+		"rating": "8.4",
+		"publisher": "上海译文出版社",
+		"pages": "427",
+		"price": "32.00元"
 	},
 	{
 		"id": "9787532761258",
@@ -2338,6 +2422,18 @@
 		"price": "26.00元"
 	},
 	{
+		"id": "9787801487582",
+		"title": "汴京残梦",
+		"author": [
+			"黄仁宇"
+		],
+		"image": "https://img5.doubanio.com/mpic/s1331336.jpg",
+		"rating": "7.4",
+		"publisher": "新星出版社",
+		"pages": "232",
+		"price": "18.00"
+	},
+	{
 		"id": "9787802065000",
 		"title": "庄子选择",
 		"author": [
@@ -2590,6 +2686,18 @@
 		"publisher": "北京航空航天大学出版社",
 		"pages": "582",
 		"price": "79.00元"
+	},
+	{
+		"id": "9789570846300",
+		"title": "北鳶",
+		"author": [
+			"葛亮"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28308503.jpg",
+		"rating": "8.7",
+		"publisher": "聯經",
+		"pages": "568",
+		"price": "NT390"
 	},
 	{
 		"id": "9789866562747",
