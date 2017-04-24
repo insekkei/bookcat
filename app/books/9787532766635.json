@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 588,
+		"average": "8.9",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"[法]米兰·昆德拉"
+	],
+	"pubdate": "2014-6",
+	"tags": [
+		{
+			"count": 131,
+			"name": "米兰·昆德拉",
+			"title": "米兰·昆德拉"
+		},
+		{
+			"count": 86,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 84,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 83,
+			"name": "哲学",
+			"title": "哲学"
+		},
+		{
+			"count": 68,
+			"name": "米兰・昆德拉",
+			"title": "米兰・昆德拉"
+		},
+		{
+			"count": 52,
+			"name": "爱情",
+			"title": "爱情"
+		},
+		{
+			"count": 41,
+			"name": "捷克",
+			"title": "捷克"
+		},
+		{
+			"count": 34,
+			"name": "文学",
+			"title": "文学"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img1.doubanio.com\/mpic\/s27471968.jpg",
+	"binding": "精装",
+	"translator": [
+		"许钧"
+	],
+	"catalog": "第一部 轻与重\n第二部 灵与肉\n第三部 不解之词\n第四部 灵与肉\n第五部 轻与重\n第六部 伟大的进军\n第七部 卡列宁的微笑\n大写的牧歌与小写的牧歌 弗朗索瓦·里卡尔",
+	"pages": "427",
+	"images": {
+		"small": "https://img1.doubanio.com\/spic\/s27471968.jpg",
+		"large": "https://img1.doubanio.com\/lpic\/s27471968.jpg",
+		"medium": "https://img1.doubanio.com\/mpic\/s27471968.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/25900384\/",
+	"id": "25900384",
+	"publisher": "上海译文出版社",
+	"isbn10": "7532766632",
+	"isbn13": "9787532766635",
+	"title": "不能承受的生命之轻",
+	"url": "https:\/\/api.douban.com\/v2\/book\/25900384",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《不能承受的生命之轻》是米兰·昆德拉最负盛名的作品。小说描写了托马斯与特丽莎、萨丽娜之间的感情生活。但它不是一个男人和两个女人的三角性爱故事，它是一部哲理小说，小说从“永恒轮回”的讨论开始，把读者带入了对一系列问题的思考中，比如轻与重、灵与肉。\n《不能承受的生命之轻》是一部意象繁复的书，其中装载了多种涵义：被政治化了的社会内涵的揭示、人性考察、个人命运在特定历史与政治语境下的呈现，以及对两性关系本质上的探索等。昆德拉将这些元素糅合在一起，写成一部非同凡响的小说——其中既有隐喻式的哲学思考，也有人的悲欢离合的生命历程的展现。",
+	"series": {
+		"id": "24318",
+		"title": "米兰·昆德拉作品全新系列"
+	},
+	"price": "46.00元"
+}

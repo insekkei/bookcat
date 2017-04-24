@@ -1,0 +1,81 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 7427,
+		"average": "8.7",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"钱锺书"
+	],
+	"pubdate": "2002-5",
+	"tags": [
+		{
+			"count": 2674,
+			"name": "钱钟书",
+			"title": "钱钟书"
+		},
+		{
+			"count": 1192,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 863,
+			"name": "钱锺书",
+			"title": "钱锺书"
+		},
+		{
+			"count": 852,
+			"name": "中国文学",
+			"title": "中国文学"
+		},
+		{
+			"count": 420,
+			"name": "中国",
+			"title": "中国"
+		},
+		{
+			"count": 399,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 368,
+			"name": "幽默",
+			"title": "幽默"
+		},
+		{
+			"count": 282,
+			"name": "短篇小说",
+			"title": "短篇小说"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s1069022.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "序\n1 上帝的梦\n2 猫\n3 灵感\n4 纪念\n附录 《写在人生边上》和《人・兽・鬼》重印本序",
+	"pages": "123",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s1069022.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s1069022.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s1069022.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/1058679\/",
+	"id": "1058679",
+	"publisher": "生活·读书·新知三联书店",
+	"isbn10": "7108016850",
+	"isbn13": "9787108016850",
+	"title": "人·兽·鬼",
+	"url": "https:\/\/api.douban.com\/v2\/book\/1058679",
+	"alt_title": "",
+	"author_intro": "钱钟书，原名仰先，字哲良，字默存，号槐聚，曾用笔名中书君，中国现代著名作家、文学研究家。曾为《毛泽东选集》英文版翻译小组成员。晚年就职于中国社会科学院，任副院长。书评家夏志清先生认为小说《围城》是“中国近代文学中最有趣、最用心经营的小说，可能是最伟大的一部”。钱钟书在文学，国故，比较文学，文化批评等领域的成就，推崇者甚至冠以“钱学”。其夫人杨绛也是著名作家。",
+	"summary": "《人·兽·鬼》包括《上帝的梦》、《猫》、《灵感》、《纪念》四部短篇小说。",
+	"series": {
+		"id": "47",
+		"title": "钱锺书集"
+	},
+	"price": "10.00元"
+}

@@ -84,6 +84,18 @@
 		"price": "18.00元"
 	},
 	{
+		"id": "9787100119696",
+		"title": "西游记",
+		"author": [
+			"[明] 吴承恩"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28855243.jpg",
+		"rating": "0.0",
+		"publisher": "商务印书馆",
+		"pages": "866",
+		"price": "40.00"
+	},
+	{
 		"id": "9787101054491",
 		"title": "万历十五年（增订本）",
 		"author": [
@@ -146,6 +158,18 @@
 		"price": "CNY 16.00"
 	},
 	{
+		"id": "9787108010360",
+		"title": "中国大历史",
+		"author": [
+			"黄仁宇"
+		],
+		"image": "https://img3.doubanio.com/mpic/s2523433.jpg",
+		"rating": "8.3",
+		"publisher": "生活·读书·新知三联书店",
+		"pages": "350",
+		"price": "19.00元"
+	},
+	{
 		"id": "9787108015419",
 		"title": "黄河青山",
 		"author": [
@@ -158,6 +182,18 @@
 		"price": "32.00元"
 	},
 	{
+		"id": "9787108016850",
+		"title": "人·兽·鬼",
+		"author": [
+			"钱锺书"
+		],
+		"image": "https://img3.doubanio.com/mpic/s1069022.jpg",
+		"rating": "8.7",
+		"publisher": "生活·读书·新知三联书店",
+		"pages": "123",
+		"price": "10.00元"
+	},
+	{
 		"id": "9787108030375",
 		"title": "美的历程",
 		"author": [
@@ -168,6 +204,19 @@
 		"publisher": "生活·读书·新知三联书店",
 		"pages": "217",
 		"price": "43.00元"
+	},
+	{
+		"id": "9787108030429",
+		"title": "文心",
+		"author": [
+			"夏丏尊",
+			"叶圣陶"
+		],
+		"image": "https://img3.doubanio.com/mpic/s3673012.jpg",
+		"rating": "9.0",
+		"publisher": "三联书店",
+		"pages": "331",
+		"price": "29.00元"
 	},
 	{
 		"id": "9787108045621",
@@ -400,6 +449,18 @@
 		"publisher": "人民邮电出版社",
 		"pages": "264",
 		"price": "49.00元"
+	},
+	{
+		"id": "9787115275790",
+		"title": "JavaScript高级程序设计（第3版）",
+		"author": [
+			"[美] Nicholas C. Zakas"
+		],
+		"image": "https://img3.doubanio.com/mpic/s8958650.jpg",
+		"rating": "9.3",
+		"publisher": "人民邮电出版社",
+		"pages": "748",
+		"price": "99.00元"
 	},
 	{
 		"id": "9787115290366",
@@ -681,6 +742,18 @@
 		"price": "25.00元"
 	},
 	{
+		"id": "9787208127937",
+		"title": "枕草子",
+		"author": [
+			"[日] 清少纳言"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28066550.jpg",
+		"rating": "8.4",
+		"publisher": "上海人民出版社",
+		"pages": "534",
+		"price": "59.00元"
+	},
+	{
 		"id": "9787210088066",
 		"title": "星，雪，火",
 		"author": [
@@ -763,6 +836,18 @@
 		"publisher": "清华大学出版社",
 		"pages": "308",
 		"price": "39.00元"
+	},
+	{
+		"id": "9787303172375",
+		"title": "准风月谈",
+		"author": [
+			"鲁迅"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27326164.jpg",
+		"rating": "0.0",
+		"publisher": "北京师范大学出版社",
+		"pages": "271",
+		"price": "30.00"
 	},
 	{
 		"id": "9787305062964",
@@ -1399,6 +1484,18 @@
 		"price": "CNY 49.80"
 	},
 	{
+		"id": "9787530960134",
+		"title": "灵魂的事",
+		"author": [
+			"史铁生"
+		],
+		"image": "https://img1.doubanio.com/mpic/s10286078.jpg",
+		"rating": "9.1",
+		"publisher": "天津教育出版社",
+		"pages": "278 页",
+		"price": "35.00"
+	},
+	{
 		"id": "9787531819387",
 		"title": "历代名家书法经典字谱",
 		"author": [
@@ -1604,6 +1701,18 @@
 		"price": "30.00"
 	},
 	{
+		"id": "9787532766635",
+		"title": "不能承受的生命之轻",
+		"author": [
+			"[法]米兰·昆德拉"
+		],
+		"image": "https://img1.doubanio.com/mpic/s27471968.jpg",
+		"rating": "8.9",
+		"publisher": "上海译文出版社",
+		"pages": "427",
+		"price": "46.00元"
+	},
+	{
 		"id": "9787533866136",
 		"title": "婉约词",
 		"author": [
@@ -1638,6 +1747,18 @@
 		"publisher": "浙江文艺出版社",
 		"pages": "272",
 		"price": "23.00元"
+	},
+	{
+		"id": "9787535486752",
+		"title": "一句顶一万句",
+		"author": [
+			"刘震云"
+		],
+		"image": "https://img3.doubanio.com/mpic/s29061215.jpg",
+		"rating": "8.7",
+		"publisher": "长江文艺出版社",
+		"pages": "",
+		"price": "45.00元"
 	},
 	{
 		"id": "9787535643698",
@@ -2084,6 +2205,18 @@
 		"publisher": "南海出版公司",
 		"pages": "238",
 		"price": "39.50元"
+	},
+	{
+		"id": "9787544281584",
+		"title": "活着为了讲述",
+		"author": [
+			"[哥伦比亚] 加西亚·马尔克斯"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28606305.jpg",
+		"rating": "9.0",
+		"publisher": "南海出版公司",
+		"pages": "450",
+		"price": "55.00元"
 	},
 	{
 		"id": "9787544703987",
