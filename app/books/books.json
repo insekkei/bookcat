@@ -36,6 +36,18 @@
 		"price": "110.00"
 	},
 	{
+		"id": "9787020112395",
+		"title": "绿原译浮士德",
+		"author": [
+			"[德] 歌德"
+		],
+		"image": "https://img3.doubanio.com/mpic/s29418810.jpg",
+		"rating": "0.0",
+		"publisher": "人民文学出版社",
+		"pages": "",
+		"price": ""
+	},
+	{
 		"id": "9787040209280",
 		"title": "操作系统概念",
 		"author": [
@@ -1028,6 +1040,18 @@
 		"price": "39.00元"
 	},
 	{
+		"id": "9787506341271",
+		"title": "苏菲的世界",
+		"author": [
+			"[挪] 乔斯坦·贾德"
+		],
+		"image": "https://img3.doubanio.com/mpic/s3042670.jpg",
+		"rating": "8.7",
+		"publisher": "作家出版社",
+		"pages": "528",
+		"price": "26.00元"
+	},
+	{
 		"id": "9787506342551",
 		"title": "寻觅中华",
 		"author": [
@@ -1508,6 +1532,18 @@
 		"price": "15.00元"
 	},
 	{
+		"id": "9787532146307",
+		"title": "酒国",
+		"author": [
+			"莫言"
+		],
+		"image": "https://img1.doubanio.com/mpic/s22792337.jpg",
+		"rating": "7.4",
+		"publisher": "上海文艺出版社",
+		"pages": "345",
+		"price": "35.00元"
+	},
+	{
 		"id": "9787532535538",
 		"title": "红楼梦（全四册）",
 		"author": [
@@ -1663,6 +1699,18 @@
 		"publisher": "上海译文出版社",
 		"pages": "256",
 		"price": "32"
+	},
+	{
+		"id": "9787532765539",
+		"title": "且听风吟",
+		"author": [
+			"[日] 村上春树"
+		],
+		"image": "https://img1.doubanio.com/mpic/s27411349.jpg",
+		"rating": "7.7",
+		"publisher": "上海译文出版社",
+		"pages": "176",
+		"price": "35.00"
 	},
 	{
 		"id": "9787532766178",
@@ -1955,6 +2003,18 @@
 		"price": "28.00元"
 	},
 	{
+		"id": "9787540455989",
+		"title": "西游日记",
+		"author": [
+			"今何在"
+		],
+		"image": "https://img3.doubanio.com/mpic/s10275383.jpg",
+		"rating": "7.8",
+		"publisher": "湖南文艺出版社",
+		"pages": "240",
+		"price": "29.80元"
+	},
+	{
 		"id": "9787540457907",
 		"title": "原来你也在这里",
 		"author": [
@@ -2036,6 +2096,18 @@
 		"publisher": "上海三联书店",
 		"pages": "204",
 		"price": "32.00元"
+	},
+	{
+		"id": "9787542638885",
+		"title": "荒原狼",
+		"author": [
+			"(德)赫尔曼·黑塞"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27143832.jpg",
+		"rating": "8.7",
+		"publisher": "上海三联书店",
+		"pages": "306",
+		"price": "29.80"
 	},
 	{
 		"id": "9787542643940",
@@ -2734,6 +2806,18 @@
 		"publisher": "学林出版社",
 		"pages": "347",
 		"price": "18.00元"
+	},
+	{
+		"id": "9787806727881",
+		"title": "清丁敬隶书册",
+		"author": [
+			"上海书画出版社"
+		],
+		"image": "https://img1.doubanio.com/mpic/s1298338.jpg",
+		"rating": "0.0",
+		"publisher": "上海书画出版社",
+		"pages": "32",
+		"price": "20.00元"
 	},
 	{
 		"id": "9787806797549",
