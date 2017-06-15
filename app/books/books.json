@@ -36,6 +36,18 @@
 		"price": "110.00"
 	},
 	{
+		"id": "9787020098675",
+		"title": "杨绛译堂吉诃德",
+		"author": [
+			"[西班牙] 塞万提斯"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28277127.jpg",
+		"rating": "7.8",
+		"publisher": "人民文学出版社",
+		"pages": "807",
+		"price": "93.00"
+	},
+	{
 		"id": "9787020112395",
 		"title": "绿原译浮士德",
 		"author": [
@@ -1556,6 +1568,20 @@
 		"price": "68.50"
 	},
 	{
+		"id": "9787532549481",
+		"title": "文心雕龙",
+		"author": [
+			"[南朝梁]刘勰",
+			"黄霖 导读",
+			"黄霖 整理集评"
+		],
+		"image": "https://img3.doubanio.com/mpic/s6001060.jpg",
+		"rating": "9.3",
+		"publisher": "上海古籍出版社",
+		"pages": "208",
+		"price": "22.00元"
+	},
+	{
 		"id": "9787532553129",
 		"title": "纳兰词集",
 		"author": [
@@ -2096,6 +2122,30 @@
 		"publisher": "上海三联书店",
 		"pages": "204",
 		"price": "32.00元"
+	},
+	{
+		"id": "9787542638854",
+		"title": "在轮下",
+		"author": [
+			"(德)赫尔曼·黑塞"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27143875.jpg",
+		"rating": "8.6",
+		"publisher": "上海三联书店",
+		"pages": "222",
+		"price": "23.80"
+	},
+	{
+		"id": "9787542638861",
+		"title": "彷徨少年时",
+		"author": [
+			"(德)赫尔曼·黑塞"
+		],
+		"image": "https://img1.doubanio.com/mpic/s27143878.jpg",
+		"rating": "8.5",
+		"publisher": "上海三联书店",
+		"pages": "246",
+		"price": "25.80"
 	},
 	{
 		"id": "9787542638885",
