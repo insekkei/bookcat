@@ -84,6 +84,18 @@
 		"price": "37.00"
 	},
 	{
+		"id": "9787100020565",
+		"title": "叔本华论说文集",
+		"author": [
+			"[德]叔本华"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28028391.jpg",
+		"rating": "9.0",
+		"publisher": "商务印书馆",
+		"pages": "711",
+		"price": "45.00元"
+	},
+	{
 		"id": "9787100028226",
 		"title": "古今汉语词典",
 		"author": [
@@ -106,6 +118,18 @@
 		"publisher": "商务印书馆",
 		"pages": "197",
 		"price": "18.00元"
+	},
+	{
+		"id": "9787100086820",
+		"title": "悲剧的诞生",
+		"author": [
+			"[德]尼采"
+		],
+		"image": "https://img3.doubanio.com/mpic/s11098302.jpg",
+		"rating": "9.1",
+		"publisher": "商务印书馆",
+		"pages": "195",
+		"price": "25.00元"
 	},
 	{
 		"id": "9787100119696",
@@ -253,6 +277,18 @@
 		"publisher": "生活·读书·新知三联书店",
 		"pages": "306",
 		"price": "49.00元"
+	},
+	{
+		"id": "9787108050977",
+		"title": "查拉图斯特拉如是说",
+		"author": [
+			"(德) 尼采"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28868855.jpg",
+		"rating": "9.2",
+		"publisher": "生活·读书·新知三联书店",
+		"pages": "404",
+		"price": " 46.00"
 	},
 	{
 		"id": "9787111234715",
