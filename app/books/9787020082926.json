@@ -1,0 +1,79 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 1383,
+		"average": "8.6",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"阎真"
+	],
+	"pubdate": "2001-10-1",
+	"tags": [
+		{
+			"count": 351,
+			"name": "官场",
+			"title": "官场"
+		},
+		{
+			"count": 276,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 240,
+			"name": "人性",
+			"title": "人性"
+		},
+		{
+			"count": 232,
+			"name": "官场小说",
+			"title": "官场小说"
+		},
+		{
+			"count": 151,
+			"name": "人生",
+			"title": "人生"
+		},
+		{
+			"count": 140,
+			"name": "阎真",
+			"title": "阎真"
+		},
+		{
+			"count": 140,
+			"name": "中国文学",
+			"title": "中国文学"
+		},
+		{
+			"count": 90,
+			"name": "中国",
+			"title": "中国"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s27417262.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "",
+	"ebook_url": "https:\/\/read.douban.com\/ebook\/28312193\/",
+	"pages": "359",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s27417262.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s27417262.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s27417262.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/5437032\/",
+	"id": "5437032",
+	"publisher": "人民文学出版社",
+	"isbn10": "7020082920",
+	"isbn13": "9787020082926",
+	"title": "沧浪之水",
+	"url": "https:\/\/api.douban.com\/v2\/book\/5437032",
+	"alt_title": "",
+	"author_intro": "阎真，湖南长沙人，1984年毕业于北京大学中文系，1988年获湖南师范大学文学硕士学位。现为中南大学文学院教授，中国作家协会会员。主要作品有长篇小说《曾在天涯》（1995年，海外版名《白雪红尘》）、《沧浪之水》（2001年）、《因为女人》（2007年），理论著作《百年文学与后现代主义》（2003年），以及数十篇学术论文和散文等作品。",
+	"summary": "卫生厅公务员、医药学研究生池大为从无职无权、空怀壮志，到时来运转、大展宏图的过程。酸甜苦辣的人生况味，险象环生的升迁之路．你死我活的灵魂搏斗，人情冷暖世态炎凉，无不夺人心魄、发人深思。",
+	"ebook_price": "6.00",
+	"price": "33.00元"
+}
