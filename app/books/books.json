@@ -156,6 +156,30 @@
 		"price": "25.00元"
 	},
 	{
+		"id": "9787100119658",
+		"title": "三国演义",
+		"author": [
+			"[明] 罗贯中"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28848987.jpg",
+		"rating": "0.0",
+		"publisher": "商务印书馆",
+		"pages": "722",
+		"price": "36.00"
+	},
+	{
+		"id": "9787100119672",
+		"title": "水浒传",
+		"author": [
+			"[明] 施耐庵"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28851034.jpg",
+		"rating": "0.0",
+		"publisher": "商务印书馆",
+		"pages": "1042",
+		"price": "46.00"
+	},
+	{
 		"id": "9787100119696",
 		"title": "西游记",
 		"author": [
@@ -1725,6 +1749,18 @@
 		"publisher": "上海古籍出版社",
 		"pages": "464",
 		"price": "20.00元"
+	},
+	{
+		"id": "9787532563852",
+		"title": "开元天宝遗事",
+		"author": [
+			"王仁裕"
+		],
+		"image": "https://img1.doubanio.com/mpic/s21559889.jpg",
+		"rating": "8.3",
+		"publisher": "上海古籍出版社",
+		"pages": "194",
+		"price": "18.00元"
 	},
 	{
 		"id": "9787532569465",
