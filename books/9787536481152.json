@@ -1,0 +1,81 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 189,
+		"average": "7.9",
+		"min": 0
+	},
+	"subtitle": "刘慈欣科幻短篇小说集Ⅱ",
+	"author": [
+		"刘慈欣"
+	],
+	"pubdate": "2016-6",
+	"tags": [
+		{
+			"count": 61,
+			"name": "刘慈欣",
+			"title": "刘慈欣"
+		},
+		{
+			"count": 54,
+			"name": "科幻",
+			"title": "科幻"
+		},
+		{
+			"count": 34,
+			"name": "科幻小说",
+			"title": "科幻小说"
+		},
+		{
+			"count": 21,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 19,
+			"name": "中国",
+			"title": "中国"
+		},
+		{
+			"count": 15,
+			"name": "短篇集",
+			"title": "短篇集"
+		},
+		{
+			"count": 9,
+			"name": "中国科幻基石丛书",
+			"title": "中国科幻基石丛书"
+		},
+		{
+			"count": 5,
+			"name": "短篇小说集",
+			"title": "短篇小说集"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s28270972.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "梦之海\n西洋\n诗云\n光荣与梦想\n地球大炮\n人生\n思想者\n圆圆的肥皂泡\n镜子\n赡养上帝\n欢乐颂\n赡养人类\n山\n太原之恋\n2018年4月1日\n时间移民\n烧火工\n圆",
+	"pages": "",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s28270972.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s28270972.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s28270972.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/26437740\/",
+	"id": "26437740",
+	"publisher": "四川科学技术出版社",
+	"isbn10": "7536481152",
+	"isbn13": "9787536481152",
+	"title": "梦之海",
+	"url": "https:\/\/api.douban.com\/v2\/book\/26437740",
+	"alt_title": "",
+	"author_intro": "刘慈欣，祖籍河南，长于山西，高级工程师，中国科普作家协会会员，山西省作家协会会员，中国科幻小说作家代表人物。\n自1999年处女作《鲸歌》问世以来，刘慈欣已发表短篇科幻小说三十余篇、出版长篇科幻小说六部，九次荣获中国科幻最高奖“银河奖”。他的长篇代表作《三体》三部曲被普遍认为是中国科幻文学的里程碑之作，将中国科幻推上了世界的高度。\n刘慈欣的作品宏伟大气、想象绚丽，既注重极端空灵与厚重现实的结合，也讲求科学的内涵和美感，具有浓郁的中国特色和鲜明的个人风格，为中国科幻确立了新高度。",
+	"summary": "",
+	"series": {
+		"id": "38",
+		"title": "科幻世界·中国科幻基石丛书"
+	},
+	"price": "36.00元"
+}

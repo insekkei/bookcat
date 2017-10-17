@@ -1,0 +1,77 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 115,
+		"average": "8.7",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"傅德岷主编"
+	],
+	"pubdate": "2005-1",
+	"tags": [
+		{
+			"count": 55,
+			"name": "唐诗",
+			"title": "唐诗"
+		},
+		{
+			"count": 53,
+			"name": "宋词",
+			"title": "宋词"
+		},
+		{
+			"count": 41,
+			"name": "古典文学",
+			"title": "古典文学"
+		},
+		{
+			"count": 37,
+			"name": "诗词",
+			"title": "诗词"
+		},
+		{
+			"count": 30,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 17,
+			"name": "工具书",
+			"title": "工具书"
+		},
+		{
+			"count": 14,
+			"name": "诗词歌赋",
+			"title": "诗词歌赋"
+		},
+		{
+			"count": 11,
+			"name": "诗",
+			"title": "诗"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s2162083.jpg",
+	"binding": "简裝本",
+	"translator": [],
+	"catalog": "",
+	"pages": "632",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s2162083.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s2162083.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s2162083.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/1331524\/",
+	"id": "1331524",
+	"publisher": "湖北辞书出版社",
+	"isbn10": "7540308508",
+	"isbn13": "9787540308506",
+	"title": "唐诗宋词鉴赏辞典",
+	"url": "https:\/\/api.douban.com\/v2\/book\/1331524",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《唐诗宋词鉴赏辞典》编撰体例除原诗（词）外，特有诗（词）人简介、注释、鉴赏及插图。“诗（词）人简介”力求言简意赅；“注释”疏通义，求其简洁准确；“鉴赏”文字深入浅出，生动活泼，有助于读友掌握原诗（词）的美学内涵，陶冶性情；适量的“插图”则以视觉形象与诗（词）境交相辉映，触发读友的通感。另外，我们还汇编了“名句索引”作为附录，能让读友在最短时间内鸟瞰唐诗宋词千古绝唱，可谓事半功倍。\n中国素有诗国之称。诗歌发展到唐宋时期，更是进入巅峰状态，达到精美绝伦的境地。一谈起诗歌，人们就自然会想到唐诗宋词。中国又有散文之邦的美誉。无论是古代散文，还是现、当代散文，都以它自身的发展轨迹，辉煌成就，独特的艺术和美学特质，成为中国散文园地奇葩。恰如长江、黄河流贯在中国大地上一样这一诗一文，也闪闪发光地流贯在中国文学史上。",
+	"price": "29.80元"
+}

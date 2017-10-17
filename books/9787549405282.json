@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 62,
+		"average": "8.1",
+		"min": 0
+	},
+	"subtitle": "破译网格设计",
+	"author": [
+		"（美）贝斯托恩德罗（Beth Tondreau）"
+	],
+	"pubdate": "2012-6-30",
+	"tags": [
+		{
+			"count": 51,
+			"name": "设计",
+			"title": "设计"
+		},
+		{
+			"count": 35,
+			"name": "平面设计",
+			"title": "平面设计"
+		},
+		{
+			"count": 24,
+			"name": "版式设计",
+			"title": "版式设计"
+		},
+		{
+			"count": 22,
+			"name": "网格",
+			"title": "网格"
+		},
+		{
+			"count": 13,
+			"name": "设计理论",
+			"title": "设计理论"
+		},
+		{
+			"count": 9,
+			"name": "排版！",
+			"title": "排版！"
+		},
+		{
+			"count": 7,
+			"name": "设计基础",
+			"title": "设计基础"
+		},
+		{
+			"count": 5,
+			"name": "平面",
+			"title": "平面"
+		}
+	],
+	"origin_title": "Layout Esssentials: 100 Design Principles for Using Grids",
+	"image": "https://img3.doubanio.com\/mpic\/s10299672.jpg",
+	"binding": "平装",
+	"translator": [
+		"潘克建  赖  桃"
+	],
+	"catalog": "导论\n网格操作准备\n网格的构件元素\n基本的网格图表\n选择合适的网格\n格式文本\n层级结构信息\n网格与图像\n整合网格、文字和图像\n色彩\n空间\n节奏感与流畅性\n网格设计操作\n单列网格\n双列网格\n三列网格\n多列网格\n模块\n表格与图表\n主导元素：色彩\n组织规则：色彩\n水平层级\n当文字构成网格时\n既丰富又实用\n空旷但不沉闷\n看似无网格的设计\n有机的形状\n瑞士网格\n嵌入网格\n重建网格\n分层网格\n网格与动感\n打破常规\n术语表\n推荐书目\n设计师名单\n入门速成指南\n致谢",
+	"pages": "208",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s10299672.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s10299672.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s10299672.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/10787778\/",
+	"id": "10787778",
+	"publisher": "广西美术出版社",
+	"isbn10": "754940528X",
+	"isbn13": "9787549405282",
+	"title": "破译网格设计",
+	"url": "https:\/\/api.douban.com\/v2\/book\/10787778",
+	"alt_title": "Layout Esssentials: 100 Design Principles for Using Grids",
+	"author_intro": "贝斯•托恩德罗（Beth Tondreau）是BTD公司的创始人和负责人，BTD是一家小型设计工作室，主要是与出版社合作从事图书及其封面设计；同时也设计商标、企业标志及网页等。她目前在纽约服装技术学院教授设计课程。",
+	"summary": "网格是所有设计的基础，对设计师来说，学会运用网格是进行所有设计的基础。运用从一栏到多栏网格，与文字、色彩、图像及其他诸多元素综合使用，《破译网格设计》用100条规则与案例来说明如何完成完美的设计。\n本书不仅为成功进行网格设计提供了丰富而实用的规则，并且运用设计实例中不同类型的网格，以及如何打破网格设计规则来说明如何达成富于启发的设计。\n第一本“一站式”创建和使用网格进行设计的参考与资料书，适用于各类设计实例。                                                                              运用从一栏到多栏网格，与文字、色彩、图像及其他诸多元素综合使用，《破译网格设计》用100条规则与案例来说明如何完成完美的设计。",
+	"series": {
+		"id": "2733",
+		"title": "美国视觉设计学院用书"
+	},
+	"price": "78.00元"
+}

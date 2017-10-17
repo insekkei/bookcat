@@ -1,0 +1,36 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 1,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"犀文图书"
+	],
+	"pubdate": "2011-9",
+	"tags": [],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s22702196.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "Part 1  基础知识  常用工具  基本绣法  基本技法Part 2  精致生活秀  笔记本套  遥控器套  眼镜套  水壶套  包边杯垫  恬园杯垫  花边坐垫  拼布挂饰  拼布画框  花朵针插  圣诞袜Part 3  花花饰界  珍珠花发饰  花样戒指  蝴蝶结耳坠  蝴蝶结发带  珍珠发梳  蝴蝶胸针  桃心项链Part 4  卡通园地  鸭公仔  小老鼠  猫咪  夏威夷女娃Part 5  包里人生  零钱包  钥匙包  卡包  苏姑娘小手袋  作品欣赏",
+	"pages": "93",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s22702196.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s22702196.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s22702196.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/6863548\/",
+	"id": "6863548",
+	"publisher": "湖南美术出版社",
+	"isbn10": "7535643698",
+	"isbn13": "9787535643698",
+	"title": "拼布入门",
+	"url": "https:\/\/api.douban.com\/v2\/book\/6863548",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《编绳入门》作品的制作方法非常简单，每一款作品都配以详细、清晰的步骤图解，即使是没有手工基础的初学者，也可以轻松上手。只要用心地学，仔细地看.再结合自己的创意，任何心中所想的款式都可以在你的手中实现。这样的巧手，会让朋友们称羡不已的！",
+	"price": "12.00元"
+}

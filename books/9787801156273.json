@@ -1,0 +1,79 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 2061,
+		"average": "8.4",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"[美] 亨利·戴维·梭罗"
+	],
+	"pubdate": "2003-04",
+	"tags": [
+		{
+			"count": 479,
+			"name": "梭罗",
+			"title": "梭罗"
+		},
+		{
+			"count": 469,
+			"name": "瓦尔登湖",
+			"title": "瓦尔登湖"
+		},
+		{
+			"count": 336,
+			"name": "散文",
+			"title": "散文"
+		},
+		{
+			"count": 241,
+			"name": "自然",
+			"title": "自然"
+		},
+		{
+			"count": 170,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 156,
+			"name": "平静",
+			"title": "平静"
+		},
+		{
+			"count": 145,
+			"name": "思想",
+			"title": "思想"
+		},
+		{
+			"count": 135,
+			"name": "美国",
+			"title": "美国"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s1743606.jpg",
+	"binding": "平装",
+	"translator": [
+		"戴欢"
+	],
+	"catalog": "一 简朴生活\n二 诗意的添补\n三 我活在何处，我为何而活\n四 翻阅书卷\n五 声音\n六 隐居林中\n七 访客\n八 青青豆叶\n九 村民\n十 湖\n十一 雨中田园\n十二 更上一层的法则\n十三 邻居：野性难驯\n十四 温暖的木屋\n十五 前代居民；冬日访客\n十六 过冬的动物\n十七 冰天的雪湖\n十八 春\n十九 终结的尾声",
+	"pages": "211",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s1743606.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s1743606.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s1743606.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/1037594\/",
+	"id": "1037594",
+	"publisher": "当代世界出版社",
+	"isbn10": "7801156277",
+	"isbn13": "9787801156273",
+	"title": "瓦尔登湖",
+	"url": "http:\/\/api.douban.com\/v2\/book\/1037594",
+	"alt_title": "",
+	"author_intro": "亨利·戴维·梭罗（Henry David Thoreau,1817-1862）在19世纪美国文化巨匠中，堪称一位“异人”。他和爱默生（Ralph Waldo Emerson)、富勒（Margaret Fuller）都是“简朴生活”的宗师，他们提倡回归本心、亲近自然。这种思想不仅深深地影响了美国文化，也为整个世界带来了清新长风。\n在受全家资助读完哈佛大学后，梭罗没有醉心于任何传统意义上的事业，而是开始了一个大地漫游者的漂泊生涯。1845年到1847年间，他独自一人幽居在瓦尔登湖畔的自筑木屋中，渔猎、耕耘、沉思、写作，由此产生了意义深远的《瓦尔登湖》。",
+	"summary": "本书内容包括：简朴生活；诗意的添补；我活在何处，我为何而活；翻阅书卷；声音；隐居林中；访客；青青豆叶；村民；湖；雨中田园；更上一层的法则；邻居：野性难驯温暖的木屋；前代居民；冬日访客；过冬的动物；冰天的雪湖；春；终结的尾声……",
+	"price": "30.00元"
+}

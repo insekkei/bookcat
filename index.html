@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en" ng-app="bookcatApp">
+<head>
+  <meta charset="utf-8">
+  <title ng-bind-template="{{query ? query+' | ' : ''}}BOOKCAT">BOOKCAT</title>
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="shortcut icon" type="icon/png" href="http://insekkei.com/images/icon_ui.png" />
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/angular/angular.min.js"></script>
+  <script src="bower_components/angular-animate/angular-animate.min.js"></script>
+  <script src="bower_components/angular-route/angular-route.min.js"></script>
+  <script src="bower_components/angular-resource/angular-resource.min.js"></script>
+  <script src="bower_components/angular-md5/angular-md5.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/controllers.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/services.js"></script>
+  <script src="js/animations.js"></script>
+</head>
+<body>
+	<div class="view-container">
+  		<div ng-view class="view-frame"></div>
+	</div>
+</body>
+</html>

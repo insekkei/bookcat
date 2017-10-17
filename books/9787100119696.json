@@ -1,0 +1,5 @@
+{
+	"msg": "rate_limit_exceeded2: 111.203.244.2",
+	"code": 112,
+	"request": "GET \/v2\/book\/isbn\/9787100119696"
+}
