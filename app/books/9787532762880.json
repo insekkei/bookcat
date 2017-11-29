@@ -1,0 +1,85 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 1048,
+		"average": "8.3",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"博尔赫斯"
+	],
+	"pubdate": "2015-8-1",
+	"tags": [
+		{
+			"count": 353,
+			"name": "博尔赫斯",
+			"title": "博尔赫斯"
+		},
+		{
+			"count": 132,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 119,
+			"name": "阿根廷",
+			"title": "阿根廷"
+		},
+		{
+			"count": 105,
+			"name": "拉美文学",
+			"title": "拉美文学"
+		},
+		{
+			"count": 78,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 72,
+			"name": "短篇小说",
+			"title": "短篇小说"
+		},
+		{
+			"count": 68,
+			"name": "短篇集",
+			"title": "短篇集"
+		},
+		{
+			"count": 66,
+			"name": "拉美",
+			"title": "拉美"
+		}
+	],
+	"origin_title": "Historia universal de la infamia",
+	"image": "https://img3.doubanio.com\/mpic\/s28077584.jpg",
+	"binding": "平装",
+	"translator": [
+		"王永年"
+	],
+	"catalog": "初版序言\n一九五四年版序言\n心狠手辣的解放者莫雷尔\n难以置信的冒名者汤姆·卡斯特罗\n女海盗郑寡妇\n作恶多端的蒙克·伊斯曼\n杀人不眨眼的比尔·哈里根\n无礼的掌礼官上野介\n蒙面染工梅尔夫的哈基姆\n资料来源\n玫瑰角的汉子\n双梦记及其他",
+	"ebook_url": "https:\/\/read.douban.com\/ebook\/40175402\/",
+	"pages": "104",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s28077584.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s28077584.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s28077584.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/25796066\/",
+	"id": "25796066",
+	"publisher": "上海译文出版社",
+	"isbn10": "7532762882",
+	"isbn13": "9787532762880",
+	"title": "恶棍列传",
+	"url": "https:\/\/api.douban.com\/v2\/book\/25796066",
+	"alt_title": "Historia universal de la infamia",
+	"author_intro": "",
+	"summary": "博尔赫斯首部小说作品，1935年出版，集中讲述世界各地“恶棍”的故事，既有美国南方的奴隶贩子、纽约黑帮头目，也有冒名顶替望族子弟的英国流浪汉，甚至包括日本江户幕府时期侮辱赤穗藩主而最终被复仇的礼官吉良上野介、中国清朝时期著名的女海盗郑寡妇。真实的历史背景，与作家的想象交织在一起，刻画出芜杂的社会角落里生长出来的一个个“反英雄”形象。奇绝荒诞的情节、稀奇古怪的人物、精妙幽默的语言共同构成巴罗克的浮饰风格，作者说：“书里有绞刑架和海盗，标题上有‘恶棍’当道，但是混乱之下空无一物。它只是外表，形象的外表；正因为这一点，也许给人以欢乐。”",
+	"ebook_price": "17.99",
+	"series": {
+		"id": "21705",
+		"title": "博尔赫斯全集"
+	},
+	"price": "CNY 437.00"
+}

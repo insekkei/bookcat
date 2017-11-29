@@ -339,6 +339,18 @@
 		"price": "29.00元"
 	},
 	{
+		"id": "9787108033437",
+		"title": "昨日的世界",
+		"author": [
+			"(奥)斯蒂芬·茨威格"
+		],
+		"image": "https://img3.doubanio.com/mpic/s10327156.jpg",
+		"rating": "9.4",
+		"publisher": "生活·读书 ·新知三联书店",
+		"pages": "482",
+		"price": "29.80"
+	},
+	{
 		"id": "9787108045621",
 		"title": "人间烟火",
 		"author": [
@@ -373,6 +385,18 @@
 		"publisher": "生活·读书·新知三联书店",
 		"pages": "404",
 		"price": " 46.00"
+	},
+	{
+		"id": "9787108052773",
+		"title": "人类的群星闪耀时",
+		"author": [
+			"茨威格"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28318691.jpg",
+		"rating": "8.7",
+		"publisher": "生活·读书·新知三联书店",
+		"pages": "377",
+		"price": "28.00元"
 	},
 	{
 		"id": "9787111234715",
@@ -1172,6 +1196,18 @@
 		"price": "39.00元"
 	},
 	{
+		"id": "9787506098861",
+		"title": "伊凡·伊里奇之死",
+		"author": [
+			"[俄] 列夫·托尔斯泰"
+		],
+		"image": "https://img3.doubanio.com/mpic/s29590435.jpg",
+		"rating": "8.8",
+		"publisher": "东方出版社",
+		"pages": "",
+		"price": "46.00元"
+	},
+	{
 		"id": "9787506341271",
 		"title": "苏菲的世界",
 		"author": [
@@ -1388,6 +1424,18 @@
 		"price": "59.00元"
 	},
 	{
+		"id": "9787512502482",
+		"title": "梦的解析",
+		"author": [
+			"西格蒙德•弗洛伊德"
+		],
+		"image": "https://img3.doubanio.com/mpic/s9012555.jpg",
+		"rating": "8.3",
+		"publisher": "国际文化出版社",
+		"pages": "395",
+		"price": "36.00元"
+	},
+	{
 		"id": "9787512504011",
 		"title": "林清玄经典散文菩提十书之星月菩提",
 		"author": [
@@ -1566,6 +1614,19 @@
 		"publisher": "中国画报出版社",
 		"pages": "499",
 		"price": "39.80元"
+	},
+	{
+		"id": "9787515307428",
+		"title": "多余的话",
+		"author": [
+			"瞿秋白 文",
+			"胡博综 绘"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27280542.jpg",
+		"rating": "8.4",
+		"publisher": "中国青年出版社",
+		"pages": "192",
+		"price": "20.00元"
 	},
 	{
 		"id": "9787515312354",
@@ -1895,6 +1956,30 @@
 		"price": "32"
 	},
 	{
+		"id": "9787532762880",
+		"title": "恶棍列传",
+		"author": [
+			"博尔赫斯"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28077584.jpg",
+		"rating": "8.3",
+		"publisher": "上海译文出版社",
+		"pages": "104",
+		"price": "CNY 437.00"
+	},
+	{
+		"id": "9787532762903",
+		"title": "杜撰集",
+		"author": [
+			"(阿根廷)博尔赫斯"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28077169.jpg",
+		"rating": "9.2",
+		"publisher": "上海译文出版社",
+		"pages": "92",
+		"price": "23.00元"
+	},
+	{
 		"id": "9787532765539",
 		"title": "且听风吟",
 		"author": [
@@ -2111,6 +2196,30 @@
 		"publisher": "时代文艺出版社",
 		"pages": "185",
 		"price": "28.00元"
+	},
+	{
+		"id": "9787539167367",
+		"title": "柳林风声",
+		"author": [
+			"肯尼斯·格雷厄姆"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28055246.jpg",
+		"rating": "0.0",
+		"publisher": "二十一世纪出版社",
+		"pages": "176",
+		"price": "16.00元"
+	},
+	{
+		"id": "9787539182940",
+		"title": "不老泉",
+		"author": [
+			"纳塔莉·巴比特"
+		],
+		"image": "https://img1.doubanio.com/mpic/s26740307.jpg",
+		"rating": "9.0",
+		"publisher": "二十一世纪出版社",
+		"pages": "135",
+		"price": "14.00元"
 	},
 	{
 		"id": "9787539926971",
@@ -2533,6 +2642,18 @@
 		"price": "55.00元"
 	},
 	{
+		"id": "9787544701891",
+		"title": "癌症楼",
+		"author": [
+			"[俄罗斯]亚历山大·索尔仁尼琴"
+		],
+		"image": "https://img3.doubanio.com/mpic/s3752866.jpg",
+		"rating": "8.9",
+		"publisher": "译林出版社",
+		"pages": "457",
+		"price": "29.50元"
+	},
+	{
 		"id": "9787544703987",
 		"title": "麦田里的守望者",
 		"author": [
@@ -2891,6 +3012,18 @@
 		"publisher": "九州出版社",
 		"pages": "431",
 		"price": "26.00元"
+	},
+	{
+		"id": "9787801156273",
+		"title": "瓦尔登湖",
+		"author": [
+			"[美] 亨利·戴维·梭罗"
+		],
+		"image": "https://img3.doubanio.com/mpic/s1743606.jpg",
+		"rating": "8.4",
+		"publisher": "当代世界出版社",
+		"pages": "211",
+		"price": "30.00元"
 	},
 	{
 		"id": "9787801487582",
