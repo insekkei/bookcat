@@ -1,5 +1,78 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787533935009"
+	"rating": {
+		"max": 10,
+		"numRaters": 26,
+		"average": "7.5",
+		"min": 0
+	},
+	"subtitle": "人与永恒",
+	"author": [
+		"周国平"
+	],
+	"pubdate": "2013-3",
+	"tags": [
+		{
+			"count": 17,
+			"name": "周国平",
+			"title": "周国平"
+		},
+		{
+			"count": 17,
+			"name": "随笔",
+			"title": "随笔"
+		},
+		{
+			"count": 8,
+			"name": "哲学",
+			"title": "哲学"
+		},
+		{
+			"count": 6,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 4,
+			"name": "心灵",
+			"title": "心灵"
+		},
+		{
+			"count": 3,
+			"name": "哲理",
+			"title": "哲理"
+		},
+		{
+			"count": 1,
+			"name": "反思",
+			"title": "反思"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s26038641.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "",
+	"ebook_url": "http:\/\/read.douban.com\/ebook\/11063459\/",
+	"pages": "272",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s26038641.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s26038641.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s26038641.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/20414892\/",
+	"id": "20414892",
+	"publisher": "浙江文艺出版社",
+	"isbn10": "7533935004",
+	"isbn13": "9787533935009",
+	"title": "人与永恒",
+	"url": "http:\/\/api.douban.com\/v2\/book\/20414892",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《人与永恒》是作家周国平的第一本随笔集，也是出版后最受读者欢迎的作品之一。《人与永恒》记录了作者思想的原生态，而这样的原生态正存在于每一个感受着思考的人的头脑里。当人们为了生活忙碌，忘记了思考，作者却将他经过深思熟虑的生活感悟呈现出来，他用散文的笔调写他的哲学思考：人、自然和生命、爱、孤独、人生、美、超脱、幸福和痛苦、幽默、女人和男?、天才、婚姻、死、时间和永恒等26个话题，内容精辟深刻，文字优美而富有哲理。",
+	"ebook_price": "3.99",
+	"series": {
+		"id": "20105",
+		"title": "周国平经典随笔"
+	},
+	"price": "23.00元"
 }

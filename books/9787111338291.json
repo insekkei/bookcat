@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 289,
+		"numRaters": 210,
 		"average": "8.6",
 		"min": 0
 	},
@@ -12,48 +12,48 @@
 	"pubdate": "2011-4-30",
 	"tags": [
 		{
-			"count": 440,
+			"count": 331,
 			"name": "Linux",
 			"title": "Linux"
 		},
 		{
-			"count": 274,
+			"count": 217,
 			"name": "kernel",
 			"title": "kernel"
 		},
 		{
-			"count": 218,
+			"count": 157,
 			"name": "操作系统",
 			"title": "操作系统"
 		},
 		{
-			"count": 160,
+			"count": 112,
 			"name": "内核",
 			"title": "内核"
 		},
 		{
-			"count": 95,
+			"count": 68,
 			"name": "计算机",
 			"title": "计算机"
 		},
 		{
-			"count": 56,
+			"count": 37,
 			"name": "linux",
 			"title": "linux"
 		},
 		{
-			"count": 45,
+			"count": 28,
 			"name": "Linux\/Unix",
 			"title": "Linux\/Unix"
 		},
 		{
-			"count": 41,
+			"count": 27,
 			"name": "编程",
 			"title": "编程"
 		}
 	],
 	"origin_title": "Linux Kernel Development, 3E",
-	"image": "https://img1.doubanio.com\/mpic\/s6387169.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s6387169.jpg",
 	"binding": "平装",
 	"translator": [
 		"陈莉君",
@@ -62,17 +62,17 @@
 	"catalog": "译者序\n序言\n前言\n作者简介\n第1章　Linux内核简介\n1.1　Unix的历史\n1.2　追寻Linus足迹：Linux简介\n1.3　操作系统和内核简介\n1.4　Linux内核和传统Unix内核的比较\n1.5　Linux内核版本\n1.6　Linux内核开发者社区\n1.7　小结\n第2章　从内核出发\n第3章　进程管理\n第4章　进程调度\n第5章　系统调用\n第6章　内核数据结构\n第7章　中断和中断处理\n第8章　下半部和推后执行的工作\n第9章　内核同步介绍\n第10章　内核同步方法\n第11章　定时器和时间管理\n第12章　内存管理\n第13章　虚拟文件系统\n第14章　块I\/O层\n第15章　进程地址空间\n第16章　页高速缓存和页回写\n第17章　设备与模块\n第18章　调试\n第19章　可移植性\n第20章　补丁、开发和社区参考资料",
 	"pages": "352",
 	"images": {
-		"small": "https://img1.doubanio.com\/spic\/s6387169.jpg",
-		"large": "https://img1.doubanio.com\/lpic\/s6387169.jpg",
-		"medium": "https://img1.doubanio.com\/mpic\/s6387169.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s6387169.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s6387169.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s6387169.jpg"
 	},
-	"alt": "https:\/\/book.douban.com\/subject\/6097773\/",
+	"alt": "http:\/\/book.douban.com\/subject\/6097773\/",
 	"id": "6097773",
 	"publisher": "机械工业出版社华章公司",
 	"isbn10": "7111338294",
 	"isbn13": "9787111338291",
-	"title": "Linux内核设计与实现(原书第3版)",
-	"url": "https:\/\/api.douban.com\/v2\/book\/6097773",
+	"title": "Linux内核设计与实现",
+	"url": "http:\/\/api.douban.com\/v2\/book\/6097773",
 	"alt_title": "Linux Kernel Development, 3E",
 	"author_intro": "Robert Love 是一位资深的开源社区达人，很早就开始使用Linux。目前他是Google公司高级软件工程师，是开发Android移动平台内核的团队成员；他曾在Novell公司任职Linux桌面系统的首席架构师；他之前也曾是MontaVista和Ximain公司的内核开发工程师。他参与的内核项目包括抢占式内核、进程调度器、内核事件层、通知机制、VM改进，以及设备驱动程序。他是《Linux journal》杂志的编辑。另外他还著有《Linux System Programming》和《Linux in a Nutshell》。",
 	"summary": "《Linux内核设计与实现(原书第3版)》详细描述了Linux内核的设计与实现。内核代码的编写者、开发者以及程序开发人员都可以通过阅读本书受益，他们可以更好理解操作系统原理，并将其应用在自己的编码中以提高效率和生产率。\n《Linux内核设计与实现(原书第3版)》详细描述了Linux内核的主要子系统和特点，包括Linux内核的设计、实现和接口。从理论到实践涵盖了Linux内核的方方面面，可以满足读者的各种兴趣和需求。\n作者Robert Love是一位Linux内核核心开发人员，他分享了在开发Linux 2.6内核过程中颇具价值的知识和经验。本书的主题包括进程管理、进程调度、时间管理和定时器、系统调用接口、内存寻址、内存管理和页缓存、VFS、内核同步、移植性相关的问题以及调试技术。同时本书也涵盖了Linux 2.6内核中颇具特色的内容，包括CFS调度程序、抢占式内核、块I\/O层以及I\/O调度程序。\n《Linux内核设计与实现(原书第3版)》新增内容包括：\n增加一章专门描述内核数据结构\n详细描述中断处理程序和下半部机制\n扩充虚拟内存和内存分配的内容\n调试Linux内核的技巧\n内核同步和锁机制的深度描述\n提交内核补丁以及参与Linux内核社区的建设性建议",

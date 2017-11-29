@@ -10,7 +10,7 @@
 	"pubdate": "2009-1",
 	"tags": [
 		{
-			"count": 2,
+			"count": 3,
 			"name": "Linux",
 			"title": "Linux"
 		},
@@ -21,23 +21,23 @@
 		}
 	],
 	"origin_title": "",
-	"image": "https://img1.doubanio.com\/mpic\/s5968169.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s5968169.jpg",
 	"binding": "",
 	"translator": [],
 	"catalog": "",
 	"pages": "712",
 	"images": {
-		"small": "https://img1.doubanio.com\/spic\/s5968169.jpg",
-		"large": "https://img1.doubanio.com\/lpic\/s5968169.jpg",
-		"medium": "https://img1.doubanio.com\/mpic\/s5968169.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s5968169.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s5968169.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s5968169.jpg"
 	},
-	"alt": "https:\/\/book.douban.com\/subject\/3354518\/",
+	"alt": "http:\/\/book.douban.com\/subject\/3354518\/",
 	"id": "3354518",
 	"publisher": "",
 	"isbn10": "7115190704",
 	"isbn13": "9787115190703",
 	"title": "Linux C函数实例速查手册",
-	"url": "https:\/\/api.douban.com\/v2\/book\/3354518",
+	"url": "http:\/\/api.douban.com\/v2\/book\/3354518",
 	"alt_title": "",
 	"author_intro": "",
 	"summary": "《Linux C函数实例速查手册》详细地介绍了Linux环境下常用的C语言函数，重点介绍每个函数的参数意义、返回值的意义以及函数使用时的注意事项。Linux作为一个自由操作系统已经越来越受到业内人士的关注，该环境下的开发者也日趋增多。开发Linux环境下的应用程序时，需要使用大量的Linux函数。这些函数有的属于Linux操作系统的API，有的属于C语言的标准库函数。这些函数数目繁多，如果强行记忆每一个函数的使用方法显然是不明智的，因此读者需要一本Linux环境下的C语言函数速查手册。\n《Linux C函数实例速查手册》含有大量实例，详细讲解每个函数的使用方法，每个函数均给出了对应的应用实例，方便读者理解函数并进行模拟实践。《Linux C函数实例速查手册》适合于正在学习Linux环境下C语言编程的用户阅读，并可作为开发人员的参考手册。",

@@ -1,5 +1,79 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787810772907"
+	"rating": {
+		"max": 10,
+		"numRaters": 141,
+		"average": "8.7",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"JEAN J.LABROSSE"
+	],
+	"pubdate": "2003-5",
+	"tags": [
+		{
+			"count": 93,
+			"name": "嵌入式",
+			"title": "嵌入式"
+		},
+		{
+			"count": 85,
+			"name": "μC\\OS-Ⅱ",
+			"title": "μC\\OS-Ⅱ"
+		},
+		{
+			"count": 49,
+			"name": "操作系统",
+			"title": "操作系统"
+		},
+		{
+			"count": 37,
+			"name": "嵌入式系统",
+			"title": "嵌入式系统"
+		},
+		{
+			"count": 20,
+			"name": "μCOS-Ⅱ",
+			"title": "μCOS-Ⅱ"
+		},
+		{
+			"count": 16,
+			"name": "计算机",
+			"title": "计算机"
+		},
+		{
+			"count": 15,
+			"name": "嵌入式OS",
+			"title": "嵌入式OS"
+		},
+		{
+			"count": 10,
+			"name": "OS",
+			"title": "OS"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s1373526.jpg",
+	"binding": "平装（带盘）",
+	"translator": [
+		"邵贝贝"
+	],
+	"catalog": "",
+	"pages": "582",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s1373526.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s1373526.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s1373526.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/1229913\/",
+	"id": "1229913",
+	"publisher": "北京航空航天大学出版社",
+	"isbn10": "7810772902",
+	"isbn13": "9787810772907",
+	"title": "嵌入式实时操作系统μC\\OS-Ⅱ",
+	"url": "http:\/\/api.douban.com\/v2\/book\/1229913",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《嵌入式实时操作系统μC\/OS-2(第2版)》是icroC\/OSIITheRealTimeKernel一书的第2版本，在第1版本（V2.0）基础上做了重大改进与升级。通过对μC\/OSII源代码的分析与描述，讲述了多任务实时的基本概念、竞争与调度算法、任务间同步与通信、存储与定时的管理以及如何处理优先级反转问题；介绍如何将μC\/OSII移植到不同CPU上，如何调试移植代码。在所附光盘中，给出已通过FAA安全认证的μC\/OSIIV2.52的全部源码以及可在PC机上运行的移植范例。\nμC\/OSII是著名的、源码公开的实时内核，是专为嵌入式应用设计的，可用于各类8位、16位和32位单片机或DSP。从μC\/OS算起，该内核已有10余年应用史，在诸多领域得到了广泛应用。",
+	"price": "79.00元"
 }

@@ -1,7 +1,7 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 3,
+		"numRaters": 2,
 		"average": "0.0",
 		"min": 0
 	},
@@ -12,12 +12,12 @@
 	"pubdate": "2001-4",
 	"tags": [
 		{
-			"count": 4,
+			"count": 3,
 			"name": "楚辞",
 			"title": "楚辞"
 		},
 		{
-			"count": 3,
+			"count": 2,
 			"name": "屈原",
 			"title": "屈原"
 		},
@@ -28,23 +28,23 @@
 		}
 	],
 	"origin_title": "",
-	"image": "https://img3.doubanio.com\/mpic\/s5696572.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s5696572.jpg",
 	"binding": "",
 	"translator": [],
 	"catalog": "\n      ",
 	"pages": "347",
 	"images": {
-		"small": "https://img3.doubanio.com\/spic\/s5696572.jpg",
-		"large": "https://img3.doubanio.com\/lpic\/s5696572.jpg",
-		"medium": "https://img3.doubanio.com\/mpic\/s5696572.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s5696572.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s5696572.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s5696572.jpg"
 	},
-	"alt": "https:\/\/book.douban.com\/subject\/1546708\/",
+	"alt": "http:\/\/book.douban.com\/subject\/1546708\/",
 	"id": "1546708",
 	"publisher": "学林出版社",
 	"isbn10": "780668025X",
 	"isbn13": "9787806680254",
 	"title": "楚辞美论",
-	"url": "https:\/\/api.douban.com\/v2\/book\/1546708",
+	"url": "http:\/\/api.douban.com\/v2\/book\/1546708",
 	"alt_title": "",
 	"author_intro": "",
 	"summary": "《楚辞美论》内容包括：目眇眇兮愁予、乘清气兮御阴阳、乘白鼋兮逐文鱼、余处幽篁终不见天、子魂魄兮为鬼雄、痛苦情绪的艺术生成、孤独的飞鸟、死亡本能、美人之恋、与古圣对话、悲秋之祖、理性美与感性美的和谐等。",

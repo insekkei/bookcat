@@ -1,5 +1,81 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787532562701"
+	"rating": {
+		"max": 10,
+		"numRaters": 185,
+		"average": "8.4",
+		"min": 0
+	},
+	"subtitle": "中国古典小说名著丛书",
+	"author": [
+		"袁枚"
+	],
+	"pubdate": "2012-6",
+	"tags": [
+		{
+			"count": 80,
+			"name": "袁枚",
+			"title": "袁枚"
+		},
+		{
+			"count": 67,
+			"name": "志怪",
+			"title": "志怪"
+		},
+		{
+			"count": 46,
+			"name": "笔记小说",
+			"title": "笔记小说"
+		},
+		{
+			"count": 41,
+			"name": "怪力乱神",
+			"title": "怪力乱神"
+		},
+		{
+			"count": 37,
+			"name": "古典文学",
+			"title": "古典文学"
+		},
+		{
+			"count": 24,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 21,
+			"name": "明清",
+			"title": "明清"
+		},
+		{
+			"count": 15,
+			"name": "中国文学",
+			"title": "中国文学"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s26692765.jpg",
+	"binding": "精装",
+	"translator": [],
+	"catalog": "",
+	"pages": "464",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s26692765.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s26692765.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s26692765.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/10765717\/",
+	"id": "10765717",
+	"publisher": "上海古籍出版社",
+	"isbn10": "7532562700",
+	"isbn13": "9787532562701",
+	"title": "子不语",
+	"url": "http:\/\/api.douban.com\/v2\/book\/10765717",
+	"alt_title": "",
+	"author_intro": "袁枚（1716--1798） 清诗人。字子才，号简斋、随园老人，浙江钱塘(今杭州)人。乾隆进士，曾任江宁等地知县，辞官后侨居江宁，筑园林于小仓山，号随园。论诗主张抒写性情，创“性灵”说，对儒家“诗教”表示不满。部分诗篇对汉儒和程朱理学进行抨击，并宣称“《六经》尽糟粕”(《偶然作》)。所作诗歌，多抒发其闲情逸致。又能文，所作书信颇具特色。所著有《小仓山房集》及《随园诗话》、《子不语》等。",
+	"summary": "《中国古典小说名著丛书:子不语》由袁枚编撰。《子不语》得名于《论语·述而》“子不语怪力乱神”，是清中叶康乾盛世时代的著名文学家袁枚将自己听到举凡神鬼、妖怪、狐仙，甚至奇人奇事，通通整理而成，描述故事简洁明了，刻画人物简练生动，语言朴实而自然。在不少篇目中，还展现了其放达、诙谐与幽默的语言特色，实不愧为一部由具有深厚艺术功底的文学家所创作的鸿篇巨著。",
+	"series": {
+		"id": "5943",
+		"title": "中国古典小说名著丛书"
+	},
+	"price": "20.00元"
 }

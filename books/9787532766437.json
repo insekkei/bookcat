@@ -1,5 +1,83 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787532766437"
+	"rating": {
+		"max": 10,
+		"numRaters": 45,
+		"average": "8.5",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"米兰·昆德拉"
+	],
+	"pubdate": "2014-6",
+	"tags": [
+		{
+			"count": 15,
+			"name": "米兰·昆德拉",
+			"title": "米兰·昆德拉"
+		},
+		{
+			"count": 8,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 6,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 4,
+			"name": "捷克",
+			"title": "捷克"
+		},
+		{
+			"count": 3,
+			"name": "米兰・昆德拉",
+			"title": "米兰・昆德拉"
+		},
+		{
+			"count": 3,
+			"name": "法国",
+			"title": "法国"
+		},
+		{
+			"count": 3,
+			"name": "*上海译文出版社*",
+			"title": "*上海译文出版社*"
+		},
+		{
+			"count": 2,
+			"name": "名著",
+			"title": "名著"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s27471983.jpg",
+	"binding": "精装",
+	"translator": [
+		"马振骋"
+	],
+	"catalog": "",
+	"pages": "173",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s27471983.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s27471983.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s27471983.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/25900369\/",
+	"id": "25900369",
+	"publisher": "上海译文出版社",
+	"isbn10": "7532766438",
+	"isbn13": "9787532766437",
+	"title": "慢",
+	"url": "https:\/\/api.douban.com\/v2\/book\/25900369",
+	"alt_title": "",
+	"author_intro": "米兰·昆德拉（1929～），小说家，出生于捷克斯洛伐克布尔诺：自1975年起，在法国定居。长篇小说《玩笑》、《生活在别处》、《告别圆舞曲》、《笑忘录》、《不能承受的生命之轻》和《不朽》，以及短篇小说集《好笑的爱》，原作以捷克文写成。小说《慢》、《身份》和《无知》，随笔集《小说的艺术》、《被背叛的遗嘱》、《帷幕》，以及新作《相遇》，原作以法文写成。《雅克和他的主人》，系作者戏剧代表作。",
+	"summary": "《慢》是米兰·昆德拉移民法国后，用法文所写的第一部小说。相较于《生命之中不能承受之轻》和《不朽》所探讨的沉重话题，《慢》的主题看上去令人惊奇：显然是昆德拉所有作品当中，主题最为轻松的小说。作者自己曾说：“作品没有任何一个严肃的词。”作者通过旅途中的驾驶事件，论及了速度、时间以及记忆、历史、遗忘等主題；以城堡为场景，穿插了美丽的爱情故事，并交织着当代与18世纪两个时空……",
+	"series": {
+		"id": "24318",
+		"title": "米兰·昆德拉作品全新系列"
+	},
+	"price": "30.00"
 }

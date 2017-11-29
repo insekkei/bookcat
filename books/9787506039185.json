@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 330,
-		"average": "8.9",
+		"numRaters": 305,
+		"average": "9.0",
 		"min": 0
 	},
 	"subtitle": "",
@@ -12,64 +12,64 @@
 	"pubdate": "2010-6",
 	"tags": [
 		{
-			"count": 207,
+			"count": 200,
 			"name": "南怀瑾",
 			"title": "南怀瑾"
 		},
 		{
-			"count": 111,
+			"count": 105,
 			"name": "国学",
 			"title": "国学"
 		},
 		{
-			"count": 98,
+			"count": 92,
 			"name": "老子",
 			"title": "老子"
 		},
 		{
-			"count": 77,
+			"count": 69,
 			"name": "道家",
 			"title": "道家"
 		},
 		{
-			"count": 64,
+			"count": 58,
 			"name": "哲学",
 			"title": "哲学"
 		},
 		{
-			"count": 40,
+			"count": 34,
 			"name": "道德经",
 			"title": "道德经"
 		},
 		{
-			"count": 27,
+			"count": 25,
 			"name": "经典",
 			"title": "经典"
 		},
 		{
-			"count": 26,
+			"count": 24,
 			"name": "文化",
 			"title": "文化"
 		}
 	],
 	"origin_title": "",
-	"image": "https://img3.doubanio.com\/mpic\/s6337763.jpg",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s6337763.jpg",
 	"binding": "平装",
 	"translator": [],
 	"catalog": "出版说明\n第二十七章\n第二十八章\n第二十九章\n第三十章\n第三十一章\n第三十二章\n第三十三章\n第三十四章\n第三十五章\n第三十六章\n第三十七章\n下经\n第三十八章\n第三十九章\n第四十章\n第四十一章\n第四十二章\n第四十三章\n第四十四章\n第四十五章\n……",
 	"pages": "368",
 	"images": {
-		"small": "https://img3.doubanio.com\/spic\/s6337763.jpg",
-		"large": "https://img3.doubanio.com\/lpic\/s6337763.jpg",
-		"medium": "https://img3.doubanio.com\/mpic\/s6337763.jpg"
+		"small": "https:\/\/img1.doubanio.com\/spic\/s6337763.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s6337763.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s6337763.jpg"
 	},
-	"alt": "https:\/\/book.douban.com\/subject\/4898170\/",
+	"alt": "http:\/\/book.douban.com\/subject\/4898170\/",
 	"id": "4898170",
 	"publisher": "东方出版社",
 	"isbn10": "7506039184",
 	"isbn13": "9787506039185",
 	"title": "老子他说续集",
-	"url": "https:\/\/api.douban.com\/v2\/book\/4898170",
+	"url": "http:\/\/api.douban.com\/v2\/book\/4898170",
 	"alt_title": "",
 	"author_intro": "",
 	"summary": "《老子他说续集》又名《道德经》，由前三十七章《道经》和后四十四章《德经》组成，共五千余言，相传是先秦时期老子所著，是道家的主要经典。它率先提出了“道”这一最高的哲学概念，且含有丰富的辩证法思想，是中国古代思想的重要遗产，对中国的哲学、政治、文化等均产生了深远影响。\n两千多年来，古今中外的众多学者或尊重原意，或借题发挥，对《老子他说续集》作了七百余种解说。《老子他说续集》接续《老子他说》，对《老子他说续集》二十七章到八十一章进行了南怀瑾式的独特解读和评说，经史相参，以经注经，将《老子他说续集》上、下经的篇章相互对照，以“知人论世”的思想为指导，融汇儒、释、道三家之学，旁征博引，深入浅出，指出《老子他说续集》并非仅是权术谋略之书，而是包含深刻的政治道德、政治哲学、军事哲学和历史哲学，其中所论人情事理皆在阐发因果律；以《老子他说续集》为基础的道家文化是影响中国历史和中国文化的首要因素；等等，揭示出老子思想的真正内涵，为读者展示了一个别样的老子——一个真实生动、满怀忧国忧民之念的老人和智者。",

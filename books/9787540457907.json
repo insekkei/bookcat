@@ -1,5 +1,79 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787540457907"
+	"rating": {
+		"max": 10,
+		"numRaters": 201,
+		"average": "8.3",
+		"min": 0
+	},
+	"subtitle": "泰戈尔最美的100首诗",
+	"author": [
+		"罗宾德拉纳特·泰戈尔"
+	],
+	"pubdate": "2012-11",
+	"tags": [
+		{
+			"count": 111,
+			"name": "泰戈尔",
+			"title": "泰戈尔"
+		},
+		{
+			"count": 95,
+			"name": "诗歌",
+			"title": "诗歌"
+		},
+		{
+			"count": 36,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 20,
+			"name": "冰心",
+			"title": "冰心"
+		},
+		{
+			"count": 17,
+			"name": "经典",
+			"title": "经典"
+		},
+		{
+			"count": 16,
+			"name": "印度",
+			"title": "印度"
+		},
+		{
+			"count": 16,
+			"name": "鄭振鐸",
+			"title": "鄭振鐸"
+		},
+		{
+			"count": 11,
+			"name": "美文",
+			"title": "美文"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img1.doubanio.com\/mpic\/s23009078.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "",
+	"ebook_url": "http:\/\/read.douban.com\/ebook\/5153224\/",
+	"pages": "234",
+	"images": {
+		"small": "https://img1.doubanio.com\/spic\/s23009078.jpg",
+		"large": "https://img1.doubanio.com\/lpic\/s23009078.jpg",
+		"medium": "https://img1.doubanio.com\/mpic\/s23009078.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/19995865\/",
+	"id": "19995865",
+	"publisher": "湖南文艺出版社",
+	"isbn10": "7540457902",
+	"isbn13": "9787540457907",
+	"title": "原来你也在这里",
+	"url": "http:\/\/api.douban.com\/v2\/book\/19995865",
+	"alt_title": "",
+	"author_intro": "罗宾德拉纳特•泰戈尔（Rabindranath Tagore，1861-1941），印度诗人、哲学家和印度民族主义者，1913年获得诺贝尔文学奖，是第一位获得诺贝尔文学奖的亚洲人。泰戈尔的诗在印度享有史诗的地位。代表作有《吉檀迦利》《新月集》《园丁集》《飞鸟集》等。",
+	"summary": "《原来你也在这里》讲述在无涯的时间荒野中，与泰戈尔最美的100首诗的相遇。精选来自《飞鸟集》《新月集》《吉檀迦利》《园丁集》《采果集》的传世经典，由名家冰心、郑振铎完美演绎。",
+	"ebook_price": "6.00",
+	"price": "28.00元"
 }

@@ -1,5 +1,85 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787532751457"
+	"rating": {
+		"max": 10,
+		"numRaters": 3856,
+		"average": "9.3",
+		"min": 0
+	},
+	"subtitle": "动物农场",
+	"author": [
+		"[英]乔治·奥威尔"
+	],
+	"pubdate": "2010.9",
+	"tags": [
+		{
+			"count": 1059,
+			"name": "乔治·奥威尔",
+			"title": "乔治·奥威尔"
+		},
+		{
+			"count": 573,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 550,
+			"name": "反乌托邦",
+			"title": "反乌托邦"
+		},
+		{
+			"count": 475,
+			"name": "政治",
+			"title": "政治"
+		},
+		{
+			"count": 463,
+			"name": "英国",
+			"title": "英国"
+		},
+		{
+			"count": 325,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 249,
+			"name": "英国文学",
+			"title": "英国文学"
+		},
+		{
+			"count": 158,
+			"name": "文学",
+			"title": "文学"
+		}
+	],
+	"origin_title": "Animal Farm",
+	"image": "https://img3.doubanio.com\/mpic\/s4468486.jpg",
+	"binding": "精装",
+	"translator": [
+		"荣如德"
+	],
+	"catalog": "",
+	"ebook_url": "https:\/\/read.douban.com\/ebook\/13428753\/",
+	"pages": "143",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s4468486.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s4468486.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s4468486.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/4908879\/",
+	"id": "4908879",
+	"publisher": "上海译文出版社",
+	"isbn10": "7532751457",
+	"isbn13": "9787532751457",
+	"title": "动物农场",
+	"url": "https:\/\/api.douban.com\/v2\/book\/4908879",
+	"alt_title": "Animal Farm",
+	"author_intro": "乔治·奥威尔（1903-1950），英国伟大的人道主义作家、新闻记者和社会评论家，著名的英语文体家。",
+	"summary": "《动物农场》是奥威尔最优秀的作品之一，是一则入木三分的反乌托的政治讽喻寓言。农场的一群动物成功地进行了一场“革命”，将压榨他们的人类东家赶出农场，建立起一个平等的动物社会。然而，动物领袖，那些聪明的猪们最终却篡夺了革命的果实，成为比人类东家更加独裁和极权的统治者。“多一个人看奥威尔，就多了一分自由的保障，”有论家如是说。",
+	"ebook_price": "9.99",
+	"series": {
+		"id": "1831",
+		"title": "译文经典（精装本）"
+	},
+	"price": "22.00元"
 }

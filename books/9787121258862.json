@@ -1,5 +1,79 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787121258862"
+	"rating": {
+		"max": 10,
+		"numRaters": 1,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "Web开发者性能优化最佳实践",
+	"author": [
+		"Steve Souders"
+	],
+	"pubdate": "2015-5-1",
+	"tags": [
+		{
+			"count": 8,
+			"name": "Web开发",
+			"title": "Web开发"
+		},
+		{
+			"count": 5,
+			"name": "Web",
+			"title": "Web"
+		},
+		{
+			"count": 5,
+			"name": "前端开发",
+			"title": "前端开发"
+		},
+		{
+			"count": 4,
+			"name": "高性能",
+			"title": "高性能"
+		},
+		{
+			"count": 3,
+			"name": "计算机",
+			"title": "计算机"
+		},
+		{
+			"count": 2,
+			"name": "javascript",
+			"title": "javascript"
+		},
+		{
+			"count": 1,
+			"name": "网站优化",
+			"title": "网站优化"
+		},
+		{
+			"count": 1,
+			"name": "想读",
+			"title": "想读"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s28322076.jpg",
+	"binding": "平装",
+	"translator": [
+		"口碑网前端团队"
+	],
+	"catalog": "致谢\txiii\n前言\txv\n第1章  理解Ajax性能\t1\n权衡\t1\n优化原则\t2\nAjax\t4\n浏览器\t4\n哇！\t5\nJavaScript\t6\n总结\t6\n第2章  创建快速响应的Web应用\t7\n怎样才算足够快\t9\n测量延迟时间\t10\n当延迟变得很严重时\t12\n线程处理\t12\n确保响应速度\t13\nWeb Workers\t14\nGears\t14\n定时器\t16\n内存使用对响应时间的影响\t17\n虚拟内存\t18\n内存问题的疑难解答\t18\n总结\t19\n第3章  拆分初始化负载\t21\n全部加载\t21\n通过拆分来节省下载量\t22\n寻找拆分\t23\n未定义标识符和竞争状态\t24\n个案研究：Google日历\t25\n第4章  无阻塞加载脚本\t27\n脚本阻塞并行下载\t27\n让脚本运行得更好\t29\nXHR Eval\t29\nXHR注入\t31\nScript in Iframe\t31\nScript DOM Element\t32\nScript Defer\t33\ndocument.write Script Tag\t33\n浏览器忙指示器\t33\n确保（或避免）按顺序执行\t35\n汇总结果\t36\n最佳方案\t38\n第5章  整合异步脚本\t41\n代码示例：menu.js\t42\n竞争状态\t44\n异步加载脚本时保持执行顺序\t45\n技术1：硬编码回调\t46\n技术2：Window Onload\t47\n技术3：定时器\t48\n技术4：Script Onload\t49\n技术5：降级使用script标签\t50\n多个外部脚本\t52\nManaged XHR\t52\nDOM Element和Doc Write\t56\n综合解决方案\t59\n单个脚本\t59\n多个脚本\t60\n现实互联网中的异步加载\t63\nGoogle分析和Dojo\t63\nYUI Loader\t65\n第6章  布置行内脚本\t69\n行内脚本阻塞并行下载\t69\n把行内脚本移至底部\t70\n异步启动执行脚本\t71\n使用script的defer属性\t73\n保持CSS和JavaScript的执行顺序\t73\n风险：把行内脚本放置在样式表之后\t74\n大部分下载都不阻塞行内脚本\t74\n样式表阻塞行内脚本\t75\n问题确曾发生\t77\n第7章  编写高效的JavaScript\t79\n管理作用域\t79\n使用局部变量\t81\n增长作用域链\t83\n高效的数据存取\t85\n流控制\t88\n快速条件判断\t89\n快速循环\t93\n字符串优化\t99\n字符串连接\t99\n裁剪字符串\t100\n避免运行时间过长的脚本\t102\n使用定时器挂起\t103\n用于挂起的定时器模式\t105\n总结\t107\n第8章  可伸缩的Comet\t109\nComet工作原理\t109\n传输技术\t111\n轮询\t111\n长轮询\t112\n永久帧\t113\nXHR流\t115\n传输方式的前景\t116\n跨域\t116\n在应用程序上的执行效果\t118\n连接管理\t118\n测量性能\t119\n协议\t119\n总结\t120\n第9章  超越Gzip压缩\t121\n这为什么很重要\t121\n问题的根源\t123\n快速回顾\t123\n罪魁祸首\t123\n流行的乌龟窃听者实例\t124\n如何帮助这些用户\t124\n设计目标：最小化未压缩文件的尺寸\t125\n引导用户\t129\n对Gzip的支持进行直接探测\t130\n第10章  图像优化\t133\n两步实现简单图像优化\t134\n图像格式\t135\n背景\t135\n不同图像格式的特性\t137\nPNG的更多资料\t139\n自动无损图像优化\t141\n优化PNG格式的图像\t142\n剥离JPEG的元数据\t143\n将GIF转换成PNG\t144\n优化GIF动画\t144\nSmush.it\t145\n使用渐进JPEG格式来存储大图像\t145\nAlpha透明：避免使用AlphaImageLoader\t146\nAlpha透明度的效果\t147\nAlphaImageLoader\t149\nAlphaImageLoader的问题\t150\n渐进增强的PNG8 Alpha透明\t151\n优化Sprite\t153\n超级Sprite VS.模块化Sprite\t154\n高度优化的CSS Sprite\t155\n其他图像优化方法\t155\n避免对图像进行缩放\t155\n优化生成的图像\t156\nFavicons\t157\nApple触摸图标\t158\n总结\t159\n第11章  划分主域\t161\n关键路径\t161\n谁在划分主域\t163\n降级到HTTP\/1.0\t165\n域划分的扩展话题\t168\nIP地址和主机名\t168\n多少个域\t168\n如何划分资源\t168\n新型浏览器\t169\n第12章  尽早刷新文档的输出\t171\n刷新文档头部的输出\t171\n输出缓冲\t173\n块编码\t175\n刷新输出和Gzip压缩\t176\n其他障碍\t177\n刷新输出时的域阻塞\t178\n浏览器：最后的障碍\t178\n不借助PHP进行刷新输出\t179\n刷新输出问题清单\t180\n第13章  少用iframe\t181\n开销最高的DOM元素\t181\niframe阻塞onload事件\t182\n使用iframe并行下载\t184\n脚本位于iframe之前\t184\n样式表位于iframe之前\t185\n样式表位于iframe之后\t186\n每个主机名的连接\t187\niframe中的连接共享\t187\n跨标签页和窗口的连接共享\t188\n总结使用iframe的开销\t190\n第14章  简化CSS选择符\t191\n选择符的类型\t191\nID选择符\t192\n类选择符\t193\n类型选择符\t193\n相邻兄弟选择符\t193\n子选择符\t193\n后代选择符\t193\n通配选择符\t194\n属性选择符\t194\n伪类和伪元素\t194\n高效CSS选择符的关键\t194\n最右边优先\t195\n编写高效的CSS选择符\t195\nCSS选择符性能\t197\n复杂的选择符影响性能（有时）\t197\n应避免使用的CSS选择符\t200\n回流时间\t201\n在现实中测量CSS选择符\t202\n附录A  性能工具\t205\n索引\t221",
+	"pages": "256",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s28322076.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s28322076.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s28322076.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/26410870\/",
+	"id": "26410870",
+	"publisher": "电子工业出版社",
+	"isbn10": "7121258862",
+	"isbn13": "9787121258862",
+	"title": "高性能网站建设进阶指南：Web开发者性能优化最佳实践",
+	"url": "http:\/\/api.douban.com\/v2\/book\/26410870",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《高性能网站建设进阶指南：Web开发者性能优化最佳实践》是《高性能网站建设指南》姊妹篇。作者Steve Souders是前Google Web性能布道者和前Yahoo!首席性能工程师。在《高性能网站建设进阶指南：Web开发者性能优化最佳实践》中Souders与8位专家分享了提升网站性能的最佳实践和实用建议，主要包括：理解Ajax性能，编写高效的JavaScript，创建快速响应的应用程序和无阻塞加载脚本，跨域共享资源，无损压缩图片大小，使用块编码加快网页渲染,避免或取代iframe的方法，简化CSS选择符，以及其他技术。",
+	"price": "CNY 65.00"
 }

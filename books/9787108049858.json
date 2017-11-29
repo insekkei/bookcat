@@ -1,5 +1,81 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787108049858"
+	"rating": {
+		"max": 10,
+		"numRaters": 94,
+		"average": "8.8",
+		"min": 0
+	},
+	"subtitle": "老舍中短篇小说精选",
+	"author": [
+		"老舍"
+	],
+	"pubdate": "2014-6-1",
+	"tags": [
+		{
+			"count": 38,
+			"name": "老舍",
+			"title": "老舍"
+		},
+		{
+			"count": 15,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 12,
+			"name": "中国文学",
+			"title": "中国文学"
+		},
+		{
+			"count": 10,
+			"name": "中国现当代文学",
+			"title": "中国现当代文学"
+		},
+		{
+			"count": 8,
+			"name": "中国",
+			"title": "中国"
+		},
+		{
+			"count": 6,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 5,
+			"name": "中短篇小说",
+			"title": "中短篇小说"
+		},
+		{
+			"count": 5,
+			"name": "三联书店",
+			"title": "三联书店"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img1.doubanio.com\/mpic\/s27522927.jpg",
+	"binding": "精装",
+	"translator": [],
+	"catalog": "小铃儿\n微神\n黑白李\n月牙儿\n老字号\n邻居们\n断魂枪\n我这一辈子\n小人物自述(未完)\n正红旗下(未完)",
+	"pages": "384",
+	"images": {
+		"small": "https://img1.doubanio.com\/spic\/s27522927.jpg",
+		"large": "https://img1.doubanio.com\/lpic\/s27522927.jpg",
+		"medium": "https://img1.doubanio.com\/mpic\/s27522927.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/26037544\/",
+	"id": "26037544",
+	"publisher": "生活·读书·新知三联书店",
+	"isbn10": "7108049856",
+	"isbn13": "9787108049858",
+	"title": "我这一辈子",
+	"url": "https:\/\/api.douban.com\/v2\/book\/26037544",
+	"alt_title": "",
+	"author_intro": "老舍，中国小说家、剧作家。生于1899年，卒于1966年，满族，祖籍北京。原名舒庆春，字舍予。老舍是他最常用的笔名。老舍的主要作品有：长篇小说《骆驼祥子》《四世同堂》《小坡的生日》，剧本《龙须沟》《茶馆》，报告文学《无名高地有了名》，中篇小说《月牙儿》《我这一辈子》等。",
+	"summary": "《我这一辈子--老舍中短篇小说精选》独辟蹊径，与以往的老舍作品选不同，力求帮助读者更好地理解老舍作品的精髓，避免了重复出版，且选用的中短篇小说极具代表性，读者可以充分领略到作者对当时世界忧愤深广的讽刺与批判，温婉戏谑的幽默与自我解嘲，博大悲悯的人道主义情怀。",
+	"series": {
+		"id": "21036",
+		"title": "新版中学图书馆文库"
+	},
+	"price": "CNY 37.00"
 }

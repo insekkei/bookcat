@@ -1,5 +1,81 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787040209280"
+	"rating": {
+		"max": 10,
+		"numRaters": 137,
+		"average": "8.9",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"[美]西尔伯查茨(Silberschatz，A.)"
+	],
+	"pubdate": "2007-3",
+	"tags": [
+		{
+			"count": 118,
+			"name": "操作系统",
+			"title": "操作系统"
+		},
+		{
+			"count": 51,
+			"name": "计算机",
+			"title": "计算机"
+		},
+		{
+			"count": 44,
+			"name": "OS",
+			"title": "OS"
+		},
+		{
+			"count": 33,
+			"name": "操作系统概念",
+			"title": "操作系统概念"
+		},
+		{
+			"count": 28,
+			"name": "计算机科学",
+			"title": "计算机科学"
+		},
+		{
+			"count": 22,
+			"name": "教材",
+			"title": "教材"
+		},
+		{
+			"count": 17,
+			"name": "英文原版",
+			"title": "英文原版"
+		},
+		{
+			"count": 17,
+			"name": "恐龙书",
+			"title": "恐龙书"
+		}
+	],
+	"origin_title": "Operating System Concepts, Seventh Edition",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s26014820.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "PART ONE OVERVIEW\nChapter I Introduction\n1.1 What Operating Systems Do\n1.2 Computer-System Organization\n1.3 Comvuter-Svstem Architecture\n1.4 Operating-System Structure\n1.5 Operating-System Operations\n1.6 Process Management\n1.7 Memory Management\n1.8 Storage Management\n1.9 Protection and Security\n1.10 Distributed Systems\n1.11 Special-Purpose Systems\n1.12 Computing Environments\n1.13 Summary\nExercises\nBibliographical Notes\nChapter 2 Operating-System Structures\n2.1 Operating-System Services\n2.2 User Operating-System Interface\n2.3 System Calls\n2.4 Types of System Calls\n2.5 System Programs\n2.6 Operating-System Design and\nImplementation\n2.7 Operating-System Structure\n2.8 Virtual Machines\n2.9 Operating-System Generation\n2.10 System Boot\n2.11 Summary\nExercises\nBibliographical Notes\nPART TWO PROCESS MANAGEMENT\nChapter 3 Processes\n3.1 Process Concept\n3.2 Process Scheduling\n3.3 Operations on Processes\n3.4 Interprocess Communication\n3.5 Examples of IPC Systems\n3.6 Communication in Client-\nServer Svstems\n3.7 Summary\nExercises\nBibliographical Notes\nChapter 4 Threads\n4.1 Overview\n4.2 Multithreading Models\n4.3 Thread Libraries\n4.4 Threading Issues\n4.5 Operating-System Examples\n4.6 Summary\nExercises\nBibliographical Notes\nChapter 5 CPU Scheduling\n5.1 Basic Concepts\n5.2 Scheduling Criteria\n5.3 Scheduling Algorithms\n5.4 Multiple-Processor Scheduling\n5.5 Thread Scheduling\n5.6 Operating System Examples\n5.7 Algorithm Evaluation\n5.8 Summary\nExercises\nBibliographical Notes\nChapter 6 Process Synchronization\n6.1 Background\n6.2 The Critical-Section Problem\n6.3 Peterson's Solution\n6.4 Synchronization Hardware\n6.5 Semaphores\n6.6 Classic Problems of\nSynchronization\n6.7 Monitors\n6.8 Synchronization Examples\n6.9 Atomic Transactions\n6.10 Summary\nExercises\nBibliographical Notes\nChapter 7 Deadlocks\n7.1 System Model\n7.2 Deadlock Characterization\n7.3 Methods for Handling Deadlocks\n7.4 Deadlock Prevention\n7.5 Deadlock Avoidance\n7.6 Deadlock Detection\n7.7 Recovery From Deadlock\n7.8 Summary\nExercises\nBibliographical Notes\nPART THREE MEMORY MANAGEMENT\nChapter 8 Main Memory\nChapter 9 Virtual Memory\nPART FOUR STORAGE MANAGEMENT\nChapter 10 File-System Interface\nChapter 11 File-System Implementation\nChapter 12 Mass-Storage Structure\nChapter 13 I\/O Systems\nPART FIVE PROTECTION AND SECURITY\nChapter 14 Protection\nChapter 15 Security\nPART SIX DISTRIBUTED SYSTEMS\nChapter 16 Distributed System Structures\nChapter 17 Distributed File Systems\nChapter 18. Distributed Coordination\nPART SEVEN SPECIAL-PURPOSE SYSTEMS\nChapter 19 Real-Time Systems\nChapter 20 Multimedia Systems\nPART EIGHT CASE STUDIES\nChapter 21 The Linux System\nChapter 22 Windows XP\nChapter 23 Influential Operating Systems\nAppendix A UNIX BSD (contents online)\nAppendix B The Mach System (contents online)\nAppendix C Windows 2000 (contents online)",
+	"pages": "921",
+	"images": {
+		"small": "https:\/\/img3.doubanio.com\/spic\/s26014820.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s26014820.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s26014820.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/2109679\/",
+	"id": "2109679",
+	"publisher": "高等教育",
+	"isbn10": "7040209284",
+	"isbn13": "9787040209280",
+	"title": "操作系统概念",
+	"url": "http:\/\/api.douban.com\/v2\/book\/2109679",
+	"alt_title": "Operating System Concepts, Seventh Edition",
+	"author_intro": "",
+	"summary": "操作系统概念（第7版 影印版），ISBN：9787040209280，作者：（美）西尔伯查茨 高尔文 加根",
+	"series": {
+		"id": "23766",
+		"title": "国外优秀信息科学与技术系列教学用书"
+	},
+	"price": "72.00元"
 }

@@ -1,5 +1,82 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787108030429"
+	"rating": {
+		"max": 10,
+		"numRaters": 1028,
+		"average": "9.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"夏丏尊",
+		"叶圣陶"
+	],
+	"pubdate": "2008年",
+	"tags": [
+		{
+			"count": 483,
+			"name": "语文",
+			"title": "语文"
+		},
+		{
+			"count": 472,
+			"name": "写作",
+			"title": "写作"
+		},
+		{
+			"count": 451,
+			"name": "教育",
+			"title": "教育"
+		},
+		{
+			"count": 375,
+			"name": "叶圣陶",
+			"title": "叶圣陶"
+		},
+		{
+			"count": 312,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 288,
+			"name": "夏丐尊",
+			"title": "夏丐尊"
+		},
+		{
+			"count": 175,
+			"name": "经典",
+			"title": "经典"
+		},
+		{
+			"count": 166,
+			"name": "文化",
+			"title": "文化"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s3673012.jpg",
+	"binding": "精装",
+	"translator": [],
+	"catalog": "序一 陈望道\n序二 朱自清\n一 “忽然做了大人与古人了”\n二 方块字\n三 题目与内容\n四 一封信\n五 小小的书柜\n六 知与情与意\n七 日记\n八 诗\n九 “文章病院”\n十 印象\n十一 词的认识\n十二 戏剧\n十三 触发\n十四 书声\n十五 读古书的小风波\n十六 现代的习字\n十七 语汇与语感\n十八 左右逢源\n十九 “还想读不用文字写的书”\n二十 小说与叙事文\n二十一 语调\n二十二 两首《菩萨蛮》\n二十三 新体诗\n二十四 推敲\n二十五 读书笔记\n二十六 修辞一席话\n二十七 《文章的组织》\n二十八 关于文学史\n二十九 习作创作与应用\n三十 鉴赏座谈会\n三十一 风格的研究\n三十二 最后一课\n附录 重印后记 叶至善",
+	"pages": "331",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s3673012.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s3673012.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s3673012.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/3284547\/",
+	"id": "3284547",
+	"publisher": "三联书店",
+	"isbn10": "710803042X",
+	"isbn13": "9787108030429",
+	"title": "文心",
+	"url": "https:\/\/api.douban.com\/v2\/book\/3284547",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "这是一本专讲读和写的书，设定的拟想读者是中学生，也包括教学环节另一端的中学教师，最初登载于《中学生杂志》，1934年开明书店出版单行本，曾多次重印。\n全书以故事经营，具有戏剧性和情景教学的优点，在囊括“关于国文的全部知识”（陈望道序语）的同时，也展示了上世纪30年代前期的历史氛围，书中讨论的语文教学上的问题今天重看依然具有现实意义。（据“写在前面”整理）",
+	"series": {
+		"id": "571",
+		"title": "中学图书馆文库"
+	},
+	"price": "29.00元"
 }

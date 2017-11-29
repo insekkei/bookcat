@@ -1,5 +1,83 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787115172013"
+	"rating": {
+		"max": 10,
+		"numRaters": 942,
+		"average": "9.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"Kenneth A.Reek"
+	],
+	"pubdate": "2008 年4月",
+	"tags": [
+		{
+			"count": 622,
+			"name": "C",
+			"title": "C"
+		},
+		{
+			"count": 506,
+			"name": "C语言",
+			"title": "C语言"
+		},
+		{
+			"count": 352,
+			"name": "编程",
+			"title": "编程"
+		},
+		{
+			"count": 291,
+			"name": "指针",
+			"title": "指针"
+		},
+		{
+			"count": 209,
+			"name": "计算机",
+			"title": "计算机"
+		},
+		{
+			"count": 208,
+			"name": "程序设计",
+			"title": "程序设计"
+		},
+		{
+			"count": 142,
+			"name": "C\/C++",
+			"title": "C\/C++"
+		},
+		{
+			"count": 115,
+			"name": "Programming",
+			"title": "Programming"
+		}
+	],
+	"origin_title": "Pointers on C",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s2996168.jpg",
+	"binding": "平装",
+	"translator": [
+		"徐波"
+	],
+	"catalog": "第1章 快速上手\n1.1 简介\n1.1.1 空白和注释\n1.1.2 预处理指令\n1.1.3 main函数\n1.1.4 read_column_numbers函数\n1.1.5 rearrange函数\n1.2 补充说明\n1.3 编译\n1.4 总结\n1.5 警告的总结\n1.6 编程提示的总结\n1.7 问题\n1.8 编程练习\n第2章 基本概念\n2.1 环境\n2.1.1 翻译\n2.1.2 执行\n2.2 词法规则\n2.2.1 字符\n2.2.2 注释\n2.2.3 自由形式的源代码\n2.2.4 标识符\n2.2.5 程序的形式\n2.3 程序风格\n2.4 总结\n2.5 警告的总结\n2.6 编程提示的总结\n2.7 问题\n2.8 编程练习\n第3章 数据\n第4章 语句\n第5章 操作符和表达式\n第6章 指针\n第7章 函数\n第8章 数组\n第9章 字符串、字符和字节\n第10章 结构和联合\n第11章 动态内存分配\n第12章 使用结构和指针\n第13章 高级指针话题\n第14章 预处理器\n第15章 输入\/输出函数\n第16章 标准函数库\n第17章 经典抽象数据类型\n第18章 运行时环境\n附录 部分问题答案\n索引\n参考文献",
+	"pages": "448",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s2996168.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s2996168.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s2996168.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/3012360\/",
+	"id": "3012360",
+	"publisher": "人民邮电出版社",
+	"isbn10": "7115172013",
+	"isbn13": "9787115172013",
+	"title": "C和指针",
+	"url": "http:\/\/api.douban.com\/v2\/book\/3012360",
+	"alt_title": "Pointers on C",
+	"author_intro": "Kenneth·Reek是罗彻斯特理工大学计算机科学教授。他是一位经验丰富的C程序员，曾为多家公司担任过技术顾问。他讲授的课程有操作系统、数据通信、计算机网络、形式语言、算法分析和交换系统等。本书正是基于他9年的编程及教学的经验积累。",
+	"summary": "本书提供与C语言编程相关的全面资源和深入讨论。本书通过对指针的基础知识和高级特性的探讨，帮助程序员把指针的强大功能融入到自己的程序中去。\n全书共18章，覆盖了数据、语句、操作符和表达式、指针、函数、数组、字符串、结构和联合等几乎所有重要的C编程话题。书中给出了很多编程技巧和提示，每章后面有针对性很强的练习，附录部分则给出了部分练习的解答。\n本书适合C语言初学者和初级C程序员阅读，也可作为计算机专业学生学习C语言的参考。",
+	"series": {
+		"id": "9931",
+		"title": "C和C++经典著作"
+	},
+	"price": "65.00"
 }

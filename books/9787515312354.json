@@ -1,5 +1,77 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787515312354"
+	"rating": {
+		"max": 10,
+		"numRaters": 20,
+		"average": "8.6",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"林海音"
+	],
+	"pubdate": "2012-12",
+	"tags": [
+		{
+			"count": 7,
+			"name": "回忆",
+			"title": "回忆"
+		},
+		{
+			"count": 5,
+			"name": "林海音",
+			"title": "林海音"
+		},
+		{
+			"count": 4,
+			"name": "童年",
+			"title": "童年"
+		},
+		{
+			"count": 3,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 3,
+			"name": "随笔",
+			"title": "随笔"
+		},
+		{
+			"count": 1,
+			"name": "2014",
+			"title": "2014"
+		},
+		{
+			"count": 1,
+			"name": "北京",
+			"title": "北京"
+		},
+		{
+			"count": 1,
+			"name": "小说",
+			"title": "小说"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s24937491.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "",
+	"pages": "221",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s24937491.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s24937491.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s24937491.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/21326549\/",
+	"id": "21326549",
+	"publisher": "中国青年出版社",
+	"isbn10": "7515312351",
+	"isbn13": "9787515312354",
+	"title": "城南旧事",
+	"url": "https:\/\/api.douban.com\/v2\/book\/21326549",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《城南旧事》是林海音女士的成名作，自1960年出版以来，畅销不衰。全书透过英子童稚的双眼来展现大人世界的喜怒哀乐和悲欢离合。淡淡哀愁中的浓浓诗意，感染了一代又一代读者。照片版《城南旧事》，配有88幅珍贵的老北京照片。老照片中的北京大多已无处可寻，但跟林海音写的故事一起，留在了书中。“我是多么的想念童年住在北京城南的那些景色和人物啊！我对自己说，把它们写下来吧，让实际的童年过去，心灵的童年永存下来。”",
+	"price": "25.00元"
 }

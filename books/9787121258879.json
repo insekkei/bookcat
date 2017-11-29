@@ -1,5 +1,79 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787121258879"
+	"rating": {
+		"max": 10,
+		"numRaters": 3,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "前端工程师技能精髓",
+	"author": [
+		"Steve Souders"
+	],
+	"pubdate": "2015-5",
+	"tags": [
+		{
+			"count": 6,
+			"name": "Web开发",
+			"title": "Web开发"
+		},
+		{
+			"count": 5,
+			"name": "前端",
+			"title": "前端"
+		},
+		{
+			"count": 3,
+			"name": "计算机",
+			"title": "计算机"
+		},
+		{
+			"count": 2,
+			"name": "Web及编程",
+			"title": "Web及编程"
+		},
+		{
+			"count": 2,
+			"name": "软件开发",
+			"title": "软件开发"
+		},
+		{
+			"count": 1,
+			"name": "设计模式",
+			"title": "设计模式"
+		},
+		{
+			"count": 1,
+			"name": "服务器",
+			"title": "服务器"
+		},
+		{
+			"count": 1,
+			"name": "性能优化",
+			"title": "性能优化"
+		}
+	],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s28094013.jpg",
+	"binding": "平装",
+	"translator": [
+		"刘彦博"
+	],
+	"catalog": "推荐序\txiii\n前言\txv\n绪言A  前端性能的重要性\t1\n跟踪Web页面性能\t1\n时间花在哪儿了？\t3\n性能黄金法则\t4\n绪言B  HTTP概述\t6\n压缩\t7\n条件GET请求\t7\nExpires\t8\nKeep-Alive\t8\n更多信息\t9\n第1章  规则1——减少HTTP请求\t10\n图片地图\t10\nCSS Sprites\t11\n内联图片\t13\n合并脚本和样式表\t15\n小结\t16\n第2章  规则2——使用内容发布网络\t18\n内容发布网络\t19\n节省\t20\n第3章  规则3——添加Expires头\t22\nExpires头\t22\nMax-Age和mod_expires\t23\n空缓存VS完整缓存\t24\n不仅仅是图片\t25\n修订文件名\t27\n示例\t28\n第4章  规则4——压缩组件\t29\n压缩是如何工作的\t29\n压缩什么\t30\n节省\t31\n配置\t31\n代理缓存\t33\n边缘情形\t34\n压缩的实际效果\t35\n第5章  规则5——将样式表放在顶部\t37\n逐步呈现\t37\nsleep.cgi\t38\n白屏\t39\n无样式内容的闪烁\t43\n前端工程师应该做什么？\t43\n第6章  规则6——将脚本放在底部\t45\n脚本带来的问题\t45\n并行下载\t46\n脚本阻塞下载\t48\n最差情况：将脚本放在顶部\t49\n最佳情况：将脚本放在底部\t49\n正确地放置\t50\n第7章  规则7——避免CSS表达式\t51\n更新表达式\t52\n围绕问题展开工作\t52\n小结\t54\n第8章  规则8——使用外部JavaScript和CSS\t55\n内联VS外置\t55\n典型的对比结果\t58\n主页\t58\n两全其美\t59\n第9章  规则9——减少DNS查找\t63\nDNS缓存和TTL\t63\n浏览器的视角\t66\n减少DNS查找\t68\n第10章  规则10——精简JavaScript\t69\n精简\t69\n混淆\t70\n节省\t70\n示例\t72\n锦上添花\t73\n第11章  规则11——避免重定向\t76\n重定向的类型\t76\n重定向是如何损伤性能的\t77\n重定向之外的其他选择\t79\n第12章  规则12——删除重复脚本\t85\n重复脚本——确有其事\t85\n重复脚本损伤性能\t86\n避免重复脚本\t87\n第13章  规则13——配置ETag\t89\nETag是什么？\t89\nETag带来的问题\t91\nEtag——用还是不用\t93\n现实世界中的ETag\t94\n第14章  规则14——使Ajax可缓存\t96\nWeb 2.0、DHTML和Ajax\t96\n异步与即时\t98\n优化Ajax请求\t99\n现实世界中的Ajax缓存\t99\n第15章  析构十大网站\t103\n页面大小、响应时间、YSlow等级\t103\n如何进行测试\t105\nAmazon\t107\nAOL\t110\nCNN\t114\neBay\t116\nGoogle\t120\nMSN\t123\nMySpace\t127\nWikipedia\t130\nYahoo!\t132\nYouTube\t135\n索引\t139",
+	"pages": "172",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s28094013.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s28094013.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s28094013.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/26411563\/",
+	"id": "26411563",
+	"publisher": "电子工业出版社",
+	"isbn10": "7121258870",
+	"isbn13": "9787121258879",
+	"title": "高性能网站建设指南（第二版）",
+	"url": "http:\/\/api.douban.com\/v2\/book\/26411563",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《高性能网站建设指南：前端工程师技能精髓》结合Web 2.0以来Web开发领域的最新形势和特点，介绍了网站性能问题的现状、产生的原因，以及改善或解决性能问题的原则、技术技巧和最佳实践。重点关注网页的行为特征，阐释优化Ajax、CSS、JavaScript、Flash和图片处理等要素的技术，全面涵盖浏览器端性能问题的方方面面。在《高性能网站建设指南：前端工程师技能精髓》中，作者给出了14条具体的优化原则，每一条原则都配以范例佐证，并提供了在线支持。全书内容丰富，主要包括减少HTTP请求、Edge Computing技术、Expires Header技术、gzip组件、CSS和JavaScript最佳实践、主页内联、Domain最小化、JavaScript优化、避免重定向的技巧、删除重复JavaScript的技巧、关闭ETags的技巧、Ajax缓存技术和最小化技术等。\n《高性能网站建设指南：前端工程师技能精髓》适合Web架构师、信息架构师、Web开发人员及产品经理阅读和参考。",
+	"price": "55.00元"
 }

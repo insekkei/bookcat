@@ -1,5 +1,77 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787801487582"
+	"rating": {
+		"max": 10,
+		"numRaters": 679,
+		"average": "7.4",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"黄仁宇"
+	],
+	"pubdate": "2005-04",
+	"tags": [
+		{
+			"count": 336,
+			"name": "黄仁宇",
+			"title": "黄仁宇"
+		},
+		{
+			"count": 189,
+			"name": "历史小说",
+			"title": "历史小说"
+		},
+		{
+			"count": 162,
+			"name": "历史",
+			"title": "历史"
+		},
+		{
+			"count": 128,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 73,
+			"name": "宋朝",
+			"title": "宋朝"
+		},
+		{
+			"count": 52,
+			"name": "清明上河图",
+			"title": "清明上河图"
+		},
+		{
+			"count": 36,
+			"name": "中国",
+			"title": "中国"
+		},
+		{
+			"count": 34,
+			"name": "汴京残梦",
+			"title": "汴京残梦"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img5.doubanio.com\/mpic\/s1331336.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "",
+	"pages": "232",
+	"images": {
+		"small": "https://img5.doubanio.com\/spic\/s1331336.jpg",
+		"large": "https://img5.doubanio.com\/lpic\/s1331336.jpg",
+		"medium": "https://img5.doubanio.com\/mpic\/s1331336.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/1322214\/",
+	"id": "1322214",
+	"publisher": "新星出版社",
+	"isbn10": "7801487583",
+	"isbn13": "9787801487582",
+	"title": "汴京残梦",
+	"url": "https:\/\/api.douban.com\/v2\/book\/1322214",
+	"alt_title": "",
+	"author_intro": "黄仁宇1918年生于湖南长沙，2000年1月逝世于美国。美国密歇根大学历史系博士。主要著作有《十六世纪明代中国之财政与税收》、《万历十五年》、《放宽历史的视界》、《中国大历史》、《赫逊河畔谈中国历史》、《大历史不会萎缩》等。\n本书是作者在大陆出版的第一本历史小说，1997年在台湾联经出版事业公司出版，初版署名李尉昂。",
+	"summary": "本书是作者在大陆出版的第一本历史小说，初版署名李尉昂。小说描写北宋徽宗年间，一名参与绘制《清明上河图》的画官的故事，通过这个人物勾连出《清明上河图》的复杂绘制过程。而徽宗时代的人物如蔡京、童贯，史实如运送花石纲、党争遗风、靖康之难等，则纷纷取得相对位置，次第落座。\n\n历史小说家的叙事发明，便是在这些历史事件与时间错落的相对位置间，展开布局。在其中，我们也可窥见作者的“大历史”的小说观。",
+	"price": "18.00"
 }

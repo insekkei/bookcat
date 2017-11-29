@@ -1,5 +1,81 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787801093660"
+	"rating": {
+		"max": 10,
+		"numRaters": 25097,
+		"average": "8.4",
+		"min": 0
+	},
+	"subtitle": "大众心理研究",
+	"author": [
+		"(法)古斯塔夫.勒庞"
+	],
+	"pubdate": "1998-01",
+	"tags": [
+		{
+			"count": 11832,
+			"name": "心理学",
+			"title": "心理学"
+		},
+		{
+			"count": 9602,
+			"name": "社会心理学",
+			"title": "社会心理学"
+		},
+		{
+			"count": 5813,
+			"name": "群体心理学",
+			"title": "群体心理学"
+		},
+		{
+			"count": 4968,
+			"name": "乌合之众",
+			"title": "乌合之众"
+		},
+		{
+			"count": 3610,
+			"name": "社会学",
+			"title": "社会学"
+		},
+		{
+			"count": 2915,
+			"name": "大众心理",
+			"title": "大众心理"
+		},
+		{
+			"count": 1973,
+			"name": "心理",
+			"title": "心理"
+		},
+		{
+			"count": 1925,
+			"name": "社会",
+			"title": "社会"
+		}
+	],
+	"origin_title": "The Crowd: A Study of the Popular Mind",
+	"image": "https://img3.doubanio.com\/mpic\/s1988393.jpg",
+	"binding": "平装",
+	"translator": [
+		"冯克利"
+	],
+	"catalog": "民主直通独裁的心理机制\n勒庞《乌合之众》的得与失\n作者前言\n导言：群体的时代\n第一卷 群体心理\n1．群体的一般特征\n2．群体的感情和道德观\n3．群体的观念、推理与想像力\n4．群体信仰所采取的宗教形式\n第二卷 群体的意见与信念\n1．群体的意见和信念中的间接因素\n2．群体意见的直接因素\n3．群体领袖及其说服的手法\n4．群体的信息和意见的变化范围\n第三卷 不同群体的分类及其特点\n1．群体的分类\n2．被称为犯罪群体的群体\n3．刑事案件的陪审团\n4．选民群体\n5．议会\n译名对照表",
+	"ebook_url": "https:\/\/read.douban.com\/ebook\/11173912\/",
+	"pages": "183",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s1988393.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s1988393.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s1988393.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/1012611\/",
+	"id": "1012611",
+	"publisher": "中央编译出版社",
+	"isbn10": "7801093666",
+	"isbn13": "9787801093660",
+	"title": "乌合之众",
+	"url": "https:\/\/api.douban.com\/v2\/book\/1012611",
+	"alt_title": "The Crowd: A Study of the Popular Mind",
+	"author_intro": "古斯塔夫・勒庞 Gustave Le Bon(1841-1931) 法国著名社会心理学家。他自1894年始，写下一系列社会心理学著作，以本书最为著名，被 翻译成近二十种语言，至今仍在国际学术界有广泛影响。\n\n",
+	"summary": "古斯塔夫・勒庞 Gustave Le Bon(1841-1931) 法国著名社会心理学家。他自1894年始，写下一系列社会心理学著作，以本书最为著名；在社会心理学领域已有的著作中，最有影响的，也是这本并不很厚的《乌合之众》。古斯塔夫・勒庞在他在书中极为精致地描述了集体心态，对人们理解集体行为的作用以及对社会心理学的思考发挥了巨大影响。《乌合之众--大众心理研究》在西方已印至第29版，其观点新颖，语言生动，是群体行为的研究者不可不读的佳作。",
+	"ebook_price": "5.99",
+	"price": "16.00元"
 }

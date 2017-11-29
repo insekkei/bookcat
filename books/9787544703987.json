@@ -1,60 +1,59 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 11658,
+		"numRaters": 8783,
 		"average": "8.1",
 		"min": 0
 	},
 	"subtitle": "纪念版",
 	"author": [
-		"(美) 塞林格",
-		"J.D.Salinger"
+		"(美)J.D.塞林格"
 	],
 	"pubdate": "2010-4",
 	"tags": [
 		{
-			"count": 2433,
+			"count": 2149,
 			"name": "塞林格",
 			"title": "塞林格"
 		},
 		{
-			"count": 2400,
+			"count": 2003,
 			"name": "麦田里的守望者",
 			"title": "麦田里的守望者"
 		},
 		{
-			"count": 1863,
+			"count": 1593,
 			"name": "外国文学",
 			"title": "外国文学"
 		},
 		{
-			"count": 1617,
+			"count": 1285,
 			"name": "青春",
 			"title": "青春"
 		},
 		{
-			"count": 1529,
+			"count": 1240,
 			"name": "小说",
 			"title": "小说"
 		},
 		{
-			"count": 1264,
+			"count": 1012,
 			"name": "美国",
 			"title": "美国"
 		},
 		{
-			"count": 891,
+			"count": 709,
 			"name": "理想",
 			"title": "理想"
 		},
 		{
-			"count": 674,
+			"count": 487,
 			"name": "文学",
 			"title": "文学"
 		}
 	],
 	"origin_title": "The Catcher in the Rye",
-	"image": "https://img3.doubanio.com\/mpic\/s4400285.jpg",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s4400285.jpg",
 	"binding": "精装",
 	"translator": [
 		"施咸荣"
@@ -62,19 +61,23 @@
 	"catalog": "",
 	"pages": "231",
 	"images": {
-		"small": "https://img3.doubanio.com\/spic\/s4400285.jpg",
-		"large": "https://img3.doubanio.com\/lpic\/s4400285.jpg",
-		"medium": "https://img3.doubanio.com\/mpic\/s4400285.jpg"
+		"small": "https:\/\/img3.doubanio.com\/spic\/s4400285.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s4400285.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s4400285.jpg"
 	},
-	"alt": "https:\/\/book.douban.com\/subject\/4286204\/",
+	"alt": "http:\/\/book.douban.com\/subject\/4286204\/",
 	"id": "4286204",
 	"publisher": "译林出版社",
 	"isbn10": "7544703983",
 	"isbn13": "9787544703987",
 	"title": "麦田里的守望者",
-	"url": "https:\/\/api.douban.com\/v2\/book\/4286204",
+	"url": "http:\/\/api.douban.com\/v2\/book\/4286204",
 	"alt_title": "The Catcher in the Rye",
 	"author_intro": "作者塞林格全名杰罗姆·大卫·塞林格，一九一九年生于美国纽约城，父亲是做于酪和火腿进口生意的犹太商人，家境相当富裕。塞林格十五岁的时候，被父母送到宾夕法尼亚州一个军事学校里住读，据说《麦田里的守望者》中关于寄宿学校的描写，很大部分是以那所学校为背景的。一九三六年，塞林格在军事学校毕业，取得了他毕生唯一的一张文凭。 从一九四○年在《小说》杂志上发表他的头一个短篇小说起，到一九五一年出版他的长篇小说《麦田里的守望者》止，在十余年中他共发表了二十多个短篇，有些短篇还在《老爷》、《纽约人》等著名刊物上发表，从而使他在文学界有了一点点名气。成名后他隐居到乡下，特地为自己造了一个只有一扇天窗的水泥斗室作书房，每天早晨八点半就带了饭盒入内写作，直到下午五点半才出来，家里任何人都不准进去打扰他；如有要事，只能用电话联系。他写作的过程据说还十分艰苦，从《麦田里的守望者》出版后，他写作的进度越来越慢，十年只出版三个中篇和一个短篇，后来甚至不再发表作品。偶尔有幸见过他的人透露说，他脸上已“显出衰老的痕迹”。他业已完成的作品据说数量也很可观，只是他不肯拿出来发表。不少出版家都在打他的主意，甚至在计划如何等他死后去取得他全部著作的出版权，但至今除本书外，作者只出版过一个短篇集《九故事》（195）和两个中篇集《弗兰尼与卓埃》（1961）及《木匠们，把屋梁升高；西摩；一个介绍》（1963）。",
 	"summary": "《麦田里的守望者》的主人公，１６岁的中学生霍尔顿·考尔菲德是当代美国文学中最早出现的反英雄形象之一。霍尔顿出身在纽约一个富裕的中产阶级的家庭。学校里的老师和自己的家长强迫他好好读书，为的是“出人头地，而他看不惯周围的一切，根本没心思用功读书，因而老是挨罚。他的内心又十分苦闷、彷徨，这种精神上无法调和的极度矛盾最终令他彻底崩溃，躺倒在精神病院里。",
+	"series": {
+		"id": "13995",
+		"title": "译林纪念版"
+	},
 	"price": "25.00元"
 }

@@ -1,8 +1,8 @@
 {
 	"rating": {
 		"max": 10,
-		"numRaters": 15,
-		"average": "7.0",
+		"numRaters": 13,
+		"average": "7.4",
 		"min": 0
 	},
 	"subtitle": "",
@@ -23,18 +23,8 @@
 		},
 		{
 			"count": 1,
-			"name": "逻辑-哲学",
-			"title": "逻辑-哲学"
-		},
-		{
-			"count": 1,
-			"name": "思想",
-			"title": "思想"
-		},
-		{
-			"count": 1,
-			"name": "工具书",
-			"title": "工具书"
+			"name": "中国古典",
+			"title": "中国古典"
 		},
 		{
 			"count": 1,
@@ -43,28 +33,33 @@
 		},
 		{
 			"count": 1,
-			"name": "中国古典",
-			"title": "中国古典"
+			"name": "思想",
+			"title": "思想"
+		},
+		{
+			"count": 1,
+			"name": "逻辑-哲学",
+			"title": "逻辑-哲学"
 		}
 	],
 	"origin_title": "",
-	"image": "https://img3.doubanio.com\/mpic\/s5817950.jpg",
+	"image": "https:\/\/img3.doubanio.com\/mpic\/s5817950.jpg",
 	"binding": "",
 	"translator": [],
 	"catalog": "",
 	"pages": "416",
 	"images": {
-		"small": "https://img3.doubanio.com\/spic\/s5817950.jpg",
-		"large": "https://img3.doubanio.com\/lpic\/s5817950.jpg",
-		"medium": "https://img3.doubanio.com\/mpic\/s5817950.jpg"
+		"small": "https:\/\/img3.doubanio.com\/spic\/s5817950.jpg",
+		"large": "https:\/\/img3.doubanio.com\/lpic\/s5817950.jpg",
+		"medium": "https:\/\/img3.doubanio.com\/mpic\/s5817950.jpg"
 	},
-	"alt": "https:\/\/book.douban.com\/subject\/2110089\/",
+	"alt": "http:\/\/book.douban.com\/subject\/2110089\/",
 	"id": "2110089",
 	"publisher": "华夏出版社发行部",
 	"isbn10": "7508041453",
 	"isbn13": "9787508041452",
 	"title": "墨子解说",
-	"url": "https:\/\/api.douban.com\/v2\/book\/2110089",
+	"url": "http:\/\/api.douban.com\/v2\/book\/2110089",
 	"alt_title": "",
 	"author_intro": "",
 	"summary": "《墨子解说》的编写，以清人孙诒让的《墨子閒诂》为解说底本，同时还参考了王焕镳所著的《墨子校释》和吴龙辉等人的《墨子白话今译》。墨子的思想主要保存于《墨子》一书。《墨子》原有七十一篇，后世亡佚十八篇，其中有八篇可知其篇目，另外十篇的篇目已无从考证，今只存五十三篇。",

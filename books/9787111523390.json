@@ -1,5 +1,44 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787111523390"
+	"rating": {
+		"max": 10,
+		"numRaters": 6,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"华为Docker实践小组"
+	],
+	"pubdate": "2016-1-5",
+	"tags": [
+		{
+			"count": 4,
+			"name": "docker",
+			"title": "docker"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s28376435.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "序\n前　言\n第1章　Docker简介    1\n1.1　引言    1\n1.1.1　Docker的历史和发展    1\n1.1.2　Docker的架构介绍    2\n1.2　功能和组件    3\n1.2.1　Docker客户端    3\n1.2.2　Docker daemon    3\n1.2.3　Docker容器    3\n1.2.4　Docker镜像    4\n1.2.5　Registry    4\n1.3　安装和使用    5\n1.3.1　Docker的安装    5\n1.3.2　Docker的使用    6\n1.4　概念澄清    8\n1.4.1　Docker在LXC基础上做了什么工作    8\n1.4.2　Docker容器和虚拟机之间有什么不同    9\n1.5　本章小结    10\n第2章　关于容器技术    11\n2.1　容器技术的前世今生    11\n2.1.1　关于容器技术    11\n2.1.2　容器技术的历史    12\n2.2　一分钟理解容器    14\n2.2.1　容器的组成    14\n2.2.2　容器的创建原理    15\n2.3　Cgroup介绍    16\n2.3.1　Cgroup是什么    16\n2.3.2　Cgroup的接口和使用    17\n2.3.3　Cgroup子系统介绍    18\n2.4　Namespace介绍    20\n2.4.1　Namespace是什么    20\n2.4.2　Namespace的接口和使用    21\n2.4.3　各个Namespace介绍    22\n2.5　容器造就Docker    26\n2.6　本章小结    27\n第3章　理解Docker镜像    28\n3.1　Docker image概念介绍    28\n3.2　使用Docker image    29\n3.2.1　列出本机的镜像    29\n3.2.2　Build：创建一个镜像    31\n3.2.3　Ship：传输一个镜像    32\n3.2.4　Run：以image为模板启动一个容器    32\n3.3　Docker image的组织结构    33\n3.3.1　数据的内容    33\n3.3.2　数据的组织    35\n3.4　Docker image扩展知识    37\n3.4.1　联合挂载    37\n3.4.2　写时复制    37\n3.4.3　Git式管理    40\n3.5　本章小结    40\n第4章　仓库进阶    41\n4.1　什么是仓库    41\n4.1.1　仓库的组成    41\n4.1.2　仓库镜像    42\n4.2　再看Docker Hub    43\n4.2.1　Docker Hub的优点    43\n4.2.2　网页分布    44\n4.2.3　账户管理系统    46\n4.3　仓库服务    49\n4.3.1　Registry功能和架构    49\n4.3.2　Registry API    50\n4.3.3　Registry API传输过程分析    53\n4.3.4　鉴权机制    57\n4.4　部署私有仓库    61\n4.4.1　运行私有服务    61\n4.4.2　构建反向代理    61\n4.5　Index及仓库高级功能    64\n4.5.1　Index的作用和组成    64\n4.5.2　控制单元    65\n4.5.3　鉴权模块    66\n4.5.4　数据库    67\n4.5.5　高级功能    68\n4.5.6　Index客户端界面    69\n4.6　本章小结    69\n第5章　Docker网络    71\n5.1　Docker网络现状    71\n5.2　基本网络配置    73\n5.2.1　Docker网络初探    73\n5.2.2　Docker网络相关参数    80\n5.3　高级网络配置    85\n5.3.1　容器跨主机多子网方案    85\n5.3.2　容器跨主机多子网配置方法    86\n5.4　网络解决方案进阶    90\n5.4.1　Weave    90\n5.4.2　Flannel    91\n5.4.3　SocketPlane    94\n5.5　本章小结    98\n第6章　容器卷管理    99\n6.1　Docker卷管理基础    99\n6.1.1　增加新数据卷    99\n6.1.2　将主机目录挂载为数据卷    100\n6.1.3　创建数据卷容器    100\n6.1.4　数据卷的备份、转储和迁移    101\n6.1.5　Docker卷管理的问题    101\n6.2　使用卷插件    102\n6.2.1　卷插件简介    102\n6.2.2　卷插件的使用    102\n6.3　卷插件剖析    103\n6.3.1　卷插件工作原理    104\n6.3.2　卷插件API接口    105\n6.3.3　插件发现机制    105\n6.4　已有的卷插件    106\n6.5　本章小结    107\n第7章　Docker API    108\n7.1　关于 Docker API    108\n7.1.1　REST 简介    108\n7.1.2　Docker API 初探    109\n7.1.3　Docker API 种类    110\n7.2　RESTful API应用示例    110\n7.2.1　前期准备    111\n7.2.2　Docker API的基本示例    116\n7.3　API的高级应用    123\n7.3.1　场景概述    123\n7.3.2　场景实现    124\n7.4　本章小结    131\n第8章　Docker安全    132\n8.1　深入理解Docker的安全    132\n8.1.1　Docker的安全性    132\n8.1.2　Docker容器的安全性    132\n8.2　安全策略    133\n8.2.1　Cgroup    133\n8.2.2　ulimit    135\n8.2.3　容器组网    135\n8.2.4　容器+全虚拟化    136\n8.2.5　镜像签名    136\n8.2.6　日志审计    136\n8.2.7　监控    137\n8.2.8　文件系统级防护    137\n8.2.9　capability    137\n8.2.10　SELinux    138\n8.2.11　AppArmor    142\n8.2.12　Seccomp    144\n8.2.13　grsecurity    145\n8.2.14　几个与Docker安全相关的项目    146\n8.3　安全加固    146\n8.3.1　主机逃逸    147\n8.3.2　安全加固之capability    150\n8.3.3　安全加固之SELinux    151\n8.3.4　安全加固之AppArmor    152\n8.4　Docker安全遗留问题    153\n8.4.1　User Namespace    153\n8.4.2　非root运行Docker daemon    153\n8.4.3　Docker热升级    153\n8.4.4　磁盘限额    154\n8.4.5　网络I\/O    154\n8.5　本章小结    154\n第9章　Libcontainer简介    155\n9.1　引擎的引擎    155\n9.1.1　关于容器的引擎    155\n9.1.2　对引擎的理解    156\n9.2　Libcontainer的技术原理    157\n9.2.1　为容器创建新的命名空间    158\n9.2.2　为容器创建新的Cgroup    159\n9.2.3　创建一个新的容器    160\n9.2.4　Libcontainer的功能    164\n9.3　关于runC    166\n9.3.1　runC和Libcontainer的关系    166\n9.3.2　runC的工作原理    167\n9.3.3　runC的未来    168\n9.4　本章小结    169\n第10章　Docker实战    170\n10.1　Dockerfile简介    170\n10.1.1　一个简单的例子    171\n10.1.2　Dockerfile指令    171\n10.1.3　再谈Docker镜像制作    173\n10.2　基于Docker的Web应用和发布    174\n10.2.1　选择基础镜像    174\n10.2.2　制作HTTPS服务器镜像    175\n10.2.3　将Web源码导入Tomcat镜像中    178\n10.2.4　部署与验证    179\n10.3　为Web站点添加后台服务    180\n10.3.1　代码组织结构    180\n10.3.2　组件镜像制作过程    183\n10.3.3　整体部署服务    183\n10.4　本章小结    184\n第11章　Docker集群管理    185\n11.1　Compose    185\n11.1.1　Compose概述    185\n11.1.2　Compose配置简介    186\n11.2　Machine    187\n11.2.1　Machine概述    187\n11.2.2　Machine的基本概念及运行流程    188\n11.3　Swarm    188\n11.3.1　Swarm概述    188\n11.3.2　Swarm内部架构    189\n11. 4　Docker在OpenStack上的集群实战    190\n11.5　本章小结    196\n第12章　Docker生态圈    197\n12.1　Docker生态圈介绍    197\n12.2　重点项目介绍    198\n12.2.1　编排    198\n12.2.2　容器操作系统    203\n12.2.3　PaaS平台    206\n12.3　生态圈的未来发展    208\n12.3.1　Docker公司的发展和完善方向    208\n12.3.2　OCI组织    209\n12.3.3　生态圈格局的分化和发展    210\n12.4　本章小章    211\n第13章　Docker测试    212\n13.1　Docker自身测试    212\n13.1.1　Docker自身的测试框架    212\n13.1.2　运行Docker测试    213\n13.1.3　在容器中手动运行测试用例    215\n13.1.4　运行集成测试中单个或多个测试用例    215\n13.1.5　Docker测试用例集介绍    216\n13.1.6　Docker测试需要改进的方面    217\n13.1.7　构建和测试文档    217\n13.1.8　其他Docker测试套    218\n13.2　Docker技术在测试中的应用    220\n13.2.1　Docker对测试的革命性影响    221\n13.2.2　Docker技术适用范围    222\n13.2.3　Jenkins+Docker自动化环境配置    223\n13.3　本章小结    229\n第14章　参与Docker开发    230\n14.1　改进Docker    230\n14.1.1　报告问题    230\n14.1.2　提交补丁    231\n14.2　编译自己的Docker    235\n14.2.1　使用make工具编译    235\n14.2.2　手动启动容器编译    235\n14.2.3　编译动态链接的可执行文件    237\n14.2.4　跑测试用例及小结    237\n14.3　开源的沟通和交流    238\n14.3.1　Docker沟通和交流的途径    238\n14.3.2　开源沟通和交流的建议    238\n14.4　Docker项目的组织架构    239\n14.4.1　管理模型    239\n14.4.2　组织架构    240\n14.5　本章小章    242\n附录A　FAQ    243\n附录B　常用Dockerfile    247\n附录C　Docker信息获取渠道    250",
+	"ebook_url": "http:\/\/read.douban.com\/ebook\/17825949\/",
+	"pages": "264",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s28376435.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s28376435.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s28376435.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/26701218\/",
+	"id": "26701218",
+	"publisher": "机械工业出版社",
+	"isbn10": "7111523393",
+	"isbn13": "9787111523390",
+	"title": "Docker进阶与实战",
+	"url": "http:\/\/api.douban.com\/v2\/book\/26701218",
+	"alt_title": "",
+	"author_intro": "华为Docker实践小组，致力于容器技术探索，结合华为CT\/IT\/Mobile等应用场景，重点在容器引擎、仓库、网络和卷存储等多领域攻关；同时该团队遵循开源精神，将开发过程中的诸多价值特性同步贡献到Docker社区中，目前在Docker社区贡献中全球排名稳居前三，国内排名第一。",
+	"summary": "本书由一个真正钻研容器技术的团队写作，他们不仅仅是在使用Docker，更多的是在探索容器的未来之路，希望把“代码与产品，理论与实践”完美结合。本书内容从Docker的来源、镜像、仓库、安全、网络、卷存储，到生态、测试及社区贡献都有涉猎。无论你是入门级，还是已经有了较深的功底，这本书都会带你踏上新的台阶——正所谓“进阶”。",
+	"ebook_price": "25.00",
+	"price": "79.00元"
 }

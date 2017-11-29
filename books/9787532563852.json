@@ -1,5 +1,81 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787532563852"
+	"rating": {
+		"max": 10,
+		"numRaters": 69,
+		"average": "8.3",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"王仁裕"
+	],
+	"pubdate": "2012-8",
+	"tags": [
+		{
+			"count": 28,
+			"name": "笔记小说",
+			"title": "笔记小说"
+		},
+		{
+			"count": 14,
+			"name": "历代笔记小说大观",
+			"title": "历代笔记小说大观"
+		},
+		{
+			"count": 13,
+			"name": "古籍",
+			"title": "古籍"
+		},
+		{
+			"count": 12,
+			"name": "笔记",
+			"title": "笔记"
+		},
+		{
+			"count": 11,
+			"name": "历史",
+			"title": "历史"
+		},
+		{
+			"count": 9,
+			"name": "中国古典",
+			"title": "中国古典"
+		},
+		{
+			"count": 8,
+			"name": "王仁裕",
+			"title": "王仁裕"
+		},
+		{
+			"count": 6,
+			"name": "民俗",
+			"title": "民俗"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img1.doubanio.com\/mpic\/s21559889.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "",
+	"pages": "194",
+	"images": {
+		"small": "https://img1.doubanio.com\/spic\/s21559889.jpg",
+		"large": "https://img1.doubanio.com\/lpic\/s21559889.jpg",
+		"medium": "https://img1.doubanio.com\/mpic\/s21559889.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/11520895\/",
+	"id": "11520895",
+	"publisher": "上海古籍出版社",
+	"isbn10": "7532563855",
+	"isbn13": "9787532563852",
+	"title": "开元天宝遗事",
+	"url": "https:\/\/api.douban.com\/v2\/book\/11520895",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "本书收录《开元天宝遗事》、《明皇杂录》、《松窗杂录》、《开天传信记》、《本事诗》、《杜阳杂编》、《剧谈录》、《桂苑丛谈》共八种。",
+	"series": {
+		"id": "13686",
+		"title": "历代笔记小说大观"
+	},
+	"price": "18.00元"
 }

@@ -1,5 +1,42 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787101106862"
+	"rating": {
+		"max": 10,
+		"numRaters": 1,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "世说新语",
+	"author": [
+		"刘义庆"
+	],
+	"pubdate": "2015-3-1",
+	"tags": [],
+	"origin_title": "",
+	"image": "https:\/\/img1.doubanio.com\/mpic\/s28118618.jpg",
+	"binding": "平装",
+	"translator": [
+		"沈海波"
+	],
+	"catalog": "目录\n德行第一\n言语第二\n政事第三\n文学第四\n方正第五\n雅量第六\n识鉴第七\n赏誉第八\n品藻第九\n规箴第十\n捷悟第十一\n夙惠第十二\n豪爽第十三\n容止第十四\n自新第十五\n企羡第十六\n伤逝第十七\n栖隐第十八\n贤嫒第十九\n术解第二十\n巧艺第二十一\n宠礼第二十二\n任诞第二十三\n简傲第二十四\n排调第二十五\n轻诋第二十六\n假谲第二十七\n黜免第二十八\n俭啬第二十九\n汰侈第三十\n忿狷第三十一\n谗险第三十二\n尤悔第三十三\n纰漏第三十四\n惑溺第三十五\n仇隙第三十六",
+	"pages": "243",
+	"images": {
+		"small": "https:\/\/img1.doubanio.com\/spic\/s28118618.jpg",
+		"large": "https:\/\/img1.doubanio.com\/lpic\/s28118618.jpg",
+		"medium": "https:\/\/img1.doubanio.com\/mpic\/s28118618.jpg"
+	},
+	"alt": "http:\/\/book.douban.com\/subject\/26433872\/",
+	"id": "26433872",
+	"publisher": "中华书局",
+	"isbn10": "7101106862",
+	"isbn13": "9787101106862",
+	"title": "中华经典指掌文库",
+	"url": "http:\/\/api.douban.com\/v2\/book\/26433872",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《中华经典指掌文库:世说新语》是中国古代志人笔记的代表作，作者是刘宋临川王刘义庆。全书共36篇1130则，主要记载了东汉末年直至刘宋初年近三百年间的人物故事，内容包罗万象，涉及政治、经济、文学、思想、习俗、民生等诸多方面，保存了大量非常珍贵的历史资料。\n《中华经典指掌文库:世说新语》以文笔简洁明快、语言含蓄隽永著称于世，往往只言片语就可以鲜明地刻画出人物的形象和性格特征，鲁迅曾经评论其“记言则玄远冷峻，记行则高简瑰奇”。",
+	"series": {
+		"id": "30843",
+		"title": "中华经典指掌文库"
+	},
+	"price": "CNY 16.00"
 }

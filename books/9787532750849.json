@@ -1,5 +1,83 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787532750849"
+	"rating": {
+		"max": 10,
+		"numRaters": 302,
+		"average": "9.1",
+		"min": 0
+	},
+	"subtitle": "傲慢与偏见",
+	"author": [
+		"(英) 奥斯丁"
+	],
+	"pubdate": "2010-7-1",
+	"tags": [
+		{
+			"count": 86,
+			"name": "简·奥斯丁",
+			"title": "简·奥斯丁"
+		},
+		{
+			"count": 54,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 40,
+			"name": "英国文学",
+			"title": "英国文学"
+		},
+		{
+			"count": 36,
+			"name": "英国",
+			"title": "英国"
+		},
+		{
+			"count": 28,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 26,
+			"name": "傲慢与偏见",
+			"title": "傲慢与偏见"
+		},
+		{
+			"count": 25,
+			"name": "名著",
+			"title": "名著"
+		},
+		{
+			"count": 18,
+			"name": "文学",
+			"title": "文学"
+		}
+	],
+	"origin_title": "Pride and Prejudice",
+	"image": "https://img1.doubanio.com\/mpic\/s4428777.jpg",
+	"binding": "精装",
+	"translator": [
+		"王科一"
+	],
+	"catalog": "",
+	"pages": "435",
+	"images": {
+		"small": "https://img1.doubanio.com\/spic\/s4428777.jpg",
+		"large": "https://img1.doubanio.com\/lpic\/s4428777.jpg",
+		"medium": "https://img1.doubanio.com\/mpic\/s4428777.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/4850826\/",
+	"id": "4850826",
+	"publisher": "上海译文出版社",
+	"isbn10": "7532750841",
+	"isbn13": "9787532750849",
+	"title": "傲慢与偏见",
+	"url": "https:\/\/api.douban.com\/v2\/book\/4850826",
+	"alt_title": "Pride and Prejudice",
+	"author_intro": "",
+	"summary": "傲慢与偏见，ISBN：9787532750849，作者：（英）奥斯丁 著，王科 译",
+	"series": {
+		"id": "6156",
+		"title": "奥斯丁文集经典插图本（精装）"
+	},
+	"price": "33.00元"
 }

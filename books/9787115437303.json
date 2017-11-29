@@ -1,5 +1,77 @@
 {
-	"msg": "rate_limit_exceeded2: 111.203.244.2",
-	"code": 112,
-	"request": "GET \/v2\/book\/isbn\/9787115437303"
+	"rating": {
+		"max": 10,
+		"numRaters": 26,
+		"average": "7.8",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"陈屹"
+	],
+	"pubdate": "2016-11-1",
+	"tags": [
+		{
+			"count": 36,
+			"name": "React",
+			"title": "React"
+		},
+		{
+			"count": 20,
+			"name": "Web前端",
+			"title": "Web前端"
+		},
+		{
+			"count": 19,
+			"name": "JavaScript",
+			"title": "JavaScript"
+		},
+		{
+			"count": 6,
+			"name": "技术",
+			"title": "技术"
+		},
+		{
+			"count": 5,
+			"name": "javascript",
+			"title": "javascript"
+		},
+		{
+			"count": 4,
+			"name": "Web开发",
+			"title": "Web开发"
+		},
+		{
+			"count": 3,
+			"name": "编程",
+			"title": "编程"
+		},
+		{
+			"count": 1,
+			"name": "阅读年份:2016",
+			"title": "阅读年份:2016"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s29162154.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "",
+	"pages": "351",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s29162154.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s29162154.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s29162154.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/26918038\/",
+	"id": "26918038",
+	"publisher": "人民邮电出版社",
+	"isbn10": "7115437300",
+	"isbn13": "9787115437303",
+	"title": "深入react 技术栈",
+	"url": "https:\/\/api.douban.com\/v2\/book\/26918038",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "全面讲述React技术栈的第一本原创图书，pure render专栏主创倾力打造\n覆盖React、Flux、Redux及可视化，帮助开发者在实践中深入理解技术和源码\n前端组件化主流解决方案，一本书玩转React“全家桶”\n本书讲解了非常多的内容，不仅介绍了面向普通用户的API、应用架构和周边工具，还深入介绍了底层实现。此外，本书非常重视实战，每一节都有实际的例子，细节丰富。我从这本书里学到了很多东西，强烈推荐！\n——阮一峰，蚂蚁金服技术专家，国内技术圈知名博主，《ES 6标准入门（第2版）》作者\nReact从诞生起就颠覆了诸多传统前端开发的“铁律”，这种破旧立新开启了前端开发全新的时代。它的用法和理念，代表了现在和未来几年前端技术的潮流风向。如果不想落伍，最好进行系统学习。实践出真知，从牛人的实践中收获自己的真知，恐怕是最好的捷径。这是我看到的第一本React中文原创著作，读来倍感亲切。\n——张克军，豆瓣前端专家，国内技术圈知名博主，前端布道师\n本书内容翔实，一扫“文档说明书”之风，有大量作者的实战经验。由浅入深，无论你是 React 初学者，还是进阶人士，本书都值得一读！\n——寸志，陆金所前端架构师，《前端外刊评论》发起人\n本书从几个维度去介绍 React。一是作为 View 库，它怎么实现组件化，以及它背后的实现原理。二是扩展到 Flux 应用架构及重要的衍生品 Redux，它们怎么与 React 结合做应用开发。三是对 React 与 server 的碰撞产生的一些思考。四是讲述它在可视化方面的优势与劣势。\n本书适合有一定经验的前端开发人员阅读。\n陈屹\n前端架构师，就职于阿里巴巴。热衷开源事业，长年专注于前端架构、数据可视化、Node.js等领域，知乎专栏pure render的创办人。",
+	"price": "CNY 79.00"
 }
