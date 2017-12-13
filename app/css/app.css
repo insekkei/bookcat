@@ -95,11 +95,6 @@ h1 span:after {
 .book-listing .img img {
     width: 70%;
     margin: 10px auto;
-    filter: sepia(.4);
-    -webkit-filter: sepia(.4);
-    -moz-filter: sepia(.4);
-    -o-filter: sepia(.4);
-    -ms-filter: sepia(.4);
     transition: all .1s linear;
     -webkit-transition: all .1s linear;
     -moz-transition: all .1s linear;
@@ -107,11 +102,6 @@ h1 span:after {
     -ms-transition: all .1s linear;
 }
 .book-listing:hover img {
-    filter: sepia(1);
-    -webkit-filter: sepia(1);
-    -moz-filter: sepia(1);
-    -o-filter: sepia(1);
-    -ms-filter: sepia(1);
 }
 .tools {
     position: fixed;
