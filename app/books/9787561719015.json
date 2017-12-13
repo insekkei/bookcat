@@ -1,0 +1,68 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 7,
+		"average": "0.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"陈 惇",
+		"刘建军"
+	],
+	"pubdate": "1999-09-01",
+	"tags": [
+		{
+			"count": 2,
+			"name": "汉语言文学",
+			"title": "汉语言文学"
+		},
+		{
+			"count": 2,
+			"name": "作品选",
+			"title": "作品选"
+		},
+		{
+			"count": 1,
+			"name": "自考",
+			"title": "自考"
+		},
+		{
+			"count": 1,
+			"name": "汉语言文学教材",
+			"title": "汉语言文学教材"
+		},
+		{
+			"count": 1,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 1,
+			"name": "中国",
+			"title": "中国"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s3499621.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "\n      ",
+	"pages": "684",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s3499621.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s3499621.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s3499621.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/1749415\/",
+	"id": "1749415",
+	"publisher": "华东师范大学出版社",
+	"isbn10": "7561719019",
+	"isbn13": "9787561719015",
+	"title": "外国文学作品选",
+	"url": "https:\/\/api.douban.com\/v2\/book\/1749415",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "《外国文学作品选(基础科段汉语言文学专业)》作为我国高等教育组成部分的自学考试，其职责就是在高等教育这个水平上倡导自学、鼓励自学、帮助自学、推动自学，为每一个自学者铺就成才之路。组织编写供读者学习的教材就是履行这个职责的重要环节。毫无疑问，这种教材应当适合自学，应当有利于学习者掌握、了解新知识、新信息，有利于学习者增强创新意识、培养实践能力、形成自学能力，也有利于学习者学以致用、解决实际工作中所遇到的问题。",
+	"price": "27.0"
+}

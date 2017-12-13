@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 4735,
+		"average": "8.8",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"[意] 伊塔洛·卡尔维诺"
+	],
+	"pubdate": "2012-4",
+	"tags": [
+		{
+			"count": 2132,
+			"name": "卡尔维诺",
+			"title": "卡尔维诺"
+		},
+		{
+			"count": 1081,
+			"name": "意大利",
+			"title": "意大利"
+		},
+		{
+			"count": 1034,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 672,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 621,
+			"name": "伊塔洛·卡尔维诺",
+			"title": "伊塔洛·卡尔维诺"
+		},
+		{
+			"count": 467,
+			"name": "意大利文学",
+			"title": "意大利文学"
+		},
+		{
+			"count": 345,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 133,
+			"name": "ItaloCalvino",
+			"title": "ItaloCalvino"
+		}
+	],
+	"origin_title": "Il Cavaliere Inesistente",
+	"image": "https://img3.doubanio.com\/mpic\/s8972083.jpg",
+	"binding": "精装",
+	"translator": [
+		"吴正仪"
+	],
+	"catalog": "",
+	"pages": "138",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s8972083.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s8972083.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s8972083.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/6789551\/",
+	"id": "6789551",
+	"publisher": "译林出版社",
+	"isbn10": "7544722791",
+	"isbn13": "9787544722797",
+	"title": "不存在的骑士",
+	"url": "https:\/\/api.douban.com\/v2\/book\/6789551",
+	"alt_title": "Il Cavaliere Inesistente",
+	"author_intro": "",
+	"summary": "《卡尔维诺经典:不存在的骑士》内容简介：是卡尔维诺“我们的祖先”三部曲之一。“我们的祖先”三部曲包括：《卡尔维诺经典:不存在的骑士》、《分成两半的子爵》、《树上的男爵》，这三个故事代表通向自由的三个阶段，关于人如何实现自我的经验：在《卡尔维诺经典:不存在的骑士》中争取生存，在《分成两半的子爵》中追求不受社会摧残的完整人生，在《树上的男爵》中有一条通向完整的道路——这是通过对个人的自我抉择矢志不移的努力而达到的非个人主义的完整。\n模范军人阿季卢尔福，存在于一具空空的盔甲之中，却是完美骑士的化身，唯有他使铠甲具有意义。当他名扬天下的业绩被挑战、被质疑、将被抹杀的时候，他的存在还能成立吗？",
+	"series": {
+		"id": "11463",
+		"title": "卡尔维诺经典"
+	},
+	"price": "22.00元"
+}
