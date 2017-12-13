@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 2831,
+		"average": "9.1",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"[丹麦] 安徒生"
+	],
+	"pubdate": "2006-8",
+	"tags": [
+		{
+			"count": 654,
+			"name": "童话",
+			"title": "童话"
+		},
+		{
+			"count": 482,
+			"name": "安徒生",
+			"title": "安徒生"
+		},
+		{
+			"count": 332,
+			"name": "丹麦",
+			"title": "丹麦"
+		},
+		{
+			"count": 260,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 138,
+			"name": "儿童文学",
+			"title": "儿童文学"
+		},
+		{
+			"count": 136,
+			"name": "经典",
+			"title": "经典"
+		},
+		{
+			"count": 104,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 91,
+			"name": "安徒生童话",
+			"title": "安徒生童话"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img1.doubanio.com\/mpic\/s1813697.jpg",
+	"binding": "平装",
+	"translator": [
+		"任溶溶"
+	],
+	"catalog": "打火盒\n小克劳斯和大克劳斯\n豌豆上的公主\n小伊达的花\n拇指姑娘\n调皮的孩子\n小人鱼\n皇帝的新装\n坚定的锡兵\n野天鹅\n天国花园\n猪倌\n天使\n夜莺\n丑小鸭",
+	"pages": "343",
+	"images": {
+		"small": "https://img1.doubanio.com\/spic\/s1813697.jpg",
+		"large": "https://img1.doubanio.com\/lpic\/s1813697.jpg",
+		"medium": "https://img1.doubanio.com\/mpic\/s1813697.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/1878265\/",
+	"id": "1878265",
+	"publisher": "上海译文出版社",
+	"isbn10": "7532739678",
+	"isbn13": "9787532739677",
+	"title": "安徒生童话",
+	"url": "https:\/\/api.douban.com\/v2\/book\/1878265",
+	"alt_title": "",
+	"author_intro": "安徒生全名汉斯·克里斯蒂安·安徒生（Hans Christian Andersen  1805-1875）生于奥登赛城，丹麦作家、诗人，被尊为现代童话之父、世界童话创始人。安徒生生前曾得到皇家的致敬，他的作品已经被译为150多种语言在全球陆续发行出版。他最著名的童话故事有《卖火柴的小女孩》《丑小鸭》《皇帝的新装》《拇指姑娘》等。他的童话故事还激发了大量电影，舞台剧，芭蕾舞剧以及电影动画的制作。",
+	"summary": "安徒生(1805—1875)，世界上最著名的童话作家之一。\n《安徒生童话》是他的毕生之作。《皇帝的新装》、《卖火柴的小女孩》、《丑小鸭》等，早已成为童话宝库中的璀璨明珠。他的作品真正可以让人从小读到老。要是你还没有品味过的话，那就先从这个选本读起吧，它收进了大家最爱读也最应该读的作品。",
+	"series": {
+		"id": "1018",
+		"title": "译文名著文库"
+	},
+	"price": "12.00元"
+}

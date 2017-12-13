@@ -1848,6 +1848,90 @@
 		"price": "68.0"
 	},
 	{
+		"id": "9787532739646",
+		"title": "格林童话",
+		"author": [
+			"格林兄弟"
+		],
+		"image": "https://img3.doubanio.com/mpic/s2227585.jpg",
+		"rating": "8.8",
+		"publisher": "上海译文出版社",
+		"pages": "338",
+		"price": "13.00元"
+	},
+	{
+		"id": "9787532739677",
+		"title": "安徒生童话",
+		"author": [
+			"[丹麦] 安徒生"
+		],
+		"image": "https://img1.doubanio.com/mpic/s1813697.jpg",
+		"rating": "9.1",
+		"publisher": "上海译文出版社",
+		"pages": "343",
+		"price": "12.00元"
+	},
+	{
+		"id": "9787532739684",
+		"title": "一千零一夜",
+		"author": [
+			"民间故事"
+		],
+		"image": "https://img1.doubanio.com/mpic/s11082207.jpg",
+		"rating": "8.6",
+		"publisher": "上海译文出版社",
+		"pages": "309",
+		"price": "11.00元"
+	},
+	{
+		"id": "9787532744343",
+		"title": "爱的饥渴",
+		"author": [
+			"[日] 三岛由纪夫"
+		],
+		"image": "https://img3.doubanio.com/mpic/s3511622.jpg",
+		"rating": "8.0",
+		"publisher": "上海译文出版社",
+		"pages": "172",
+		"price": "18.00"
+	},
+	{
+		"id": "9787532744398",
+		"title": "假面自白",
+		"author": [
+			"[日] 三岛由纪夫"
+		],
+		"image": "https://img3.doubanio.com/mpic/s3511611.jpg",
+		"rating": "8.4",
+		"publisher": "上海译文出版社",
+		"pages": "165",
+		"price": "18.00"
+	},
+	{
+		"id": "9787532744497",
+		"title": "潮骚",
+		"author": [
+			"（日）三岛由纪夫"
+		],
+		"image": "https://img1.doubanio.com/mpic/s3511607.jpg",
+		"rating": "8.2",
+		"publisher": "上海译文出版社",
+		"pages": "140",
+		"price": "15.00"
+	},
+	{
+		"id": "9787532744565",
+		"title": "金阁寺",
+		"author": [
+			"[日] 三岛由纪夫"
+		],
+		"image": "https://img3.doubanio.com/mpic/s3511590.jpg",
+		"rating": "8.6",
+		"publisher": "上海译文出版社",
+		"pages": "227",
+		"price": "24.00"
+	},
+	{
 		"id": "9787532749195",
 		"title": "十一种孤独",
 		"author": [
@@ -2678,6 +2762,42 @@
 		"price": "12.80元"
 	},
 	{
+		"id": "9787544722346",
+		"title": "分成两半的子爵",
+		"author": [
+			"[意大利] 伊塔洛•卡尔维诺"
+		],
+		"image": "https://img3.doubanio.com/mpic/s8968734.jpg",
+		"rating": "8.7",
+		"publisher": "译林出版社",
+		"pages": "104",
+		"price": "20.00元"
+	},
+	{
+		"id": "9787544722797",
+		"title": "不存在的骑士",
+		"author": [
+			"[意] 伊塔洛·卡尔维诺"
+		],
+		"image": "https://img3.doubanio.com/mpic/s8972083.jpg",
+		"rating": "8.8",
+		"publisher": "译林出版社",
+		"pages": "138",
+		"price": "22.00元"
+	},
+	{
+		"id": "9787544722803",
+		"title": "树上的男爵",
+		"author": [
+			"(意)卡尔维诺"
+		],
+		"image": "https://img1.doubanio.com/mpic/s8972078.jpg",
+		"rating": "9.1",
+		"publisher": "译林出版社",
+		"pages": "280",
+		"price": "30.00元"
+	},
+	{
 		"id": "9787544741323",
 		"title": "物种起源",
 		"author": [
@@ -2904,6 +3024,19 @@
 		"publisher": "陕西师范大学出版社",
 		"pages": "221",
 		"price": "28.00元"
+	},
+	{
+		"id": "9787561719015",
+		"title": "外国文学作品选",
+		"author": [
+			"陈 惇",
+			"刘建军"
+		],
+		"image": "https://img3.doubanio.com/mpic/s3499621.jpg",
+		"rating": "0.0",
+		"publisher": "华东师范大学出版社",
+		"pages": "684",
+		"price": "27.0"
 	},
 	{
 		"id": "9787562463450",
