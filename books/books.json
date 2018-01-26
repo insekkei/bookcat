@@ -934,6 +934,18 @@
 		"price": "39.80元"
 	},
 	{
+		"id": "9787213079047",
+		"title": "新诗百年诗抄",
+		"author": [
+			"编者:谭五昌"
+		],
+		"image": "https://img1.doubanio.com/mpic/s29454647.jpg",
+		"rating": "0.0",
+		"publisher": "浙江人民",
+		"pages": "209",
+		"price": "36.0"
+	},
+	{
 		"id": "9787222068681",
 		"title": "世间最美的情郎",
 		"author": [
@@ -944,6 +956,18 @@
 		"publisher": "云南人民出版社",
 		"pages": "280",
 		"price": "32.80元"
+	},
+	{
+		"id": "9787229042066",
+		"title": "三体全集",
+		"author": [
+			"刘慈欣"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28357056.jpg",
+		"rating": "9.3",
+		"publisher": "重庆出版社",
+		"pages": "1285",
+		"price": "168.00元"
 	},
 	{
 		"id": "9787300150802",
@@ -2124,6 +2148,18 @@
 		"price": "46.00元"
 	},
 	{
+		"id": "9787532767373",
+		"title": "夏洛的网",
+		"author": [
+			"[美] E·B·怀特"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28332814.jpg",
+		"rating": "8.7",
+		"publisher": "上海译文出版社",
+		"pages": "176",
+		"price": "26.00元"
+	},
+	{
 		"id": "9787533866136",
 		"title": "婉约词",
 		"author": [
@@ -2462,6 +2498,18 @@
 		"price": "29.80元"
 	},
 	{
+		"id": "9787540476250",
+		"title": "苏东坡传",
+		"author": [
+			"林语堂"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28942595.jpg",
+		"rating": "8.4",
+		"publisher": "湖南文艺出版社",
+		"pages": "368",
+		"price": "28.00"
+	},
+	{
 		"id": "9787541138768",
 		"title": "瓦尔登湖",
 		"author": [
@@ -2569,6 +2617,18 @@
 		"price": "35"
 	},
 	{
+		"id": "9787543893986",
+		"title": "格林童话I",
+		"author": [
+			"[英]菲利普·普尔曼"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27081376.jpg",
+		"rating": "8.2",
+		"publisher": "浦睿文化·湖南人民出版社",
+		"pages": "328",
+		"price": "34.00元"
+	},
+	{
 		"id": "9787543894433",
 		"title": "所有人问所有人",
 		"author": [
@@ -2592,6 +2652,18 @@
 		"publisher": "湖南人民出版社",
 		"pages": "870",
 		"price": "CNY 99.00"
+	},
+	{
+		"id": "9787543896529",
+		"title": "格林童话II",
+		"author": [
+			"[英]菲利普·普尔曼"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27081381.jpg",
+		"rating": "8.4",
+		"publisher": "浦睿文化·湖南人民出版社",
+		"pages": "304",
+		"price": "34.00元"
 	},
 	{
 		"id": "9787544234412",
@@ -3460,6 +3532,18 @@
 		"publisher": "聯經",
 		"pages": "568",
 		"price": "NT390"
+	},
+	{
+		"id": "9789576219726",
+		"title": "我坐在琵卓河畔，哭泣",
+		"author": [
+			"保罗科尔赫"
+		],
+		"image": "https://img3.doubanio.com/mpic/s29283125.jpg",
+		"rating": "8.2",
+		"publisher": "天下文化",
+		"pages": "",
+		"price": "NT$ 220"
 	},
 	{
 		"id": "9789866562747",

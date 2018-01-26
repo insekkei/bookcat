@@ -1,0 +1,77 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 236,
+		"average": "8.2",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"保罗科尔赫"
+	],
+	"pubdate": "",
+	"tags": [
+		{
+			"count": 126,
+			"name": "我坐在琵卓河畔，哭泣",
+			"title": "我坐在琵卓河畔，哭泣"
+		},
+		{
+			"count": 47,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 41,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 40,
+			"name": "似水年华",
+			"title": "似水年华"
+		},
+		{
+			"count": 27,
+			"name": "巴西",
+			"title": "巴西"
+		},
+		{
+			"count": 25,
+			"name": "爱情",
+			"title": "爱情"
+		},
+		{
+			"count": 25,
+			"name": "拉美",
+			"title": "拉美"
+		},
+		{
+			"count": 18,
+			"name": "孤独",
+			"title": "孤独"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s29283125.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "",
+	"pages": "",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s29283125.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s29283125.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s29283125.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/1354738\/",
+	"id": "1354738",
+	"publisher": "天下文化",
+	"isbn10": "9576219728",
+	"isbn13": "9789576219726",
+	"title": "我坐在琵卓河畔，哭泣",
+	"url": "https:\/\/api.douban.com\/v2\/book\/1354738",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "小時一起長大的青梅竹馬，十二年後竟又再度相逢。重新找回的愛，背負多少心情？愛的價值與意義，經過歲月的洗禮，發生了什麼改變？本書刻劃男女追尋情愛的內心掙扎與轉折，傳遞神與愛的崇高力量及其神奇魔幻。我坐在琵卓河畔，哭泣。傳說，所有掉進這條河的東西，不管是落葉、蟲屍或鳥羽，都化成了石頭，累積成河床。假若我能把我的心撕成碎片，丟進湍急的流水之中，那麼，我的痛苦與渴望就能了結，而我，終能將一切遺忘。\n我坐在琵卓河畔，哭泣。冬天的空氣讓頰上的淚變得冷冽，冷冷的淚又滴進了眼前那詛咒我的冷冷的河裡。在某些我看不到、也不能感知的地方，這條河將匯入另一條河，然後，又再匯入另一條，直至流到大海。\n且讓我的淚流到那麼遠吧，這樣，我的愛人將永遠不會知道，曾有那麼一天，我為他而哭......\n",
+	"price": "NT$ 220"
+}
