@@ -1,0 +1,82 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 146,
+		"average": "8.3",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"人民教育出版社",
+		"光村图书出版株式会社"
+	],
+	"pubdate": "2012-7",
+	"tags": [
+		{
+			"count": 122,
+			"name": "日语",
+			"title": "日语"
+		},
+		{
+			"count": 64,
+			"name": "教材",
+			"title": "教材"
+		},
+		{
+			"count": 44,
+			"name": "日语学习",
+			"title": "日语学习"
+		},
+		{
+			"count": 39,
+			"name": "标日高级",
+			"title": "标日高级"
+		},
+		{
+			"count": 34,
+			"name": "日本",
+			"title": "日本"
+		},
+		{
+			"count": 26,
+			"name": "日本语",
+			"title": "日本语"
+		},
+		{
+			"count": 18,
+			"name": "日本語",
+			"title": "日本語"
+		},
+		{
+			"count": 18,
+			"name": "学习",
+			"title": "学习"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s27582486.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "",
+	"pages": "",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s27582486.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s27582486.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s27582486.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/11502402\/",
+	"id": "11502402",
+	"publisher": "人民教育出版社",
+	"isbn10": "710724356X",
+	"isbn13": "9787107243561",
+	"title": "新版中日交流标准日本语高级（上下册）",
+	"url": "https:\/\/api.douban.com\/v2\/book\/11502402",
+	"alt_title": "",
+	"author_intro": "",
+	"summary": "新版中日交流标准日本语高级（上下），ISBN：9787107243561，作者：",
+	"series": {
+		"id": "7667",
+		"title": "新版中日交流标准日本语"
+	},
+	"price": "58.00元"
+}

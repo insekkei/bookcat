@@ -254,6 +254,45 @@
 		"price": "CNY 16.00"
 	},
 	{
+		"id": "9787107185069",
+		"title": "中日交流标准日本语（新版初级上下册）",
+		"author": [
+			"人民教育出版社",
+			"光村图书出版株式会社 编"
+		],
+		"image": "https://img3.doubanio.com/mpic/s1765323.jpg",
+		"rating": "8.3",
+		"publisher": "人民教育出版社",
+		"pages": "387；390",
+		"price": "63.90元"
+	},
+	{
+		"id": "9787107208690",
+		"title": "新版中日交流标准日本语（中级上下）",
+		"author": [
+			"光村图书出版株式会社",
+			"人民教育出版社"
+		],
+		"image": "https://img1.doubanio.com/mpic/s3215579.jpg",
+		"rating": "7.9",
+		"publisher": "人民教育出版社",
+		"pages": "870",
+		"price": "68"
+	},
+	{
+		"id": "9787107243561",
+		"title": "新版中日交流标准日本语高级（上下册）",
+		"author": [
+			"人民教育出版社",
+			"光村图书出版株式会社"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27582486.jpg",
+		"rating": "8.3",
+		"publisher": "人民教育出版社",
+		"pages": "",
+		"price": "58.00元"
+	},
+	{
 		"id": "9787108010360",
 		"title": "中国大历史",
 		"author": [
@@ -534,6 +573,19 @@
 		"publisher": "机械工业出版社",
 		"pages": "486",
 		"price": "CNY 79.00"
+	},
+	{
+		"id": "9787111512233",
+		"title": "定位：争夺用户心智的战争（精装）",
+		"author": [
+			"艾·里斯（Al Ries",
+			"）［美］杰克·特劳特（Jack Trout）"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28379008.jpg",
+		"rating": "8.2",
+		"publisher": "机械工业出版社",
+		"pages": "336",
+		"price": "45.00"
 	},
 	{
 		"id": "9787111523390",
@@ -934,6 +986,30 @@
 		"price": "39.80元"
 	},
 	{
+		"id": "9787213079047",
+		"title": "新诗百年诗抄",
+		"author": [
+			"编者:谭五昌"
+		],
+		"image": "https://img1.doubanio.com/mpic/s29454647.jpg",
+		"rating": "0.0",
+		"publisher": "浙江人民",
+		"pages": "209",
+		"price": "36.0"
+	},
+	{
+		"id": "9787220099984",
+		"title": "没有回家的士兵",
+		"author": [
+			"孙春龙"
+		],
+		"image": "https://img1.doubanio.com/mpic/s29420867.jpg",
+		"rating": "9.3",
+		"publisher": "四川人民出版社",
+		"pages": "384",
+		"price": "46.00"
+	},
+	{
 		"id": "9787222068681",
 		"title": "世间最美的情郎",
 		"author": [
@@ -944,6 +1020,18 @@
 		"publisher": "云南人民出版社",
 		"pages": "280",
 		"price": "32.80元"
+	},
+	{
+		"id": "9787229042066",
+		"title": "三体全集",
+		"author": [
+			"刘慈欣"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28357056.jpg",
+		"rating": "9.3",
+		"publisher": "重庆出版社",
+		"pages": "1285",
+		"price": "168.00元"
 	},
 	{
 		"id": "9787300150802",
@@ -1266,6 +1354,18 @@
 		"publisher": "作家出版社",
 		"pages": "264",
 		"price": "24.00元"
+	},
+	{
+		"id": "9787506379236",
+		"title": "苦难辉煌（全新修订增补版）",
+		"author": [
+			"金一南"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28070177.jpg",
+		"rating": "8.4",
+		"publisher": "作家出版社",
+		"pages": "516",
+		"price": "58.00元"
 	},
 	{
 		"id": "9787506384209",
@@ -1737,6 +1837,18 @@
 		"price": "35.00元"
 	},
 	{
+		"id": "9787532161850",
+		"title": "失物之书",
+		"author": [
+			"〔爱尔兰〕约翰•康诺利"
+		],
+		"image": "https://img1.doubanio.com/mpic/s29148917.jpg",
+		"rating": "8.5",
+		"publisher": "上海文艺出版社",
+		"pages": "292",
+		"price": "48.00"
+	},
+	{
 		"id": "9787532535538",
 		"title": "红楼梦（全四册）",
 		"author": [
@@ -2124,6 +2236,18 @@
 		"price": "46.00元"
 	},
 	{
+		"id": "9787532767373",
+		"title": "夏洛的网",
+		"author": [
+			"[美] E·B·怀特"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28332814.jpg",
+		"rating": "8.7",
+		"publisher": "上海译文出版社",
+		"pages": "176",
+		"price": "26.00元"
+	},
+	{
 		"id": "9787533866136",
 		"title": "婉约词",
 		"author": [
@@ -2206,6 +2330,18 @@
 		"publisher": "花城出版社/铁葫芦图书",
 		"pages": "280",
 		"price": "34.80元"
+	},
+	{
+		"id": "9787536481077",
+		"title": "带上她的眼睛",
+		"author": [
+			"刘慈欣"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28383262.jpg",
+		"rating": "8.6",
+		"publisher": "四川科学技术出版社",
+		"pages": "",
+		"price": "34.00"
 	},
 	{
 		"id": "9787536481152",
@@ -2462,6 +2598,18 @@
 		"price": "29.80元"
 	},
 	{
+		"id": "9787540476250",
+		"title": "苏东坡传",
+		"author": [
+			"林语堂"
+		],
+		"image": "https://img3.doubanio.com/mpic/s28942595.jpg",
+		"rating": "8.4",
+		"publisher": "湖南文艺出版社",
+		"pages": "368",
+		"price": "28.00"
+	},
+	{
 		"id": "9787541138768",
 		"title": "瓦尔登湖",
 		"author": [
@@ -2569,6 +2717,18 @@
 		"price": "35"
 	},
 	{
+		"id": "9787543893986",
+		"title": "格林童话I",
+		"author": [
+			"[英]菲利普·普尔曼"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27081376.jpg",
+		"rating": "8.2",
+		"publisher": "浦睿文化·湖南人民出版社",
+		"pages": "328",
+		"price": "34.00元"
+	},
+	{
 		"id": "9787543894433",
 		"title": "所有人问所有人",
 		"author": [
@@ -2592,6 +2752,18 @@
 		"publisher": "湖南人民出版社",
 		"pages": "870",
 		"price": "CNY 99.00"
+	},
+	{
+		"id": "9787543896529",
+		"title": "格林童话II",
+		"author": [
+			"[英]菲利普·普尔曼"
+		],
+		"image": "https://img3.doubanio.com/mpic/s27081381.jpg",
+		"rating": "8.4",
+		"publisher": "浦睿文化·湖南人民出版社",
+		"pages": "304",
+		"price": "34.00元"
 	},
 	{
 		"id": "9787544234412",
@@ -3460,6 +3632,18 @@
 		"publisher": "聯經",
 		"pages": "568",
 		"price": "NT390"
+	},
+	{
+		"id": "9789576219726",
+		"title": "我坐在琵卓河畔，哭泣",
+		"author": [
+			"保罗科尔赫"
+		],
+		"image": "https://img3.doubanio.com/mpic/s29283125.jpg",
+		"rating": "8.2",
+		"publisher": "天下文化",
+		"pages": "",
+		"price": "NT$ 220"
 	},
 	{
 		"id": "9789866562747",
