@@ -1,0 +1,67 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 12,
+		"average": "9.5",
+		"min": 0
+	},
+	"subtitle": "老舍短篇小说精选",
+	"author": [
+		"老舍"
+	],
+	"pubdate": "2017-3",
+	"tags": [
+		{
+			"count": 1,
+			"name": "鸡",
+			"title": "鸡"
+		},
+		{
+			"count": 1,
+			"name": "近代",
+			"title": "近代"
+		},
+		{
+			"count": 1,
+			"name": "现代文学",
+			"title": "现代文学"
+		},
+		{
+			"count": 1,
+			"name": "文学名著",
+			"title": "文学名著"
+		},
+		{
+			"count": 1,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 1,
+			"name": "中国",
+			"title": "中国"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/mpic\/s29387654.jpg",
+	"binding": "平装",
+	"translator": [],
+	"catalog": "月牙儿\n微神\n阳光\n断魂枪\n老字号\n小铃儿\n歪毛儿\n兔\n也是三角\n上任\n柳家大院\n柳屯的\n“火”车\n黑白李\n马裤先生\n善人\n大悲寺外\n抱孙\n开市大吉\n不成问题的问题",
+	"pages": "298",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s29387654.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s29387654.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s29387654.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/26991824\/",
+	"id": "26991824",
+	"publisher": "作家出版社",
+	"isbn10": "7506392925",
+	"isbn13": "9787506392921",
+	"title": "月牙儿",
+	"url": "https:\/\/api.douban.com\/v2\/book\/26991824",
+	"alt_title": "",
+	"author_intro": "老舍，1899年出生，原名舒庆春，字舍予，满族，北京人。曾任中国文联副主席、中国作家协会副主席等职，获“人民艺术家”称号。1966年于北京去世。代表作有长篇小说《骆驼祥子》《四世同堂》《离婚》、中篇小说《我这一辈子》、短篇小说《月牙儿》《微神》《断魂枪》、剧本《茶馆》《龙须沟》等。",
+	"summary": "老舍短篇小说精选集，收录了老舍最为知名的《月牙儿》《魂断枪》等短篇小说，力求全面展现老舍京味小说的韵味。老舍的短篇小说语言俗白精致，雅俗共赏，字里行间无不闪现着他的幽默才华：把“想得深”的思想内容，用“说得俏”的语言表达出来，含蓄隽永，充满浓郁的幽默色彩。",
+	"price": "25"
+}

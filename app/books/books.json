@@ -938,6 +938,18 @@
 		"price": "32.00元"
 	},
 	{
+		"id": "9787201111421",
+		"title": "猫城记",
+		"author": [
+			"老舍"
+		],
+		"image": "https://img3.doubanio.com/mpic/s29264220.jpg",
+		"rating": "8.8",
+		"publisher": "天津人民出版社",
+		"pages": "200",
+		"price": "32.00元"
+	},
+	{
 		"id": "9787205065041",
 		"title": "废名卷",
 		"author": [
@@ -1378,6 +1390,18 @@
 		"publisher": "作家出版社",
 		"pages": "182",
 		"price": "22.00元"
+	},
+	{
+		"id": "9787506392921",
+		"title": "月牙儿",
+		"author": [
+			"老舍"
+		],
+		"image": "https://img3.doubanio.com/mpic/s29387654.jpg",
+		"rating": "9.5",
+		"publisher": "作家出版社",
+		"pages": "298",
+		"price": "25"
 	},
 	{
 		"id": "9787506460262",
@@ -2502,6 +2526,18 @@
 		"price": "CNY 35.00"
 	},
 	{
+		"id": "9787539980263",
+		"title": "故都的秋",
+		"author": [
+			"郁达夫"
+		],
+		"image": "https://img1.doubanio.com/mpic/s28046428.jpg",
+		"rating": "8.7",
+		"publisher": "江苏凤凰文艺出版社",
+		"pages": "238",
+		"price": "28.00元"
+	},
+	{
 		"id": "9787540214326",
 		"title": "古文观止",
 		"author": [
@@ -3112,6 +3148,18 @@
 		"publisher": "北京联合出版公司",
 		"pages": "350",
 		"price": "39.80"
+	},
+	{
+		"id": "9787550294578",
+		"title": "阅读是一座随身携带的避难所",
+		"author": [
+			"[英]毛姆"
+		],
+		"image": "https://img3.doubanio.com/mpic/s29593746.jpg",
+		"rating": "8.6",
+		"publisher": "北京联合出版公司",
+		"pages": "295",
+		"price": "42.00元"
 	},
 	{
 		"id": "9787551806336",
