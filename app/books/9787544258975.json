@@ -1,0 +1,83 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 70495,
+		"average": "9.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"[哥伦比亚] 加西亚·马尔克斯"
+	],
+	"pubdate": "2012-9-1",
+	"tags": [
+		{
+			"count": 18099,
+			"name": "加西亚-马尔克斯",
+			"title": "加西亚-马尔克斯"
+		},
+		{
+			"count": 15944,
+			"name": "霍乱时期的爱情",
+			"title": "霍乱时期的爱情"
+		},
+		{
+			"count": 11414,
+			"name": "小说",
+			"title": "小说"
+		},
+		{
+			"count": 10350,
+			"name": "爱情",
+			"title": "爱情"
+		},
+		{
+			"count": 9710,
+			"name": "拉美文学",
+			"title": "拉美文学"
+		},
+		{
+			"count": 9635,
+			"name": "加西亚·马尔克斯",
+			"title": "加西亚·马尔克斯"
+		},
+		{
+			"count": 8682,
+			"name": "外国文学",
+			"title": "外国文学"
+		},
+		{
+			"count": 5637,
+			"name": "文学",
+			"title": "文学"
+		}
+	],
+	"origin_title": "El amor en los tiempos del cólera",
+	"image": "https://img3.doubanio.com\/mpic\/s11284102.jpg",
+	"binding": "精装",
+	"translator": [
+		"杨玲"
+	],
+	"catalog": "",
+	"pages": "401",
+	"images": {
+		"small": "https://img3.doubanio.com\/spic\/s11284102.jpg",
+		"large": "https://img3.doubanio.com\/lpic\/s11284102.jpg",
+		"medium": "https://img3.doubanio.com\/mpic\/s11284102.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/10594787\/",
+	"id": "10594787",
+	"publisher": "南海出版公司",
+	"isbn10": "7544258971",
+	"isbn13": "9787544258975",
+	"title": "霍乱时期的爱情",
+	"url": "https:\/\/api.douban.com\/v2\/book\/10594787",
+	"alt_title": "El amor en los tiempos del cólera",
+	"author_intro": "加西亚•马尔克斯（Gabriel García Márquez）\n1927年出生于哥伦比亚马格达莱纳海滨小镇阿拉卡塔卡。童年与外祖父母一起生活。1936年随父母迁居苏克雷。1947年考入波哥大国立大学。1948年因内战辍学，进入报界。五十年代开始出版文学作品。六十年代初移居墨西哥。1967年《百年孤独》问世。1982年获诺贝尔文学奖。1985年出版《霍乱时期的爱情》。\n加西亚•马尔克斯豆瓣小站：http:\/\/site.douban.com\/marquez\/",
+	"summary": "★马尔克斯唯一正式授权，首次完整翻译\n★《霍乱时期的爱情》是我最好的作品，是我发自内心的创作。——加西亚•马尔克斯\n★这部光芒闪耀、令人心碎的作品是人类有史以来最伟大的爱情小说。——《纽约时报》\n《霍乱时期的爱情》是加西亚•马尔克斯获得诺贝尔文学奖之后完成的第一部小说。讲述了一段跨越半个多世纪的爱情史诗，穷尽了所有爱情的可能性：忠贞的、隐秘的、粗暴的、羞怯的、柏拉图式的、放荡的、转瞬即逝的、生死相依的……再现了时光的无情流逝，被誉为“人类有史以来最伟大的爱情小说”，是20世纪最重要的经典文学巨著之一。",
+	"series": {
+		"id": "10489",
+		"title": "新经典文库:加西亚·马尔克斯作品"
+	},
+	"price": "39.50元"
+}
