@@ -1082,6 +1082,18 @@
 		"price": "168.00元"
 	},
 	{
+		"id": "9787301215692",
+		"title": "中国哲学简史",
+		"author": [
+			"冯友兰"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s25679836.jpg",
+		"rating": "9.3",
+		"publisher": "北京大学出版社",
+		"pages": "340",
+		"price": "38.00元"
+	},
+	{
 		"id": "9787301251782",
 		"title": "异乡人",
 		"author": [
@@ -2176,6 +2188,18 @@
 		"price": "32.00"
 	},
 	{
+		"id": "9787532761371",
+		"title": "时代的精神状况",
+		"author": [
+			"[德] 卡尔·雅斯贝斯"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s26810122.jpg",
+		"rating": "9.3",
+		"publisher": "上海译文出版社",
+		"pages": "249",
+		"price": "CNY 30.00"
+	},
+	{
 		"id": "9787532761838",
 		"title": "西西弗神话",
 		"author": [
@@ -2210,6 +2234,18 @@
 		"publisher": "上海译文出版社",
 		"pages": "92",
 		"price": "23.00元"
+	},
+	{
+		"id": "9787532765393",
+		"title": "枪炮、病菌与钢铁",
+		"author": [
+			"贾雷德·戴蒙德"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s29560882.jpg",
+		"rating": "8.8",
+		"publisher": "上海译文出版社",
+		"pages": "493",
+		"price": "68.00"
 	},
 	{
 		"id": "9787532765539",
@@ -3307,6 +3343,18 @@
 		"price": "48.00元"
 	},
 	{
+		"id": "9787563320264",
+		"title": "素履之往",
+		"author": [
+			"木心"
+		],
+		"image": "https://img1.doubanio.com/view/subject/m/public/s4538408.jpg",
+		"rating": "8.5",
+		"publisher": "广西师范大学出版社",
+		"pages": "220",
+		"price": "26.00"
+	},
+	{
 		"id": "9787563377015",
 		"title": "春秋大义2",
 		"author": [
@@ -3365,6 +3413,18 @@
 		"publisher": "北京理工大学出版社",
 		"pages": "112",
 		"price": "98.00"
+	},
+	{
+		"id": "9787569377941",
+		"title": "云雀叫了一整天",
+		"author": [
+			"木心"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s25948080.jpg",
+		"rating": "8.6",
+		"publisher": "广西师大出版社",
+		"pages": "246",
+		"price": "30.00"
 	},
 	{
 		"id": "9787801035295",
