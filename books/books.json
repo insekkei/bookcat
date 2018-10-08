@@ -2622,6 +2622,18 @@
 		"price": "29.80元"
 	},
 	{
+		"id": "9787540448103",
+		"title": "朝花夕拾",
+		"author": [
+			"鲁迅"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s6307811.jpg",
+		"rating": "8.0",
+		"publisher": "湖南文艺出版社",
+		"pages": "304",
+		"price": "20.00元"
+	},
+	{
 		"id": "9787540449438",
 		"title": "悟空传",
 		"author": [
@@ -3160,6 +3172,19 @@
 		"publisher": "广西美术出版社",
 		"pages": "248",
 		"price": "89.00元"
+	},
+	{
+		"id": "9787549530649",
+		"title": "亲爱的安德烈",
+		"author": [
+			"龙应台",
+			"安德烈"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s26135683.jpg",
+		"rating": "8.9",
+		"publisher": "广西师范大学出版社",
+		"pages": "276",
+		"price": "29.80元"
 	},
 	{
 		"id": "9787549550166",
