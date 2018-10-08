@@ -1,0 +1,81 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 39,
+		"average": "8.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"鲁迅"
+	],
+	"pubdate": "2011-4",
+	"tags": [
+		{
+			"count": 14,
+			"name": "鲁迅",
+			"title": "鲁迅"
+		},
+		{
+			"count": 7,
+			"name": "经典",
+			"title": "经典"
+		},
+		{
+			"count": 7,
+			"name": "散文",
+			"title": "散文"
+		},
+		{
+			"count": 5,
+			"name": "文学",
+			"title": "文学"
+		},
+		{
+			"count": 4,
+			"name": "随笔",
+			"title": "随笔"
+		},
+		{
+			"count": 4,
+			"name": "必读",
+			"title": "必读"
+		},
+		{
+			"count": 3,
+			"name": "文字有代沟",
+			"title": "文字有代沟"
+		},
+		{
+			"count": 3,
+			"name": "小说",
+			"title": "小说"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s6307811.jpg",
+	"binding": "",
+	"translator": [],
+	"catalog": "朝花夕拾\n故事新编\n伤逝",
+	"pages": "304",
+	"images": {
+		"small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s6307811.jpg",
+		"large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s6307811.jpg",
+		"medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s6307811.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/6015603\/",
+	"id": "6015603",
+	"publisher": "湖南文艺出版社",
+	"isbn10": "7540448105",
+	"isbn13": "9787540448103",
+	"title": "朝花夕拾",
+	"url": "https:\/\/api.douban.com\/v2\/book\/6015603",
+	"alt_title": "",
+	"author_intro": "鲁迅(1881—1936)，文学家、思想家和革命家。原名周樟寿，字豫才，后改名树人，浙江绍兴人。1902年留学日本学医，后弃医从文。1918年，以“鲁迅”为笔名发表中国现代文学史上第一篇白话小说《狂人日记》，被誉为“中国现代文学之父”。代表作有《呐喊》《彷徨》《朝花夕拾》《华盖集》《南腔北调集》等。在翻译外国文学和整理中国古籍方面也成绩卓著。",
+	"summary": "《朝花夕拾(权威插图典藏版)》简介：《朝花夕拾》收集鲁迅1926年所作十篇回忆散文的结集《朝花夕拾》；1922年—1935年间创作的以远古神话和历史传说为题材的短篇小说集《故事新编》；1925年创作的唯一反映青年男女爱情的小说《伤逝》。精华在手，读者可陶然体味出精彩的大师意蕴。",
+	"series": {
+		"id": "22789",
+		"title": "博集典藏馆"
+	},
+	"price": "20.00元"
+}
