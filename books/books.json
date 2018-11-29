@@ -1140,6 +1140,18 @@
 		"price": "21.00元"
 	},
 	{
+		"id": "9787308161459",
+		"title": "丝绸之路",
+		"author": [
+			"[英] 彼得·弗兰科潘"
+		],
+		"image": "https://img1.doubanio.com/view/subject/m/public/s29017929.jpg",
+		"rating": "8.3",
+		"publisher": "浙江大学出版社",
+		"pages": "600",
+		"price": "128.00元"
+	},
+	{
 		"id": "9787309063660",
 		"title": "潜规则（修订版）",
 		"author": [
@@ -1496,6 +1508,18 @@
 		"publisher": "中信出版社",
 		"pages": "268",
 		"price": "39.80元"
+	},
+	{
+		"id": "9787508672069",
+		"title": "未来简史",
+		"author": [
+			"[以色列] 尤瓦尔·赫拉利"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s29287103.jpg",
+		"rating": "8.4",
+		"publisher": "中信出版社",
+		"pages": "416",
+		"price": "68"
 	},
 	{
 		"id": "9787509719923",
