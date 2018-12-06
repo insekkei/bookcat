@@ -2598,6 +2598,18 @@
 		"price": "CNY 32.00"
 	},
 	{
+		"id": "9787539964799",
+		"title": "机器人短篇全集",
+		"author": [
+			"[美] 艾萨克·阿西莫夫"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s27218675.jpg",
+		"rating": "9.1",
+		"publisher": "江苏文艺出版社",
+		"pages": "544",
+		"price": "46.00"
+	},
+	{
 		"id": "9787539971810",
 		"title": "岛上书店",
 		"author": [
@@ -2608,6 +2620,18 @@
 		"publisher": "江苏凤凰文艺出版社",
 		"pages": "271",
 		"price": "CNY 35.00"
+	},
+	{
+		"id": "9787539978529",
+		"title": "神们自己",
+		"author": [
+			"[美] 艾萨克·阿西莫夫"
+		],
+		"image": "https://img1.doubanio.com/view/subject/m/public/s27882508.jpg",
+		"rating": "8.4",
+		"publisher": "江苏凤凰文艺出版社",
+		"pages": "328",
+		"price": "39.00元"
 	},
 	{
 		"id": "9787539980263",
@@ -3211,6 +3235,19 @@
 		"price": "29.80元"
 	},
 	{
+		"id": "9787549530816",
+		"title": "文学回忆录（全2册）",
+		"author": [
+			"木心 讲述",
+			"陈丹青 笔录"
+		],
+		"image": "https://img1.doubanio.com/view/subject/m/public/s24611679.jpg",
+		"rating": "9.2",
+		"publisher": "广西师范大学出版社",
+		"pages": "1102",
+		"price": "98.00元"
+	},
+	{
 		"id": "9787549550166",
 		"title": "野火集",
 		"author": [
@@ -3233,6 +3270,18 @@
 		"publisher": "广西师范大学出版社",
 		"pages": "296",
 		"price": "43.00元"
+	},
+	{
+		"id": "9787549570270",
+		"title": "木心谈木心",
+		"author": [
+			"木心 讲述"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s28263604.jpg",
+		"rating": "8.0",
+		"publisher": "广西师范大学出版社",
+		"pages": "232",
+		"price": "39.00"
 	},
 	{
 		"id": "9787550227774",
@@ -3293,6 +3342,18 @@
 		"publisher": "三秦出版社",
 		"pages": "256",
 		"price": "29.00元"
+	},
+	{
+		"id": "9787559420046",
+		"title": "遥远的地球之歌",
+		"author": [
+			"[英] 阿瑟·克拉克"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s29839804.jpg",
+		"rating": "9.4",
+		"publisher": "江苏凤凰文艺出版社",
+		"pages": "368",
+		"price": "52.00元"
 	},
 	{
 		"id": "9787560022680",
