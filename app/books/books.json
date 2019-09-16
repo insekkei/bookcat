@@ -744,6 +744,18 @@
 		"price": "49.00元"
 	},
 	{
+		"id": "9787115355713",
+		"title": "正向思考力",
+		"author": [
+			"苏·哈德菲尔德 (Sue Hadfield)"
+		],
+		"image": "https://img1.doubanio.com/view/subject/m/public/s28714567.jpg",
+		"rating": "0.0",
+		"publisher": "人民邮电出版社",
+		"pages": "238",
+		"price": "CNY 35.00"
+	},
+	{
 		"id": "9787115364104",
 		"title": "认知与设计",
 		"author": [
@@ -912,6 +924,30 @@
 		"publisher": "北京出版社",
 		"pages": "383",
 		"price": "19.9"
+	},
+	{
+		"id": "9787200121384",
+		"title": "红楼小讲",
+		"author": [
+			"周汝昌"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s29214340.jpg",
+		"rating": "8.0",
+		"publisher": "北京出版社",
+		"pages": "328",
+		"price": "36.00元"
+	},
+	{
+		"id": "9787201087979",
+		"title": "一个1：很高兴见到你",
+		"author": [
+			"韩寒主编"
+		],
+		"image": "https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+		"rating": "0.0",
+		"publisher": "天津人民出版社",
+		"pages": "",
+		"price": "35元"
 	},
 	{
 		"id": "9787201094014",
@@ -1116,6 +1152,19 @@
 		"publisher": "清华大学出版社",
 		"pages": "308",
 		"price": "39.00元"
+	},
+	{
+		"id": "9787302340522",
+		"title": "Linux典藏大系",
+		"author": [
+			"弓雷",
+			"等"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s28976206.jpg",
+		"rating": "0.0",
+		"publisher": "清华大学出版社",
+		"pages": "466",
+		"price": "CNY 69.00"
 	},
 	{
 		"id": "9787303172375",
@@ -1428,6 +1477,18 @@
 		"price": "22.00元"
 	},
 	{
+		"id": "9787506390514",
+		"title": "陆犯焉识",
+		"author": [
+			"[美]严歌苓"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s29592002.jpg",
+		"rating": "9.3",
+		"publisher": "作家出版社",
+		"pages": "461",
+		"price": "33.0"
+	},
+	{
 		"id": "9787506392921",
 		"title": "月牙儿",
 		"author": [
@@ -1508,6 +1569,19 @@
 		"publisher": "中信出版社",
 		"pages": "268",
 		"price": "39.80元"
+	},
+	{
+		"id": "9787508649719",
+		"title": "从0到1",
+		"author": [
+			"彼得·蒂尔",
+			"布莱克·马斯特斯"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s28299265.jpg",
+		"rating": "7.6",
+		"publisher": "中信出版股份有限公司",
+		"pages": "260",
+		"price": "CNY 45.00"
 	},
 	{
 		"id": "9787508672069",
@@ -1788,6 +1862,16 @@
 		"price": "39.80元"
 	},
 	{
+		"id": "9787514911077",
+		"title": "汉代隶书间架结构九十二法字帖",
+		"author": null,
+		"image": "https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+		"rating": "0.0",
+		"publisher": "",
+		"pages": "",
+		"price": "6.40元"
+	},
+	{
 		"id": "9787515307428",
 		"title": "多余的话",
 		"author": [
@@ -1871,6 +1955,18 @@
 		"publisher": "北京十月文艺出版社",
 		"pages": "607",
 		"price": "CNY 49.80"
+	},
+	{
+		"id": "9787530460993",
+		"title": "我爱家常主食",
+		"author": [
+			"张静著"
+		],
+		"image": "https://img1.doubanio.com/view/subject/m/public/s31461028.jpg",
+		"rating": "0.0",
+		"publisher": "北京科学技术出版社",
+		"pages": "202",
+		"price": "29.8元"
 	},
 	{
 		"id": "9787530960134",
@@ -2200,6 +2296,18 @@
 		"price": "32.00元"
 	},
 	{
+		"id": "9787532753628",
+		"title": "八十天环游地球",
+		"author": [
+			"[法]儒勒·凡尔纳"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s6385953.jpg",
+		"rating": "8.0",
+		"publisher": "上海译文出版社",
+		"pages": "232",
+		"price": "15.00元"
+	},
+	{
 		"id": "9787532761258",
 		"title": "海",
 		"author": [
@@ -2390,6 +2498,18 @@
 		"publisher": "浙江文艺出版社",
 		"pages": "568",
 		"price": "45"
+	},
+	{
+		"id": "9787534598906",
+		"title": "念念不忘的面食(汉竹）",
+		"author": [
+			"刘哲菲　编著"
+		],
+		"image": "https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+		"rating": "0.0",
+		"publisher": "江苏科学技术出版社",
+		"pages": "",
+		"price": "35元"
 	},
 	{
 		"id": "9787535486752",
@@ -3102,6 +3222,18 @@
 		"price": "12.80元"
 	},
 	{
+		"id": "9787544717137",
+		"title": "菊与刀",
+		"author": [
+			"[美] 鲁思·本尼迪克特"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s6639071.jpg",
+		"rating": "8.2",
+		"publisher": "译林出版社",
+		"pages": "271",
+		"price": "22.00元"
+	},
+	{
 		"id": "9787544722346",
 		"title": "分成两半的子爵",
 		"author": [
@@ -3184,6 +3316,18 @@
 		"publisher": "同心出版社",
 		"pages": "272",
 		"price": "45.00元"
+	},
+	{
+		"id": "9787548024095",
+		"title": "篆隶教学·篆书用笔与汉隶意态",
+		"author": [
+			""
+		],
+		"image": "https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif",
+		"rating": "0.0",
+		"publisher": "江西美术出版社",
+		"pages": "",
+		"price": "28元"
 	},
 	{
 		"id": "9787549405282",
@@ -3342,6 +3486,18 @@
 		"publisher": "三秦出版社",
 		"pages": "256",
 		"price": "29.00元"
+	},
+	{
+		"id": "9787551814744",
+		"title": "镜花缘",
+		"author": [
+			"李汝珍"
+		],
+		"image": "https://img3.doubanio.com/view/subject/m/public/s29432155.jpg",
+		"rating": "8.0",
+		"publisher": "三秦出版社",
+		"pages": "575",
+		"price": "59.00元"
 	},
 	{
 		"id": "9787559420046",
