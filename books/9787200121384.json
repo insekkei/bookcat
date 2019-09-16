@@ -1,0 +1,81 @@
+{
+	"rating": {
+		"max": 10,
+		"numRaters": 58,
+		"average": "8.0",
+		"min": 0
+	},
+	"subtitle": "",
+	"author": [
+		"周汝昌"
+	],
+	"pubdate": "2016-7",
+	"tags": [
+		{
+			"count": 15,
+			"name": "红楼梦",
+			"title": "红楼梦"
+		},
+		{
+			"count": 11,
+			"name": "红学",
+			"title": "红学"
+		},
+		{
+			"count": 8,
+			"name": "周汝昌",
+			"title": "周汝昌"
+		},
+		{
+			"count": 5,
+			"name": "大家小书",
+			"title": "大家小书"
+		},
+		{
+			"count": 3,
+			"name": "中国@周汝昌",
+			"title": "中国@周汝昌"
+		},
+		{
+			"count": 2,
+			"name": "集",
+			"title": "集"
+		},
+		{
+			"count": 2,
+			"name": "评论",
+			"title": "评论"
+		},
+		{
+			"count": 2,
+			"name": "中国古典",
+			"title": "中国古典"
+		}
+	],
+	"origin_title": "",
+	"image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s29214340.jpg",
+	"binding": "精装",
+	"translator": [],
+	"catalog": "",
+	"pages": "328",
+	"images": {
+		"small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s29214340.jpg",
+		"large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s29214340.jpg",
+		"medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s29214340.jpg"
+	},
+	"alt": "https:\/\/book.douban.com\/subject\/26933930\/",
+	"id": "26933930",
+	"publisher": "北京出版社",
+	"isbn10": "720012138X",
+	"isbn13": "9787200121384",
+	"title": "红楼小讲",
+	"url": "https:\/\/api.douban.com\/v2\/book\/26933930",
+	"alt_title": "",
+	"author_intro": "周汝昌（1918-2012），字玉言，别署“解味道人”，天津人。曾评注校订过唐宋诗词、《三国演义》、《水浒传》、《红楼梦》等。1953年出版《红楼门新证》一书，其后又有《曹雪芹小传》、《红楼梦与中华文化》等十几部红学专著及《杨万里选集》、《范成大诗选》、《书法艺术答问》等著作，随笔集及自传文集有：《岁华晴影》、《脂雪轩笔语》、《北斗京华》、《天·地·人·我》。",
+	"summary": "《红楼小讲》是周汝昌为普通读者讲解《红楼梦》的二部作品。主体部分曾连载于报纸副刊，结集成书后，颇为各界读者喜爱。再版后，作者特为新版撰作小序，增写数篇讲《红》小文，并补入2000年在北京大学的演讲整理稿《（红楼梦）与中华文化》一文。全书深入浅出，对《红楼梦》的人物、故事及前呼后应、手挥目送的笔法等多方面内容进行了精当的解说点评，尤其是对《红楼梦》的主旨、精神，再三致意，是一部可以引领普通读者了解、体悟《红楼梦》真谛的入门读物。",
+	"series": {
+		"id": "631",
+		"title": "大家小书"
+	},
+	"price": "36.00元"
+}
